@@ -1,6 +1,8 @@
 modelling/ambiguity_training/data/*
 modelling/ambiguity_training/models/*
 modelling/ambiguity_training/traces/*
+modelling/ambiguity_training/wandb/*
 modelling/memorisation_training/data/*
 modelling/memorisation_training/models/*
 modelling/memorisation_training/traces/*
+modelling/memorisation_training/wandb/*
