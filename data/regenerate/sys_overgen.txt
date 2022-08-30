@@ -1,0 +1,715 @@
+copy ( echo ( reverse ( echo ( remove_second ( N13 L15 F5 Q6 B12 , T11 L2 ) ) ) ) )	B12 B12 Q6 F5 L15 N13 N13
+prepend ( Q14 E8 P10 B16 , shift ( echo ( E17 V16 M12 Z15 ) ) )	V16 M12 Z15 Z15 E17 Q14 E8 P10 B16
+append ( U19 P16 X4 P10 G15 , remove_second ( append ( V15 B18 , repeat ( E13 E13 ) ) , shift ( prepend ( copy ( reverse ( shift ( shift ( N5 O15 V11 O1 W4 ) ) ) ) , remove_first ( U12 V16 E14 D6 G13 , L15 B7 F6 ) ) ) ) )	U19 P16 X4 P10 G15 V15 B18 E13 E13 E13 E13
+copy ( append ( N16 C11 S11 , U9 T1 M8 ) )	N16 C11 S11 U9 T1 M8
+copy ( J8 X10 )	J8 X10
+remove_second ( W13 J14 I18 Z15 J15 , shift ( swap_first_last ( R10 C14 ) ) )	W13 J14 I18 Z15 J15
+swap_first_last ( shift ( remove_first ( E15 U10 P9 U4 N15 , copy ( remove_second ( swap_first_last ( O5 D8 S10 ) , append ( prepend ( F4 R1 , swap_first_last ( copy ( append ( swap_first_last ( I5 Q13 ) , swap_first_last ( shift ( S9 R10 N7 S18 B19 ) ) ) ) ) ) , echo ( prepend ( reverse ( V4 E6 G10 O10 ) , remove_first ( O4 Y12 , K9 D17 Q4 R8 ) ) ) ) ) ) ) ) )	S10 O5 D8
+append ( V8 I8 C2 V15 , L19 F18 G14 )	V8 I8 C2 V15 L19 F18 G14
+prepend ( prepend ( swap_first_last ( A10 A15 Z1 ) , C1 A10 L16 E7 ) , K15 W14 O16 )	K15 W14 O16 C1 A10 L16 E7 Z1 A15 A10
+prepend ( H14 L17 C5 O14 R13 , W14 K6 )	W14 K6 H14 L17 C5 O14 R13
+prepend ( C16 F19 E10 , remove_first ( M19 V13 M15 B14 , prepend ( repeat ( T16 E12 V17 M11 Z2 ) , remove_first ( copy ( O4 P12 R4 S20 U20 ) , echo ( S20 G11 ) ) ) ) )	S20 G11 G11 T16 E12 V17 M11 Z2 T16 E12 V17 M11 Z2 C16 F19 E10
+remove_first ( echo ( reverse ( prepend ( I16 O4 Y5 P18 , S2 X1 F11 ) ) ) , reverse ( copy ( S5 S15 Z20 ) ) )	Z20 S15 S5
+remove_first ( append ( copy ( shift ( D4 M13 P12 ) ) , shift ( O18 A7 K1 ) ) , swap_first_last ( I7 L14 D18 ) )	D18 L14 I7
+prepend ( prepend ( remove_second ( remove_first ( reverse ( echo ( K11 L15 H6 G17 ) ) , echo ( shift ( repeat ( W12 K2 ) ) ) ) , L3 Q4 ) , remove_first ( shift ( shift ( remove_first ( shift ( Y13 R7 ) , copy ( A20 J5 Q16 L12 ) ) ) ) , P14 Y20 V6 A13 ) ) , echo ( remove_second ( O9 N3 I17 Q11 H7 , swap_first_last ( U6 X1 H14 ) ) ) )	O9 N3 I17 Q11 H7 H7 P14 Y20 V6 A13 K2 W12 K2 W12 W12
+repeat ( remove_second ( Y16 Q16 I15 Z10 U8 , I10 T3 C13 S18 S2 ) )	Y16 Q16 I15 Z10 U8 Y16 Q16 I15 Z10 U8
+repeat ( copy ( prepend ( W13 C7 S13 , prepend ( Y10 A9 L20 D1 W15 , echo ( Q3 N9 ) ) ) ) )	Q3 N9 N9 Y10 A9 L20 D1 W15 W13 C7 S13 Q3 N9 N9 Y10 A9 L20 D1 W15 W13 C7 S13
+reverse ( L20 V18 X20 X9 )	X9 X20 V18 L20
+shift ( prepend ( remove_second ( reverse ( remove_second ( repeat ( append ( swap_first_last ( remove_second ( E20 T17 , J7 Y7 W20 B18 J19 ) ) , shift ( N20 J5 B9 ) ) ) , swap_first_last ( append ( prepend ( X20 O5 , swap_first_last ( echo ( Z18 H13 Q8 H10 R19 ) ) ) , reverse ( F6 F6 V16 ) ) ) ) ) , Q10 O7 U8 A15 ) , repeat ( Q1 O17 I19 F3 Z2 ) ) )	O17 I19 F3 Z2 Q1 O17 I19 F3 Z2 N20 B9 J5 E20 T17 N20 B9 J5 E20 T17 Q1
+echo ( shift ( remove_second ( append ( remove_second ( prepend ( echo ( I11 M7 K5 ) , remove_second ( D4 Q17 V10 B11 , swap_first_last ( K15 O16 L10 Q2 U7 ) ) ) , L8 L20 D8 Q8 ) , E19 W5 A5 R20 ) , remove_second ( R9 H8 T5 , remove_second ( remove_first ( remove_first ( I9 I5 H11 , W2 G18 R2 ) , reverse ( remove_second ( repeat ( append ( shift ( R17 D7 T13 Y7 ) , K2 M7 K12 A6 P12 ) ) , D14 F9 F13 ) ) ) , O8 H7 W2 T1 R18 ) ) ) ) )	Q17 V10 B11 I11 M7 K5 K5 E19 W5 A5 R20 D4 D4
+swap_first_last ( D7 H9 M4 )	M4 H9 D7
+reverse ( swap_first_last ( reverse ( C6 W1 ) ) )	W1 C6
+reverse ( reverse ( repeat ( N14 G18 O13 M15 D12 ) ) )	N14 G18 O13 M15 D12 N14 G18 O13 M15 D12
+append ( W3 O10 , copy ( append ( V5 S4 S4 H12 J4 , copy ( remove_first ( shift ( remove_first ( echo ( remove_second ( shift ( remove_first ( G16 T10 B16 , swap_first_last ( L18 Z6 F2 ) ) ) , swap_first_last ( echo ( shift ( U10 V12 B5 U9 H5 ) ) ) ) ) , T18 W1 E18 K7 ) ) , swap_first_last ( Q14 H17 ) ) ) ) ) )	W3 O10 V5 S4 S4 H12 J4 H17 Q14
+repeat ( copy ( V18 Y16 E13 ) )	V18 Y16 E13 V18 Y16 E13
+shift ( echo ( prepend ( remove_second ( shift ( remove_first ( reverse ( echo ( R11 A18 ) ) , remove_first ( N6 L16 D15 , shift ( F9 A5 U2 ) ) ) ) , swap_first_last ( U13 O3 S2 D17 ) ) , R15 O10 B10 F9 C16 ) ) )	O10 B10 F9 C16 U2 F9 A5 A5 R15
+remove_first ( P1 V14 U9 A5 D10 , prepend ( U4 Z6 F2 U20 I9 , remove_first ( B18 P6 P1 H3 , Y8 G17 W7 R2 ) ) )	Y8 G17 W7 R2 U4 Z6 F2 U20 I9
+swap_first_last ( Z10 P7 N11 I4 )	I4 P7 N11 Z10
+shift ( T17 W13 Z7 I13 )	W13 Z7 I13 T17
+prepend ( I5 V7 L2 , prepend ( remove_second ( copy ( reverse ( remove_first ( D7 T2 E1 S5 , swap_first_last ( remove_second ( remove_second ( G1 W6 V19 , swap_first_last ( J8 C14 C10 S17 ) ) , T3 S1 H20 X9 K6 ) ) ) ) ) , reverse ( append ( V15 K20 P8 , reverse ( repeat ( copy ( Q14 V10 M10 F8 I13 ) ) ) ) ) ) , remove_second ( Y17 S18 V17 B10 W7 , copy ( repeat ( B17 G19 W10 J3 ) ) ) ) )	Y17 S18 V17 B10 W7 G1 W6 V19 I5 V7 L2
+swap_first_last ( copy ( append ( copy ( echo ( M3 K2 R7 ) ) , echo ( K19 O9 G7 ) ) ) )	G7 K2 R7 R7 K19 O9 G7 M3
+append ( swap_first_last ( copy ( swap_first_last ( append ( repeat ( X3 J16 U10 X15 ) , echo ( swap_first_last ( prepend ( echo ( repeat ( Q18 R1 K17 ) ) , copy ( Q13 B18 N13 N19 D8 ) ) ) ) ) ) ) ) , R16 N17 Z11 B20 T16 )	X3 J16 U10 X15 X3 J16 U10 X15 K17 B18 N13 N19 D8 Q18 R1 K17 Q18 R1 K17 Q13 Q13 R16 N17 Z11 B20 T16
+echo ( W7 N11 A11 )	W7 N11 A11 A11
+reverse ( H13 R19 D20 M14 H19 )	H19 M14 D20 R19 H13
+prepend ( V19 Y19 D5 , append ( copy ( A20 R16 M4 ) , V5 I10 M1 A1 L5 ) )	A20 R16 M4 V5 I10 M1 A1 L5 V19 Y19 D5
+remove_first ( H6 N13 , H2 E17 N2 V3 )	H2 E17 N2 V3
+copy ( reverse ( swap_first_last ( O20 U1 N15 ) ) )	O20 U1 N15
+repeat ( shift ( reverse ( repeat ( R16 L12 ) ) ) )	R16 L12 R16 L12 R16 L12 R16 L12
+prepend ( Q19 H17 D7 U3 D15 , D17 E10 )	D17 E10 Q19 H17 D7 U3 D15
+prepend ( R6 O6 S4 K6 I3 , echo ( copy ( H12 U18 ) ) )	H12 U18 U18 R6 O6 S4 K6 I3
+repeat ( B5 Q15 P2 P18 H18 )	B5 Q15 P2 P18 H18 B5 Q15 P2 P18 H18
+copy ( append ( B5 H12 M19 F10 , Z12 J17 D20 G15 O13 ) )	B5 H12 M19 F10 Z12 J17 D20 G15 O13
+append ( M10 X12 F11 , S15 I15 N17 )	M10 X12 F11 S15 I15 N17
+swap_first_last ( C6 T17 F9 P2 V4 )	V4 T17 F9 P2 C6
+repeat ( append ( remove_second ( shift ( H4 C17 ) , I8 P10 ) , remove_first ( D5 V17 S15 H14 X12 , shift ( prepend ( copy ( S13 Y12 H12 ) , repeat ( prepend ( M18 S10 S19 P18 , shift ( remove_second ( reverse ( M19 V18 Y3 C10 ) , R13 Z7 G15 W18 H9 ) ) ) ) ) ) ) ) )	C17 H4 V18 M19 C10 M18 S10 S19 P18 Y3 V18 M19 C10 M18 S10 S19 P18 S13 Y12 H12 Y3 C17 H4 V18 M19 C10 M18 S10 S19 P18 Y3 V18 M19 C10 M18 S10 S19 P18 S13 Y12 H12 Y3
+prepend ( remove_second ( U20 P12 N17 L7 A11 , copy ( U3 X11 C7 V18 M20 ) ) , reverse ( F14 Q10 ) )	Q10 F14 U20 P12 N17 L7 A11
+swap_first_last ( Z6 H20 D3 )	D3 H20 Z6
+swap_first_last ( swap_first_last ( prepend ( prepend ( E17 I11 , shift ( echo ( swap_first_last ( repeat ( reverse ( T20 Q2 G12 O16 H3 ) ) ) ) ) ) , prepend ( remove_second ( remove_second ( swap_first_last ( Y1 V19 A1 V11 ) , remove_second ( copy ( F12 M12 V19 N4 ) , S17 M18 G5 E14 R19 ) ) , prepend ( swap_first_last ( echo ( F6 B1 R19 ) ) , Y7 G6 L17 ) ) , remove_second ( Y5 S14 J12 L19 , X5 O9 M12 A12 P12 ) ) ) ) )	Y5 S14 J12 L19 V11 V19 A1 Y1 O16 G12 Q2 T20 H3 O16 G12 Q2 H3 H3 T20 E17 I11
+shift ( remove_second ( remove_second ( prepend ( append ( prepend ( remove_first ( shift ( remove_first ( prepend ( shift ( R5 R12 M17 ) , prepend ( A7 C20 B18 , swap_first_last ( D20 H14 ) ) ) , reverse ( echo ( shift ( remove_second ( append ( echo ( Q5 F15 P14 ) , repeat ( copy ( C19 Q16 I3 ) ) ) , M14 B12 O19 Y14 ) ) ) ) ) ) , shift ( S19 H8 ) ) , T8 W19 R16 E1 M13 ) , P20 S19 ) , M16 O11 P18 G8 ) , reverse ( W5 D15 ) ) , P9 N3 Y11 ) )	O11 P18 G8 T8 W19 R16 E1 M13 H8 S19 P20 S19 M16
+repeat ( echo ( H14 N15 Q13 K1 ) )	H14 N15 Q13 K1 K1 H14 N15 Q13 K1 K1
+remove_first ( N13 Q10 F11 G16 K9 , shift ( echo ( reverse ( N4 H20 O11 G2 ) ) ) )	O11 H20 N4 N4 G2
+append ( reverse ( repeat ( copy ( remove_first ( repeat ( E7 I6 D3 ) , repeat ( remove_second ( reverse ( prepend ( copy ( reverse ( reverse ( prepend ( C5 I16 A2 K13 F3 , U3 S9 J9 ) ) ) ) , Z12 E11 W19 ) ) , prepend ( M9 C5 L15 L3 N16 , O7 M1 S9 Z2 V1 ) ) ) ) ) ) ) , H19 V14 G7 )	Z12 E11 W19 U3 S9 J9 C5 I16 A2 K13 F3 Z12 E11 W19 U3 S9 J9 C5 I16 A2 K13 F3 Z12 E11 W19 U3 S9 J9 C5 I16 A2 K13 F3 Z12 E11 W19 U3 S9 J9 C5 I16 A2 K13 F3 H19 V14 G7
+remove_second ( swap_first_last ( remove_second ( K17 W3 Y3 , remove_second ( S17 Q1 J1 V12 , prepend ( reverse ( remove_first ( shift ( R13 U12 X16 V7 K10 ) , H15 H7 R5 ) ) , remove_second ( append ( reverse ( append ( remove_first ( G20 M14 , swap_first_last ( M17 A13 V7 Q4 H7 ) ) , K16 U10 E13 X20 K17 ) ) , F15 T16 M11 X19 Y15 ) , S2 C18 ) ) ) ) ) , D3 R9 K2 )	Y3 W3 K17
+reverse ( swap_first_last ( reverse ( repeat ( remove_second ( reverse ( shift ( P16 W20 K17 ) ) , remove_second ( Q16 S5 T13 C6 U5 , H18 S1 P17 J6 C2 ) ) ) ) ) )	W20 K17 W20 P16 K17 P16
+shift ( G17 M8 V5 )	M8 V5 G17
+copy ( A4 X19 M1 U14 E2 )	A4 X19 M1 U14 E2
+swap_first_last ( swap_first_last ( echo ( remove_second ( reverse ( reverse ( copy ( S12 E3 T13 G15 ) ) ) , remove_second ( shift ( reverse ( reverse ( K4 U19 T2 G15 P19 ) ) ) , copy ( append ( reverse ( reverse ( swap_first_last ( N15 Y2 W12 X17 E4 ) ) ) , shift ( copy ( echo ( G12 L17 K12 Y20 H18 ) ) ) ) ) ) ) ) ) )	S12 E3 T13 G15 G15
+copy ( Y20 D1 M16 O11 I18 )	Y20 D1 M16 O11 I18
+echo ( append ( P10 G13 D1 Q3 , I17 B6 A1 ) )	P10 G13 D1 Q3 I17 B6 A1 A1
+swap_first_last ( repeat ( X11 X6 ) )	X6 X6 X11 X11
+swap_first_last ( reverse ( remove_first ( prepend ( echo ( C15 W12 ) , Q15 J11 K15 W12 K20 ) , repeat ( shift ( append ( swap_first_last ( remove_second ( copy ( remove_first ( T7 L10 E19 X2 , Y8 M18 ) ) , repeat ( W2 H17 Z14 ) ) ) , U20 D10 G6 T14 ) ) ) ) ) )	Y8 T14 G6 D10 U20 Y8 M18 T14 G6 D10 U20 M18
+copy ( echo ( Y11 I1 U10 C4 N8 ) )	Y11 I1 U10 C4 N8 N8
+echo ( repeat ( echo ( repeat ( K2 U14 U16 W6 B7 ) ) ) )	K2 U14 U16 W6 B7 K2 U14 U16 W6 B7 B7 K2 U14 U16 W6 B7 K2 U14 U16 W6 B7 B7 B7
+remove_first ( Y19 V9 , J14 Z17 T6 )	J14 Z17 T6
+prepend ( copy ( reverse ( remove_first ( swap_first_last ( copy ( Z5 N11 W20 B4 V11 ) ) , R16 K5 ) ) ) , E14 C2 E17 )	E14 C2 E17 K5 R16
+echo ( remove_first ( swap_first_last ( remove_second ( V8 T16 , Q4 U20 ) ) , prepend ( echo ( F16 P6 ) , Y4 Z10 I5 N14 ) ) )	Y4 Z10 I5 N14 F16 P6 P6 P6
+copy ( R14 J5 I19 )	R14 J5 I19
+remove_second ( L20 A16 , swap_first_last ( reverse ( remove_first ( J16 J1 , reverse ( F14 Q15 N16 J3 A3 ) ) ) ) )	L20 A16
+append ( prepend ( repeat ( G3 J17 E17 ) , C4 V4 R11 ) , repeat ( D3 B16 F3 ) )	C4 V4 R11 G3 J17 E17 G3 J17 E17 D3 B16 F3 D3 B16 F3
+copy ( remove_first ( append ( P17 O6 S12 L14 , H6 S9 O11 S1 S5 ) , echo ( M7 P13 O13 T16 ) ) )	M7 P13 O13 T16 T16
+remove_first ( repeat ( repeat ( B17 K15 ) ) , shift ( C20 P19 E17 ) )	P19 E17 C20
+remove_first ( Y9 V7 , S2 R4 )	S2 R4
+swap_first_last ( remove_second ( Z17 V19 F14 C10 , P20 V12 ) )	C10 V19 F14 Z17
+swap_first_last ( swap_first_last ( Z17 V8 L11 M20 V5 ) )	Z17 V8 L11 M20 V5
+shift ( repeat ( echo ( O3 G3 Q2 T12 ) ) )	G3 Q2 T12 T12 O3 G3 Q2 T12 T12 O3
+append ( Z18 E11 Z11 R11 G8 , copy ( echo ( I11 D4 ) ) )	Z18 E11 Z11 R11 G8 I11 D4 D4
+prepend ( swap_first_last ( S4 H10 D13 ) , copy ( remove_second ( repeat ( I5 K15 U16 ) , reverse ( swap_first_last ( prepend ( remove_first ( O9 M7 J20 I11 , reverse ( prepend ( H9 V19 L2 I1 S7 , prepend ( copy ( H20 Y13 C14 X17 ) , copy ( prepend ( L1 S19 , C6 C11 L7 P6 K6 ) ) ) ) ) ) , append ( append ( append ( remove_second ( echo ( swap_first_last ( R15 V2 H7 G8 ) ) , I11 D12 T15 B2 ) , P4 O8 P12 ) , reverse ( V2 B18 M10 F20 T18 ) ) , copy ( T15 O6 S13 ) ) ) ) ) ) ) )	I5 K15 U16 I5 K15 U16 D13 H10 S4
+remove_first ( reverse ( B15 E20 U6 E18 ) , swap_first_last ( echo ( swap_first_last ( shift ( Y20 T4 N4 ) ) ) ) )	T4 N4 T4 Y20
+remove_first ( append ( copy ( G5 P3 ) , append ( I18 S11 F10 , swap_first_last ( remove_first ( X20 Y4 , Y5 T9 T13 E20 T6 ) ) ) ) , W1 B11 E8 T18 Z20 )	W1 B11 E8 T18 Z20
+copy ( repeat ( X4 P10 U17 ) )	X4 P10 U17 X4 P10 U17
+repeat ( shift ( echo ( repeat ( I16 U15 ) ) ) )	U15 I16 U15 U15 I16 U15 I16 U15 U15 I16
+remove_second ( L1 Z7 H1 R12 , prepend ( repeat ( shift ( append ( I1 V1 M18 S1 P2 , swap_first_last ( I1 M19 ) ) ) ) , X5 F18 M14 ) )	L1 Z7 H1 R12
+append ( remove_second ( A15 O20 N12 N6 D19 , remove_first ( K1 Y5 , remove_second ( swap_first_last ( append ( U6 U14 Z12 , prepend ( echo ( echo ( prepend ( repeat ( reverse ( copy ( reverse ( swap_first_last ( copy ( A15 D1 L1 ) ) ) ) ) ) , reverse ( remove_first ( shift ( L1 E2 ) , copy ( N17 A19 V4 ) ) ) ) ) ) , O19 P11 ) ) ) , L2 M1 K4 ) ) ) , copy ( echo ( R1 Y10 ) ) )	A15 O20 N12 N6 D19 R1 Y10 Y10
+reverse ( copy ( copy ( remove_first ( Y9 C18 V2 , shift ( copy ( V16 B7 I13 O8 ) ) ) ) ) )	V16 O8 I13 B7
+echo ( J5 T15 S4 )	J5 T15 S4 S4
+remove_first ( remove_first ( N3 M14 D14 , swap_first_last ( append ( copy ( reverse ( M2 S3 K4 O11 I12 ) ) , append ( repeat ( shift ( K8 X14 L11 B10 ) ) , shift ( repeat ( swap_first_last ( U9 U7 ) ) ) ) ) ) ) , remove_first ( echo ( L1 H5 K12 ) , J9 Y19 ) )	J9 Y19
+remove_second ( H5 M19 M5 , V7 Q10 S6 H19 )	H5 M19 M5
+remove_second ( L20 I16 , reverse ( Z4 B13 H12 Z11 N2 ) )	L20 I16
+prepend ( Y9 S13 Q6 D17 L2 , S4 R12 I16 )	S4 R12 I16 Y9 S13 Q6 D17 L2
+append ( remove_second ( V5 J13 , repeat ( J4 G10 L17 V9 ) ) , G8 F1 )	V5 J13 G8 F1
+remove_second ( E11 H4 , append ( remove_second ( Z1 X15 Z6 X19 N8 , D6 X8 T18 O8 ) , shift ( reverse ( copy ( I15 O19 R15 G12 U8 ) ) ) ) )	E11 H4
+copy ( remove_first ( shift ( swap_first_last ( K15 X17 L6 ) ) , echo ( remove_second ( C12 L20 Q7 , prepend ( H3 C1 N20 S6 K15 , reverse ( copy ( B10 L18 L18 C12 P2 ) ) ) ) ) ) )	C12 L20 Q7 Q7
+remove_second ( A6 Q9 G16 , remove_first ( reverse ( M9 M16 O14 ) , prepend ( remove_second ( repeat ( prepend ( T16 T14 Z16 , G11 J18 ) ) , shift ( G9 W17 H8 Z18 U7 ) ) , I9 J20 ) ) )	A6 Q9 G16
+copy ( prepend ( G16 W6 K18 A19 A2 , M3 H16 ) )	M3 H16 G16 W6 K18 A19 A2
+append ( remove_second ( shift ( remove_second ( copy ( P3 A2 P7 G2 K1 ) , reverse ( remove_first ( T15 T6 , swap_first_last ( Y12 U4 G20 F2 ) ) ) ) ) , reverse ( append ( remove_second ( echo ( copy ( reverse ( echo ( repeat ( O11 J15 V11 C5 B14 ) ) ) ) ) , echo ( swap_first_last ( reverse ( V14 C3 W16 G5 ) ) ) ) , I12 W1 L9 S16 T18 ) ) ) , repeat ( C17 D20 N12 ) )	A2 P7 G2 K1 P3 C17 D20 N12 C17 D20 N12
+append ( repeat ( copy ( repeat ( reverse ( J14 U10 H4 Q7 ) ) ) ) , D19 K15 )	Q7 H4 U10 J14 Q7 H4 U10 J14 Q7 H4 U10 J14 Q7 H4 U10 J14 D19 K15
+prepend ( echo ( reverse ( E7 B6 B16 A6 ) ) , swap_first_last ( append ( N12 D20 U12 Q5 , swap_first_last ( O9 V14 ) ) ) )	O9 D20 U12 Q5 V14 N12 A6 B16 B6 E7 E7
+repeat ( remove_second ( append ( shift ( remove_second ( swap_first_last ( A8 F18 J15 T18 ) , Y10 W5 S9 U5 ) ) , prepend ( remove_first ( reverse ( repeat ( remove_first ( shift ( D11 V19 A18 ) , J7 E14 X10 C11 L1 ) ) ) , repeat ( I10 Z4 O10 K8 N8 ) ) , copy ( copy ( copy ( reverse ( shift ( Q2 N11 N17 G7 T16 ) ) ) ) ) ) ) , swap_first_last ( M5 O10 E15 I6 ) ) )	F18 J15 A8 T18 Q2 T16 G7 N17 N11 I10 Z4 O10 K8 N8 I10 Z4 O10 K8 N8 F18 J15 A8 T18 Q2 T16 G7 N17 N11 I10 Z4 O10 K8 N8 I10 Z4 O10 K8 N8
+echo ( shift ( remove_first ( prepend ( shift ( Z4 O11 N4 W15 ) , reverse ( copy ( echo ( append ( append ( V4 Q8 Q19 P5 , N3 X5 T6 T19 ) , remove_second ( remove_second ( repeat ( prepend ( append ( echo ( remove_second ( reverse ( N7 A17 V16 B13 R4 ) , reverse ( Y6 L15 Y9 E5 R18 ) ) ) , F11 Q19 D11 K17 ) , K10 Q17 ) ) , copy ( H10 T2 Y8 X20 Y10 ) ) , repeat ( remove_first ( echo ( R18 G6 ) , M16 K10 C13 T12 ) ) ) ) ) ) ) ) , L11 T16 Q10 ) ) )	T16 Q10 L11 L11
+remove_first ( remove_first ( remove_first ( F15 O1 V1 , V10 V17 P14 ) , append ( prepend ( C6 W17 , O17 J4 Y9 M8 ) , N4 F14 D2 J5 ) ) , prepend ( append ( remove_second ( swap_first_last ( T10 X19 A10 V1 Z18 ) , J10 Q16 ) , M14 A2 X3 ) , prepend ( reverse ( swap_first_last ( copy ( D5 B15 A15 W4 A11 ) ) ) , G6 O12 T8 ) ) )	G6 O12 T8 D5 W4 A15 B15 A11 Z18 X19 A10 V1 T10 M14 A2 X3
+append ( Q11 U3 Y16 O2 , prepend ( remove_second ( N19 I2 U10 U17 , copy ( reverse ( copy ( W5 S8 N15 C17 S2 ) ) ) ) , remove_second ( append ( R10 P20 B10 , copy ( prepend ( append ( R2 D18 E4 , P2 Q10 ) , prepend ( G4 A10 , D1 R2 ) ) ) ) , V6 U16 V7 K14 I10 ) ) )	Q11 U3 Y16 O2 R10 P20 B10 D1 R2 G4 A10 R2 D18 E4 P2 Q10 N19 I2 U10 U17
+swap_first_last ( swap_first_last ( W12 I1 Y8 ) )	W12 I1 Y8
+repeat ( R20 U17 )	R20 U17 R20 U17
+append ( A20 W19 , remove_second ( T18 X7 , B15 A10 G14 P12 Y9 ) )	A20 W19 T18 X7
+remove_second ( A14 W1 , copy ( reverse ( shift ( O5 Y13 I19 ) ) ) )	A14 W1
+remove_first ( remove_first ( K14 P6 N1 X9 W9 , I1 Z11 U17 ) , N12 B4 U14 )	N12 B4 U14
+prepend ( F12 M17 C6 I20 , prepend ( B1 A9 , append ( prepend ( shift ( C17 G6 ) , N2 L5 ) , echo ( remove_first ( shift ( V2 M5 T10 ) , I13 U14 M5 Q5 ) ) ) ) )	N2 L5 G6 C17 I13 U14 M5 Q5 Q5 B1 A9 F12 M17 C6 I20
+swap_first_last ( repeat ( K8 I3 O5 I5 ) )	I5 I3 O5 I5 K8 I3 O5 K8
+copy ( copy ( prepend ( prepend ( L1 K20 I7 , swap_first_last ( L19 C7 ) ) , M4 U20 ) ) )	M4 U20 C7 L19 L1 K20 I7
+copy ( Y18 K5 F8 )	Y18 K5 F8
+append ( C10 B3 , N9 I3 )	C10 B3 N9 I3
+repeat ( echo ( Z17 L2 H15 B5 V11 ) )	Z17 L2 H15 B5 V11 V11 Z17 L2 H15 B5 V11 V11
+reverse ( Y20 C16 S15 )	S15 C16 Y20
+reverse ( I19 J1 X16 )	X16 J1 I19
+repeat ( repeat ( R12 F20 ) )	R12 F20 R12 F20 R12 F20 R12 F20
+reverse ( T3 O2 H19 )	H19 O2 T3
+echo ( echo ( prepend ( shift ( prepend ( F15 Y1 , A11 X16 X10 ) ) , repeat ( R13 C7 R14 ) ) ) )	R13 C7 R14 R13 C7 R14 X16 X10 F15 Y1 A11 A11 A11
+shift ( E6 C14 X5 )	C14 X5 E6
+copy ( A9 I5 W16 )	A9 I5 W16
+prepend ( H5 H6 R10 R3 , repeat ( R14 L5 ) )	R14 L5 R14 L5 H5 H6 R10 R3
+shift ( swap_first_last ( echo ( O17 R4 ) ) )	R4 O17 R4
+prepend ( J19 Q4 N12 U4 , swap_first_last ( remove_first ( remove_first ( remove_first ( copy ( remove_second ( prepend ( append ( remove_second ( reverse ( remove_second ( shift ( Q11 X14 ) , B13 W10 I5 L7 L8 ) ) , L14 R15 B1 ) , swap_first_last ( J3 B8 T13 O9 Y12 ) ) , echo ( U11 J8 ) ) , I7 A20 J3 ) ) , remove_first ( E9 A2 P11 L1 , T4 L6 L16 J11 ) ) , shift ( D12 Y7 Y2 M10 J3 ) ) , I1 Z6 D14 Y20 ) ) )	Y20 Z6 D14 I1 J19 Q4 N12 U4
+remove_first ( X18 Y19 T19 G6 , swap_first_last ( append ( copy ( shift ( remove_second ( M20 C15 M14 , E16 D12 P13 L7 ) ) ) , T20 F5 G6 D7 B6 ) ) )	B6 M14 M20 T20 F5 G6 D7 C15
+swap_first_last ( R10 N16 )	N16 R10
+repeat ( prepend ( Y7 K17 T15 Y3 S18 , M18 J15 N18 J7 ) )	M18 J15 N18 J7 Y7 K17 T15 Y3 S18 M18 J15 N18 J7 Y7 K17 T15 Y3 S18
+copy ( G5 T7 W3 )	G5 T7 W3
+prepend ( shift ( R11 L1 X9 ) , remove_first ( K2 K16 V20 J6 Q12 , echo ( N5 K7 R10 J2 W13 ) ) )	N5 K7 R10 J2 W13 W13 L1 X9 R11
+copy ( shift ( O3 Q3 ) )	Q3 O3
+remove_first ( remove_first ( O18 T8 U6 , remove_second ( remove_second ( B4 X18 P18 D19 U14 , K12 X16 W19 L18 ) , O8 D2 B18 K17 ) ) , R19 Q17 U18 O20 A2 )	R19 Q17 U18 O20 A2
+copy ( reverse ( P10 O1 ) )	O1 P10
+shift ( remove_first ( D14 F4 M13 Q3 , remove_first ( prepend ( remove_second ( D5 G9 Z19 , K3 Y9 N6 ) , remove_first ( swap_first_last ( remove_first ( reverse ( prepend ( repeat ( repeat ( D1 F13 L20 P2 ) ) , B7 Y11 I2 J17 ) ) , echo ( F19 C6 C12 H13 ) ) ) , shift ( append ( reverse ( swap_first_last ( R12 G17 L16 ) ) , swap_first_last ( append ( T5 M11 B2 M15 U18 , append ( A3 N2 , reverse ( prepend ( swap_first_last ( repeat ( S16 S13 ) ) , R12 A19 W16 B3 ) ) ) ) ) ) ) ) ) , V12 C4 ) ) )	C4 V12
+prepend ( swap_first_last ( remove_first ( A17 S3 , copy ( J3 F4 V15 J17 ) ) ) , repeat ( U18 V8 ) )	U18 V8 U18 V8 J17 F4 V15 J3
+swap_first_last ( remove_second ( prepend ( X20 L3 , reverse ( copy ( copy ( F17 E2 Q1 B6 ) ) ) ) , A16 T14 O10 N15 ) )	L3 Q1 E2 F17 X20 B6
+copy ( echo ( swap_first_last ( reverse ( reverse ( remove_first ( echo ( swap_first_last ( prepend ( T16 B9 , reverse ( O19 W17 J10 ) ) ) ) , reverse ( B4 T19 ) ) ) ) ) ) )	B4 T19 T19
+remove_second ( V10 D19 S6 D2 , remove_second ( echo ( shift ( append ( repeat ( O10 L5 G11 ) , B7 K13 V18 I2 Z9 ) ) ) , remove_second ( repeat ( echo ( X15 T10 G6 R13 C6 ) ) , reverse ( swap_first_last ( prepend ( C15 D7 V18 , I10 E4 H7 H3 H18 ) ) ) ) ) )	V10 D19 S6 D2
+swap_first_last ( echo ( echo ( repeat ( remove_first ( F12 O5 I19 B9 Y11 , Z4 B12 Z5 ) ) ) ) )	Z5 B12 Z5 Z4 B12 Z5 Z5 Z4
+echo ( shift ( P9 C1 A11 O10 Y19 ) )	C1 A11 O10 Y19 P9 P9
+shift ( prepend ( copy ( echo ( swap_first_last ( prepend ( remove_first ( append ( swap_first_last ( append ( P20 P4 S16 L19 C2 , remove_second ( reverse ( shift ( Y20 T1 G4 T2 ) ) , K10 R14 ) ) ) , prepend ( F1 N2 T14 R18 , shift ( R13 V2 M16 K11 J20 ) ) ) , swap_first_last ( reverse ( copy ( O2 I10 E15 ) ) ) ) , append ( J18 E15 A17 , L7 J17 ) ) ) ) ) , remove_second ( W9 W19 H3 R11 P18 , reverse ( L11 V17 T10 J1 ) ) ) )	W19 H3 R11 P18 E15 E15 A17 L7 J17 O2 I10 J18 J18 W9
+copy ( F4 O12 B17 L3 C14 )	F4 O12 B17 L3 C14
+prepend ( append ( echo ( S14 X15 Q17 ) , remove_first ( reverse ( shift ( reverse ( copy ( repeat ( reverse ( copy ( prepend ( T9 Q5 , B20 K8 E4 V2 ) ) ) ) ) ) ) ) , X12 Y13 F2 W8 ) ) , remove_first ( remove_second ( shift ( copy ( reverse ( swap_first_last ( shift ( reverse ( N16 E5 P3 ) ) ) ) ) ) , copy ( I1 G5 B3 ) ) , remove_first ( swap_first_last ( E2 F13 ) , Z14 F14 X11 ) ) )	Z14 F14 X11 S14 X15 Q17 Q17 X12 Y13 F2 W8
+append ( append ( D5 U11 , remove_second ( copy ( B8 F7 U2 ) , O1 T9 ) ) , repeat ( append ( repeat ( reverse ( S7 B17 F4 ) ) , reverse ( remove_first ( reverse ( remove_first ( Z1 G8 , reverse ( remove_second ( R16 I12 T4 , prepend ( prepend ( copy ( S4 V5 ) , A6 R18 B4 F2 ) , G11 V8 ) ) ) ) ) , reverse ( Q5 U8 ) ) ) ) ) )	D5 U11 B8 F7 U2 F4 B17 S7 F4 B17 S7 Q5 U8 F4 B17 S7 F4 B17 S7 Q5 U8
+remove_first ( remove_second ( reverse ( B3 R8 F5 S1 R6 ) , I12 P18 ) , echo ( R14 R14 ) )	R14 R14 R14
+swap_first_last ( G2 P12 P11 S9 W1 )	W1 P12 P11 S9 G2
+echo ( Z7 H6 N10 R16 U7 )	Z7 H6 N10 R16 U7 U7
+append ( swap_first_last ( reverse ( copy ( remove_second ( copy ( remove_first ( append ( shift ( T10 V10 ) , T4 N15 B9 N8 J6 ) , prepend ( P2 L20 A3 M16 X4 , Z15 J11 D1 P20 ) ) ) , remove_first ( remove_first ( remove_first ( A18 Q12 V7 L4 , copy ( copy ( prepend ( reverse ( copy ( reverse ( I20 I13 K1 R14 ) ) ) , echo ( K12 S8 ) ) ) ) ) , H20 K18 ) , reverse ( reverse ( remove_second ( Z19 X16 , echo ( swap_first_last ( U5 P8 V12 Z10 ) ) ) ) ) ) ) ) ) ) , reverse ( Y19 R15 O13 M1 J20 ) )	Z15 M16 A3 L20 P2 P20 D1 J11 X4 J20 M1 O13 R15 Y19
+echo ( reverse ( remove_first ( remove_second ( echo ( copy ( reverse ( prepend ( J6 X11 N6 , shift ( remove_second ( E13 U1 C2 C15 H18 , N20 O20 P4 ) ) ) ) ) ) , remove_second ( echo ( swap_first_last ( X2 P10 X15 P5 L15 ) ) , M19 D5 X10 ) ) , F18 W16 V14 P9 I2 ) ) )	I2 P9 V14 W16 F18 F18
+remove_second ( swap_first_last ( N16 W16 J13 I6 T18 ) , copy ( M20 T17 Z17 A3 P4 ) )	T18 W16 J13 I6 N16
+append ( echo ( repeat ( shift ( J5 H14 M7 W11 H7 ) ) ) , reverse ( remove_second ( reverse ( K14 V10 T20 U4 J10 ) , repeat ( append ( Q7 V6 I9 A11 F8 , A10 K10 D4 J19 Z8 ) ) ) ) )	H14 M7 W11 H7 J5 H14 M7 W11 H7 J5 J5 K14 V10 T20 U4 J10
+append ( repeat ( P11 X10 Y15 T2 ) , echo ( append ( copy ( reverse ( copy ( remove_second ( shift ( J6 S6 I18 ) , append ( remove_second ( copy ( echo ( M10 E11 X19 Z11 ) ) , echo ( V19 W8 ) ) , shift ( Q8 O6 L5 H10 X20 ) ) ) ) ) ) , U17 Y4 X10 Y7 V13 ) ) )	P11 X10 Y15 T2 P11 X10 Y15 T2 J6 I18 S6 U17 Y4 X10 Y7 V13 V13
+repeat ( shift ( L18 I20 L3 H20 ) )	I20 L3 H20 L18 I20 L3 H20 L18
+copy ( N8 S11 )	N8 S11
+echo ( E3 O19 Z6 R17 )	E3 O19 Z6 R17 R17
+shift ( S11 Y11 M1 P16 J15 )	Y11 M1 P16 J15 S11
+remove_first ( V12 E5 , R17 V12 T15 X14 )	R17 V12 T15 X14
+prepend ( shift ( reverse ( O4 U9 G2 H2 ) ) , shift ( remove_first ( Y18 U3 , W12 W10 Q8 ) ) )	W10 Q8 W12 G2 U9 O4 H2
+remove_first ( echo ( copy ( Z2 V5 ) ) , A9 G2 )	A9 G2
+shift ( reverse ( copy ( copy ( repeat ( reverse ( prepend ( F16 J12 M7 , shift ( N10 P3 ) ) ) ) ) ) ) )	N10 F16 J12 M7 P3 N10 F16 J12 M7 P3
+copy ( shift ( N12 F20 F17 M14 ) )	F20 F17 M14 N12
+reverse ( swap_first_last ( copy ( shift ( C3 C17 M12 ) ) ) )	C17 M12 C3
+remove_second ( M16 V7 E9 , V20 P15 W8 G8 L20 )	M16 V7 E9
+append ( remove_second ( Z9 Y20 U15 F13 O11 , swap_first_last ( shift ( V11 E5 C7 Z14 Z8 ) ) ) , T11 X18 L7 )	Z9 Y20 U15 F13 O11 T11 X18 L7
+copy ( swap_first_last ( shift ( F4 V7 H15 ) ) )	F4 H15 V7
+echo ( B5 W8 )	B5 W8 W8
+reverse ( prepend ( U14 N8 , prepend ( Z12 Z17 F1 B18 L8 , H10 Y11 S7 ) ) )	N8 U14 L8 B18 F1 Z17 Z12 S7 Y11 H10
+prepend ( A14 L7 , remove_first ( N19 I12 L1 L2 , L15 I4 J10 E2 H18 ) )	L15 I4 J10 E2 H18 A14 L7
+echo ( Z16 Q1 )	Z16 Q1 Q1
+repeat ( C13 E3 I8 I14 I11 )	C13 E3 I8 I14 I11 C13 E3 I8 I14 I11
+remove_first ( reverse ( echo ( copy ( W17 F4 ) ) ) , remove_second ( remove_second ( swap_first_last ( repeat ( shift ( echo ( R7 A16 E6 N17 K19 ) ) ) ) , H9 X2 ) , U10 Q1 B6 Q10 A13 ) )	R7 E6 N17 K19 K19 R7 A16 E6 N17 K19 K19 A16
+prepend ( reverse ( P17 F15 J15 F10 U8 ) , M18 E17 Y8 L13 )	M18 E17 Y8 L13 U8 F10 J15 F15 P17
+append ( X7 L7 , V13 Q13 B8 Q4 )	X7 L7 V13 Q13 B8 Q4
+prepend ( shift ( D15 U13 V9 F10 ) , D19 C16 Q2 )	D19 C16 Q2 U13 V9 F10 D15
+remove_first ( B17 L5 O15 , M7 L15 T8 K1 S10 )	M7 L15 T8 K1 S10
+echo ( repeat ( A5 Z15 L19 P18 I16 ) )	A5 Z15 L19 P18 I16 A5 Z15 L19 P18 I16 I16
+shift ( swap_first_last ( repeat ( shift ( repeat ( append ( remove_first ( prepend ( X14 F15 Q7 W2 L3 , D19 P20 G12 N4 Y1 ) , Q19 D3 ) , W8 H2 ) ) ) ) ) )	W8 H2 Q19 D3 W8 H2 Q19 D3 W8 H2 Q19 D3 W8 H2 D3 Q19
+remove_second ( echo ( append ( prepend ( reverse ( repeat ( remove_first ( D4 H4 , N4 M20 U6 ) ) ) , J18 O5 Z6 ) , swap_first_last ( Y5 O6 ) ) ) , remove_second ( append ( remove_second ( G12 U12 A9 H11 O10 , repeat ( append ( N11 L20 J12 I4 J5 , shift ( repeat ( swap_first_last ( reverse ( H9 L7 ) ) ) ) ) ) ) , L12 U4 Q18 O12 S2 ) , swap_first_last ( F4 A8 N15 ) ) )	J18 O5 Z6 U6 M20 N4 U6 M20 N4 O6 Y5 Y5
+remove_first ( repeat ( shift ( N1 B16 ) ) , V4 V12 T6 N8 Y17 )	V4 V12 T6 N8 Y17
+append ( L12 H7 , L20 S1 A14 E13 )	L12 H7 L20 S1 A14 E13
+append ( E12 P7 Y4 , swap_first_last ( B3 Y10 L3 V7 T14 ) )	E12 P7 Y4 T14 Y10 L3 V7 B3
+shift ( G8 E20 H16 A16 )	E20 H16 A16 G8
+copy ( swap_first_last ( append ( shift ( B3 T12 F11 ) , R17 U2 I12 Y4 ) ) )	Y4 F11 B3 R17 U2 I12 T12
+append ( copy ( remove_second ( repeat ( M18 G5 S4 ) , copy ( shift ( swap_first_last ( append ( V18 D12 D12 Y10 V1 , remove_second ( shift ( M11 B11 ) , reverse ( H19 E7 H2 V5 ) ) ) ) ) ) ) ) , F7 C4 )	M18 G5 S4 M18 G5 S4 F7 C4
+repeat ( G6 U16 T13 )	G6 U16 T13 G6 U16 T13
+reverse ( echo ( shift ( reverse ( repeat ( W3 O16 M4 ) ) ) ) )	M4 M4 W3 O16 M4 W3 O16
+swap_first_last ( repeat ( repeat ( J17 L2 B7 E11 ) ) )	E11 L2 B7 E11 J17 L2 B7 E11 J17 L2 B7 E11 J17 L2 B7 J17
+shift ( M20 K8 )	K8 M20
+reverse ( remove_first ( B7 F18 V1 S16 E18 , H8 B19 ) )	B19 H8
+remove_first ( copy ( echo ( shift ( C7 E4 ) ) ) , append ( U1 O19 Z12 G9 G5 , prepend ( H11 I18 N15 Z15 , D8 Z19 B5 N4 I9 ) ) )	U1 O19 Z12 G9 G5 D8 Z19 B5 N4 I9 H11 I18 N15 Z15
+echo ( K17 R16 W19 )	K17 R16 W19 W19
+append ( append ( A20 U10 K10 X4 T5 , remove_first ( C17 A11 , swap_first_last ( K1 S17 X19 P10 E7 ) ) ) , remove_first ( prepend ( E19 S19 Z8 Y1 B13 , L8 N9 E13 ) , copy ( remove_first ( S4 V17 , K12 Y10 P14 R12 S12 ) ) ) )	A20 U10 K10 X4 T5 E7 S17 X19 P10 K1 K12 Y10 P14 R12 S12
+remove_second ( echo ( L10 E8 P20 S20 ) , echo ( M11 J4 D3 U2 M20 ) )	L10 E8 P20 S20 S20
+prepend ( R16 E15 W13 T5 , shift ( X6 M4 Q19 Q15 ) )	M4 Q19 Q15 X6 R16 E15 W13 T5
+swap_first_last ( remove_second ( P16 L19 N15 K8 , repeat ( W2 E18 O7 ) ) )	K8 L19 N15 P16
+remove_second ( E7 P4 C12 , copy ( prepend ( repeat ( S7 Q4 L14 N4 E3 ) , repeat ( shift ( reverse ( I16 X17 C9 S10 R4 ) ) ) ) ) )	E7 P4 C12
+swap_first_last ( reverse ( remove_first ( swap_first_last ( copy ( swap_first_last ( shift ( swap_first_last ( shift ( repeat ( echo ( T1 O2 F9 K15 F17 ) ) ) ) ) ) ) ) , V14 N11 O12 B15 G7 ) ) )	V14 B15 O12 N11 G7
+prepend ( repeat ( repeat ( A7 J7 F17 I9 ) ) , shift ( V11 N6 X18 S2 A10 ) )	N6 X18 S2 A10 V11 A7 J7 F17 I9 A7 J7 F17 I9 A7 J7 F17 I9 A7 J7 F17 I9
+reverse ( W19 X1 Q4 N20 S11 )	S11 N20 Q4 X1 W19
+swap_first_last ( P19 J12 Z13 V8 L11 )	L11 J12 Z13 V8 P19
+copy ( reverse ( echo ( copy ( reverse ( L14 H7 ) ) ) ) )	L14 L14 H7
+remove_second ( copy ( swap_first_last ( reverse ( K19 N2 S20 Z13 J3 ) ) ) , remove_first ( prepend ( remove_first ( prepend ( shift ( append ( L6 T1 , X4 X4 G15 K17 E14 ) ) , swap_first_last ( repeat ( copy ( G8 P15 E1 E6 ) ) ) ) , repeat ( C12 J18 M1 ) ) , remove_second ( copy ( P6 H18 M17 ) , T2 U6 U19 D12 I1 ) ) , L20 G15 ) )	K19 Z13 S20 N2 J3
+shift ( U9 L11 Q17 J14 )	L11 Q17 J14 U9
+repeat ( S11 C10 L7 L10 K16 )	S11 C10 L7 L10 K16 S11 C10 L7 L10 K16
+repeat ( shift ( D8 Q17 B7 R11 T14 ) )	Q17 B7 R11 T14 D8 Q17 B7 R11 T14 D8
+append ( remove_first ( S8 V5 V14 R12 , repeat ( copy ( echo ( prepend ( J4 T13 , V9 Q20 ) ) ) ) ) , S18 X18 A1 N20 L10 )	V9 Q20 J4 T13 T13 V9 Q20 J4 T13 T13 S18 X18 A1 N20 L10
+remove_second ( shift ( B16 R17 J5 ) , echo ( echo ( append ( remove_first ( G12 F6 , shift ( I1 O20 K17 N17 F15 ) ) , swap_first_last ( P20 E9 K2 X12 ) ) ) ) )	R17 J5 B16
+append ( remove_second ( E18 C3 V10 , remove_second ( Y1 I8 X11 , echo ( remove_first ( K2 W6 W11 M18 , copy ( J19 R14 Z20 Q8 L19 ) ) ) ) ) , I4 B17 )	E18 C3 V10 I4 B17
+prepend ( P19 N15 B20 , C20 R10 )	C20 R10 P19 N15 B20
+reverse ( repeat ( Q15 I20 G20 H9 U15 ) )	U15 H9 G20 I20 Q15 U15 H9 G20 I20 Q15
+append ( remove_first ( echo ( O6 V2 P20 ) , G15 D2 R18 ) , remove_second ( shift ( copy ( prepend ( O16 I20 E15 A13 , G13 Z6 ) ) ) , copy ( prepend ( prepend ( append ( prepend ( R17 P18 , swap_first_last ( echo ( swap_first_last ( Q6 W14 I14 W9 K9 ) ) ) ) , D6 U18 K2 T20 O11 ) , reverse ( repeat ( repeat ( M18 L16 G1 ) ) ) ) , prepend ( prepend ( repeat ( H11 C3 ) , echo ( S20 W4 F11 ) ) , copy ( E18 P11 H8 C19 ) ) ) ) ) )	G15 D2 R18 Z6 O16 I20 E15 A13 G13
+shift ( V18 V17 K19 H12 T18 )	V17 K19 H12 T18 V18
+swap_first_last ( remove_first ( S6 H7 U13 Q3 I14 , S9 P3 L6 ) )	L6 P3 S9
+reverse ( remove_second ( A2 X3 T14 , echo ( prepend ( O15 D16 W4 O9 A7 , reverse ( remove_second ( W7 H12 G8 , S15 B8 D11 ) ) ) ) ) )	T14 X3 A2
+remove_first ( R13 C16 , D8 M7 F15 )	D8 M7 F15
+shift ( copy ( prepend ( append ( reverse ( reverse ( reverse ( echo ( swap_first_last ( repeat ( C8 O3 R6 N5 ) ) ) ) ) ) , D8 W8 F18 K9 ) , E20 L19 ) ) )	L19 C8 C8 R6 O3 C8 N5 R6 O3 N5 D8 W8 F18 K9 E20
+shift ( append ( prepend ( L16 N12 , D17 M19 L16 ) , O18 M1 G14 X18 M16 ) )	M19 L16 L16 N12 O18 M1 G14 X18 M16 D17
+swap_first_last ( L18 G5 )	G5 L18
+echo ( append ( Y8 C19 H6 F20 , R18 H19 ) )	Y8 C19 H6 F20 R18 H19 H19
+repeat ( remove_second ( append ( T5 S3 R2 , Y10 U12 G4 J6 I17 ) , shift ( W16 E19 ) ) )	T5 S3 R2 Y10 U12 G4 J6 I17 T5 S3 R2 Y10 U12 G4 J6 I17
+prepend ( T5 Y18 O2 I17 H3 , Q19 N19 P16 Q13 O13 )	Q19 N19 P16 Q13 O13 T5 Y18 O2 I17 H3
+shift ( copy ( remove_first ( prepend ( E10 S18 H7 W1 , remove_second ( append ( M16 V2 B9 D8 I11 , swap_first_last ( repeat ( F18 A17 T17 S14 ) ) ) , prepend ( repeat ( remove_first ( T17 Y17 , X5 W18 Q3 H19 ) ) , prepend ( reverse ( prepend ( L16 D2 F12 Q18 V20 , I8 M10 C12 N15 ) ) , prepend ( X19 Q5 G5 , Y5 U19 D7 A11 R11 ) ) ) ) ) , Q16 K4 B16 U10 ) ) )	K4 B16 U10 Q16
+remove_first ( V20 J2 , copy ( prepend ( echo ( swap_first_last ( prepend ( copy ( G19 J18 ) , echo ( reverse ( swap_first_last ( remove_first ( remove_first ( W6 J5 Y20 , reverse ( L3 S18 ) ) , F17 T11 J18 ) ) ) ) ) ) ) , repeat ( prepend ( remove_first ( P19 H6 , echo ( shift ( M14 D13 Z6 ) ) ) , append ( K1 U12 A17 J17 , reverse ( echo ( R17 V4 I19 Z10 H8 ) ) ) ) ) ) ) )	K1 U12 A17 J17 H8 H8 Z10 I19 V4 R17 D13 Z6 M14 M14 K1 U12 A17 J17 H8 H8 Z10 I19 V4 R17 D13 Z6 M14 M14 J18 T11 J18 J18 G19 F17 F17
+remove_first ( U14 R9 R13 B5 F13 , T4 L8 D2 )	T4 L8 D2
+append ( U19 S20 , U14 O6 N1 T2 B14 )	U19 S20 U14 O6 N1 T2 B14
+remove_first ( remove_first ( J19 K6 I8 P18 , U16 P8 U15 L17 ) , I7 Z11 V8 U18 Q20 )	I7 Z11 V8 U18 Q20
+shift ( reverse ( V3 R6 V5 ) )	R6 V3 V5
+reverse ( O14 V14 G2 )	G2 V14 O14
+remove_first ( prepend ( prepend ( shift ( swap_first_last ( remove_second ( remove_second ( B14 E13 A10 Q15 , remove_first ( reverse ( R9 C1 K18 ) , U5 J19 O5 S18 S20 ) ) , A16 H5 ) ) ) , echo ( copy ( echo ( remove_first ( prepend ( copy ( P14 G1 D5 ) , O12 O1 O11 U6 ) , remove_second ( B6 T6 J11 Y11 , remove_first ( H5 U7 I5 F5 , R16 F10 H9 ) ) ) ) ) ) ) , remove_second ( N8 G2 L1 P20 , swap_first_last ( repeat ( L5 G18 J20 ) ) ) ) , copy ( U19 K5 ) )	U19 K5
+remove_first ( K13 N20 O20 O5 S5 , append ( P12 P17 , reverse ( remove_second ( C17 K10 H14 F7 I15 , T2 N7 H8 L18 ) ) ) )	P12 P17 I15 F7 H14 K10 C17
+append ( Y8 I15 I11 W15 , append ( shift ( reverse ( remove_second ( copy ( append ( G13 S2 I1 M2 , D3 S16 K6 T2 ) ) , L15 M8 ) ) ) , prepend ( J11 J6 X9 N2 , repeat ( reverse ( V19 W11 ) ) ) ) )	Y8 I15 I11 W15 K6 S16 D3 M2 I1 S2 G13 T2 W11 V19 W11 V19 J11 J6 X9 N2
+remove_first ( R1 O12 I7 , swap_first_last ( repeat ( remove_second ( swap_first_last ( swap_first_last ( echo ( prepend ( T14 A16 , shift ( reverse ( U11 J1 M1 Z12 ) ) ) ) ) ) , I14 J11 V12 ) ) ) )	A16 J1 U11 Z12 T14 A16 A16 M1 J1 U11 Z12 T14 A16 M1
+repeat ( L5 O6 G17 U20 Z17 )	L5 O6 G17 U20 Z17 L5 O6 G17 U20 Z17
+shift ( echo ( Z5 Q15 K7 Y20 Z13 ) )	Q15 K7 Y20 Z13 Z13 Z5
+copy ( M11 F17 V20 Q20 G12 )	M11 F17 V20 Q20 G12
+append ( shift ( F9 G18 I14 ) , remove_second ( E9 S4 R7 I13 V12 , remove_first ( reverse ( echo ( shift ( repeat ( G17 T17 P5 Y2 E13 ) ) ) ) , append ( copy ( Z4 I10 ) , repeat ( Y17 B7 ) ) ) ) )	G18 I14 F9 E9 S4 R7 I13 V12
+echo ( I18 V13 W11 )	I18 V13 W11 W11
+echo ( shift ( append ( shift ( Z1 B14 ) , remove_second ( B7 C12 C18 , T18 Z16 S11 Q17 ) ) ) )	Z1 B7 C12 C18 B14 B14
+remove_first ( reverse ( remove_first ( U17 E13 N16 F4 , W17 F1 ) ) , shift ( T11 N8 ) )	N8 T11
+echo ( echo ( T1 U12 B10 M7 T15 ) )	T1 U12 B10 M7 T15 T15 T15
+append ( remove_first ( P13 Z6 Z14 S11 , reverse ( echo ( reverse ( remove_second ( F15 Y1 K14 , R11 H1 N9 B14 ) ) ) ) ) , remove_second ( D4 L3 N2 , E14 R4 Y12 ) )	F15 F15 Y1 K14 D4 L3 N2
+prepend ( shift ( swap_first_last ( remove_first ( echo ( copy ( U2 S7 ) ) , reverse ( append ( reverse ( remove_second ( repeat ( remove_second ( shift ( copy ( append ( M3 F11 G18 O12 P8 , W19 V19 T10 ) ) ) , echo ( prepend ( M14 O15 B7 M16 S5 , shift ( remove_first ( W8 D15 , repeat ( J16 S7 P20 W5 ) ) ) ) ) ) ) , Y4 Y11 Z17 X5 ) ) , copy ( O19 J7 ) ) ) ) ) ) , prepend ( remove_second ( S4 P19 , copy ( append ( append ( C4 A20 N12 , E7 X13 Q3 N3 C11 ) , I19 W5 G2 ) ) ) , copy ( V15 Q1 ) ) )	V15 Q1 S4 P19 O19 F11 G18 O12 P8 W19 V19 T10 M3 F11 G18 O12 P8 W19 V19 T10 J7 M3
+remove_second ( prepend ( S11 M6 P8 U18 K14 , repeat ( G17 Z14 Q9 P1 R9 ) ) , reverse ( remove_second ( B7 C14 , remove_first ( Y17 G14 , E14 R4 ) ) ) )	G17 Z14 Q9 P1 R9 G17 Z14 Q9 P1 R9 S11 M6 P8 U18 K14
+shift ( remove_first ( swap_first_last ( prepend ( shift ( Z8 J16 N12 I6 ) , P5 F18 ) ) , copy ( reverse ( K6 G1 D16 W19 U18 ) ) ) )	W19 D16 G1 K6 U18
+echo ( S1 L17 )	S1 L17 L17
+remove_first ( remove_first ( reverse ( copy ( Y14 H1 R15 ) ) , prepend ( Y1 X19 V7 W9 P12 , W6 Q1 R17 ) ) , E18 V13 )	E18 V13
+append ( swap_first_last ( X19 N19 J13 K10 B11 ) , remove_first ( remove_first ( remove_first ( reverse ( N12 T6 B3 G14 ) , echo ( swap_first_last ( A5 K14 O14 R19 X1 ) ) ) , R8 H16 I12 ) , Q5 O10 T11 P11 ) )	B11 N19 J13 K10 X19 Q5 O10 T11 P11
+remove_first ( W12 O7 , append ( reverse ( remove_second ( G15 P11 P4 S15 T18 , R12 C6 U9 O1 ) ) , Q1 V14 ) )	T18 S15 P4 P11 G15 Q1 V14
+swap_first_last ( echo ( V1 G6 G7 ) )	G7 G6 G7 V1
+copy ( remove_first ( K2 T11 H14 , shift ( swap_first_last ( remove_second ( L16 T8 P3 G12 A11 , Q1 R6 ) ) ) ) )	T8 P3 G12 L16 A11
+append ( I4 D12 I8 S12 A19 , R14 Z16 )	I4 D12 I8 S12 A19 R14 Z16
+append ( P3 P16 , prepend ( N16 M20 T11 E11 , Q11 N5 T9 M1 ) )	P3 P16 Q11 N5 T9 M1 N16 M20 T11 E11
+remove_first ( prepend ( echo ( R9 C14 ) , repeat ( E7 G17 ) ) , F18 P18 )	F18 P18
+swap_first_last ( shift ( copy ( J20 E5 ) ) )	J20 E5
+echo ( swap_first_last ( repeat ( append ( B1 C12 , append ( remove_first ( M9 T3 X16 F6 , R9 X18 Y18 D8 ) , repeat ( Y18 T16 ) ) ) ) ) )	T16 C12 R9 X18 Y18 D8 Y18 T16 Y18 T16 B1 C12 R9 X18 Y18 D8 Y18 T16 Y18 B1 B1
+swap_first_last ( append ( prepend ( remove_first ( T13 L19 G9 V13 C2 , T19 J11 ) , copy ( L3 V2 D17 K9 ) ) , echo ( E3 D20 E20 L5 N7 ) ) )	N7 V2 D17 K9 T19 J11 E3 D20 E20 L5 N7 L3
+shift ( prepend ( remove_second ( Y11 Z19 , swap_first_last ( shift ( swap_first_last ( M8 G16 ) ) ) ) , F11 Y3 J8 ) )	Y3 J8 Y11 Z19 F11
+shift ( append ( shift ( B9 N14 F12 N7 V1 ) , swap_first_last ( swap_first_last ( echo ( P20 K9 Q15 C18 ) ) ) ) )	F12 N7 V1 B9 P20 K9 Q15 C18 C18 N14
+swap_first_last ( repeat ( prepend ( prepend ( append ( reverse ( K10 S18 I9 K17 W9 ) , echo ( remove_first ( prepend ( copy ( shift ( copy ( swap_first_last ( copy ( append ( reverse ( shift ( T11 K17 I15 C19 ) ) , repeat ( copy ( remove_second ( X18 L15 , echo ( F3 O16 ) ) ) ) ) ) ) ) ) ) , reverse ( echo ( P11 P19 T20 G2 ) ) ) , M19 A1 L9 ) ) ) , Z15 S20 A4 ) , remove_first ( E17 L3 , X18 Y18 I9 R2 U17 ) ) ) )	L9 Y18 I9 R2 U17 Z15 S20 A4 W9 K17 I9 S18 K10 M19 A1 L9 L9 X18 Y18 I9 R2 U17 Z15 S20 A4 W9 K17 I9 S18 K10 M19 A1 L9 X18
+shift ( reverse ( copy ( append ( S6 I13 B1 F3 , reverse ( R15 V5 D5 H14 M19 ) ) ) ) )	V5 D5 H14 M19 F3 B1 I13 S6 R15
+repeat ( repeat ( F13 Q6 ) )	F13 Q6 F13 Q6 F13 Q6 F13 Q6
+remove_first ( J9 C1 B11 L10 , shift ( reverse ( copy ( A4 I6 M18 ) ) ) )	I6 A4 M18
+swap_first_last ( repeat ( append ( P19 P7 L17 R19 D1 , prepend ( I8 C8 L8 M12 , A13 F3 T14 F9 Q10 ) ) ) )	M12 P7 L17 R19 D1 A13 F3 T14 F9 Q10 I8 C8 L8 M12 P19 P7 L17 R19 D1 A13 F3 T14 F9 Q10 I8 C8 L8 P19
+append ( X20 M10 H13 , H11 C17 N7 W12 O15 )	X20 M10 H13 H11 C17 N7 W12 O15
+repeat ( append ( shift ( P11 G19 G14 ) , D11 P4 ) )	G19 G14 P11 D11 P4 G19 G14 P11 D11 P4
+prepend ( remove_second ( append ( repeat ( repeat ( remove_second ( swap_first_last ( echo ( echo ( repeat ( remove_first ( shift ( shift ( Y3 K7 L11 K3 H16 ) ) , V12 P14 ) ) ) ) ) , X16 W3 N10 M9 ) ) ) , T14 N1 Q16 T18 E16 ) , K10 D10 Y17 F8 ) , Z7 S8 R6 S11 T19 )	Z7 S8 R6 S11 T19 P14 P14 V12 P14 P14 V12 P14 P14 V12 P14 P14 V12 P14 P14 V12 P14 P14 V12 P14 P14 V12 P14 P14 V12 T14 N1 Q16 T18 E16
+prepend ( Z6 J20 E11 H1 , W17 S11 I20 I12 T1 )	W17 S11 I20 I12 T1 Z6 J20 E11 H1
+copy ( O2 N18 Y7 Q7 )	O2 N18 Y7 Q7
+echo ( remove_first ( prepend ( remove_second ( repeat ( reverse ( W10 Z15 S20 ) ) , Z3 B7 E4 T18 H10 ) , echo ( I13 W19 ) ) , append ( prepend ( B11 C16 T12 , echo ( repeat ( append ( J8 A4 Y10 , echo ( remove_first ( W3 P6 L18 , swap_first_last ( remove_first ( A17 A17 , remove_first ( U6 J17 B18 E10 , A9 F16 ) ) ) ) ) ) ) ) ) , K2 Y7 ) ) )	J8 A4 Y10 F16 A9 A9 J8 A4 Y10 F16 A9 A9 A9 B11 C16 T12 K2 Y7 Y7
+copy ( append ( remove_second ( U19 G1 S11 G17 , Y16 D19 S19 A5 ) , F14 P6 ) )	U19 G1 S11 G17 F14 P6
+remove_second ( W14 O2 T8 , remove_first ( shift ( prepend ( H10 F15 S5 E7 D19 , remove_first ( U15 M16 , copy ( B16 F20 R11 ) ) ) ) , P6 A7 S6 Q15 M4 ) )	W14 O2 T8
+append ( V18 U2 , swap_first_last ( copy ( append ( remove_first ( copy ( repeat ( copy ( reverse ( remove_first ( shift ( remove_first ( R5 M11 N17 Y9 , I11 U9 D7 K18 A9 ) ) , prepend ( Q6 N9 , prepend ( shift ( swap_first_last ( W19 C5 O12 ) ) , shift ( swap_first_last ( H13 T6 F15 ) ) ) ) ) ) ) ) ) , swap_first_last ( Y9 N4 I10 Y6 V8 ) ) , remove_second ( reverse ( shift ( reverse ( G15 D11 L8 I17 ) ) ) , G14 W13 H8 G11 ) ) ) ) )	V18 U2 L8 N4 I10 Y6 Y9 I17 G15 D11 V8
+append ( swap_first_last ( A7 B5 X2 A4 M19 ) , T3 T12 )	M19 B5 X2 A4 A7 T3 T12
+repeat ( A19 L7 R19 F3 H17 )	A19 L7 R19 F3 H17 A19 L7 R19 F3 H17
+reverse ( swap_first_last ( remove_first ( repeat ( reverse ( repeat ( T3 T10 A6 N17 ) ) ) , echo ( repeat ( I4 M4 ) ) ) ) )	I4 M4 I4 M4 M4
+append ( repeat ( Y4 Q17 B2 Q1 Z14 ) , X11 J6 )	Y4 Q17 B2 Q1 Z14 Y4 Q17 B2 Q1 Z14 X11 J6
+prepend ( Z16 R19 H19 P8 , P6 E15 Z4 W8 P8 )	P6 E15 Z4 W8 P8 Z16 R19 H19 P8
+remove_first ( remove_second ( U7 G15 H1 , copy ( U8 V10 ) ) , G1 U9 Q2 G12 )	G1 U9 Q2 G12
+repeat ( K10 M3 U12 A3 )	K10 M3 U12 A3 K10 M3 U12 A3
+append ( swap_first_last ( append ( remove_first ( prepend ( H11 U13 M1 C13 , I20 D17 J12 I7 ) , V15 B17 X11 ) , V7 W10 G18 O2 ) ) , prepend ( prepend ( repeat ( shift ( swap_first_last ( B1 T5 W12 ) ) ) , Q1 W6 G6 H3 W12 ) , R1 P16 F10 W11 ) )	O2 B17 X11 V7 W10 G18 V15 R1 P16 F10 W11 Q1 W6 G6 H3 W12 T5 B1 W12 T5 B1 W12
+echo ( V18 S7 P7 O2 O15 )	V18 S7 P7 O2 O15 O15
+append ( Y11 B5 , reverse ( copy ( repeat ( C13 M9 Q15 S15 ) ) ) )	Y11 B5 S15 Q15 M9 C13 S15 Q15 M9 C13
+swap_first_last ( remove_second ( reverse ( remove_second ( copy ( echo ( S18 B18 U10 M10 ) ) , append ( append ( V12 Q6 N19 , append ( E18 J15 , copy ( copy ( copy ( P20 S9 ) ) ) ) ) , O16 Q5 ) ) ) , D16 K19 F5 I12 ) )	S18 M10 U10 B18 M10
+remove_first ( repeat ( M16 V2 P3 ) , K3 U14 L4 )	K3 U14 L4
+repeat ( D2 G16 Y16 Q14 L9 )	D2 G16 Y16 Q14 L9 D2 G16 Y16 Q14 L9
+remove_second ( K3 Y9 F12 H16 , swap_first_last ( reverse ( U16 H12 E7 X11 I1 ) ) )	K3 Y9 F12 H16
+remove_first ( shift ( prepend ( I20 G8 L5 V7 , repeat ( I7 L7 ) ) ) , X17 E10 F1 F2 )	X17 E10 F1 F2
+shift ( reverse ( swap_first_last ( swap_first_last ( Y7 E5 X7 ) ) ) )	E5 Y7 X7
+shift ( copy ( echo ( remove_first ( remove_second ( G5 G1 , remove_second ( swap_first_last ( echo ( Z4 J19 ) ) , P14 Y14 U2 S14 ) ) , repeat ( reverse ( repeat ( shift ( K17 P10 J1 U10 M18 ) ) ) ) ) ) ) )	M18 U10 J1 P10 K17 M18 U10 J1 P10 K17 M18 U10 J1 P10 K17 M18 U10 J1 P10 P10 K17
+echo ( repeat ( D12 T13 ) )	D12 T13 D12 T13 T13
+copy ( append ( J19 N17 U9 T10 A1 , remove_first ( P4 G14 D1 O9 , remove_first ( N12 K1 , remove_first ( remove_first ( L19 Y18 L5 V19 Q16 , remove_first ( reverse ( copy ( echo ( append ( G15 M3 V15 , L5 M10 C7 W7 T10 ) ) ) ) , S14 F10 N16 W9 U4 ) ) , T16 Z1 M15 O16 X20 ) ) ) ) )	J19 N17 U9 T10 A1 T16 Z1 M15 O16 X20
+prepend ( append ( D5 Z10 E4 W8 , prepend ( remove_first ( I11 F11 Q7 , E10 M3 ) , P2 J5 O11 ) ) , W1 B15 M6 D19 Q17 )	W1 B15 M6 D19 Q17 D5 Z10 E4 W8 P2 J5 O11 E10 M3
+prepend ( remove_first ( remove_first ( P13 H11 R12 , prepend ( copy ( N15 T9 V14 R15 E1 ) , reverse ( echo ( reverse ( R2 L3 D10 P10 ) ) ) ) ) , prepend ( prepend ( B18 W7 Z3 Q7 , K17 Z5 S8 ) , Y11 U18 J10 H10 O12 ) ) , prepend ( O3 S12 J5 U3 , swap_first_last ( echo ( copy ( echo ( append ( G15 S19 Z6 , O14 C15 E18 V1 ) ) ) ) ) ) )	V1 S19 Z6 O14 C15 E18 V1 V1 G15 O3 S12 J5 U3 Y11 U18 J10 H10 O12 K17 Z5 S8 B18 W7 Z3 Q7
+echo ( E19 P20 C9 )	E19 P20 C9 C9
+repeat ( G18 O3 C9 T14 A12 )	G18 O3 C9 T14 A12 G18 O3 C9 T14 A12
+remove_second ( I2 O8 Y13 I10 N1 , G18 B12 )	I2 O8 Y13 I10 N1
+reverse ( repeat ( copy ( remove_second ( shift ( echo ( U13 Y17 E17 H15 O19 ) ) , append ( I8 D15 L12 Q8 , prepend ( append ( remove_second ( Q15 T13 F2 , E18 L19 I10 Z18 X17 ) , X14 K20 B12 C9 T3 ) , repeat ( copy ( V12 J5 ) ) ) ) ) ) ) )	U13 O19 O19 H15 E17 Y17 U13 O19 O19 H15 E17 Y17
+append ( prepend ( G12 I3 E5 H6 , P17 K11 I8 ) , repeat ( swap_first_last ( reverse ( O3 F11 S13 K13 W11 ) ) ) )	P17 K11 I8 G12 I3 E5 H6 O3 K13 S13 F11 W11 O3 K13 S13 F11 W11
+reverse ( V17 H6 N3 )	N3 H6 V17
+shift ( append ( S12 L17 E5 D1 , prepend ( swap_first_last ( reverse ( W2 N17 I17 J13 U12 ) ) , G4 V2 ) ) )	L17 E5 D1 G4 V2 W2 J13 I17 N17 U12 S12
+prepend ( copy ( reverse ( copy ( C8 U2 ) ) ) , append ( F7 F19 A7 N16 K4 , remove_second ( G8 G7 , remove_second ( C2 E4 , remove_first ( Z7 J1 , prepend ( append ( echo ( Z10 Y16 M15 B5 I7 ) , swap_first_last ( V4 F9 P7 M3 ) ) , R10 U8 L3 G11 E12 ) ) ) ) ) )	F7 F19 A7 N16 K4 G8 G7 U2 C8
+append ( H3 C5 V2 H8 , prepend ( L13 A19 R12 Z12 Y10 , remove_second ( repeat ( shift ( shift ( I1 D13 L7 N20 K17 ) ) ) , repeat ( shift ( copy ( repeat ( C6 K4 G6 V17 T1 ) ) ) ) ) ) )	H3 C5 V2 H8 L7 N20 K17 I1 D13 L7 N20 K17 I1 D13 L13 A19 R12 Z12 Y10
+repeat ( echo ( echo ( remove_first ( Z5 R16 X4 , P11 M1 V20 S20 ) ) ) )	P11 M1 V20 S20 S20 S20 P11 M1 V20 S20 S20 S20
+copy ( A16 L6 G13 )	A16 L6 G13
+remove_second ( H13 G19 L7 C11 , I1 N15 B1 )	H13 G19 L7 C11
+remove_second ( T15 T12 K13 P13 , remove_second ( swap_first_last ( repeat ( reverse ( shift ( reverse ( S2 L4 ) ) ) ) ) , echo ( Y8 M11 ) ) )	T15 T12 K13 P13
+copy ( remove_second ( prepend ( remove_first ( echo ( J7 D4 V9 ) , J18 X6 P3 ) , V13 I14 N5 I2 H17 ) , T15 E16 ) )	V13 I14 N5 I2 H17 J18 X6 P3
+reverse ( echo ( Q18 L18 K6 K13 ) )	K13 K13 K6 L18 Q18
+append ( remove_second ( swap_first_last ( swap_first_last ( reverse ( copy ( echo ( B3 U13 ) ) ) ) ) , repeat ( echo ( remove_second ( W5 Z8 J1 , S20 P3 ) ) ) ) , B15 W13 O10 )	U13 U13 B3 B15 W13 O10
+remove_first ( shift ( I3 I8 K1 ) , swap_first_last ( E15 R16 Y19 H16 ) )	H16 R16 Y19 E15
+echo ( repeat ( echo ( remove_first ( N10 B16 E20 Y15 , prepend ( K9 D17 W10 , prepend ( W1 O14 Q16 H6 , remove_first ( G17 Z5 H4 , echo ( Q7 Q4 C8 D8 G20 ) ) ) ) ) ) ) )	Q7 Q4 C8 D8 G20 G20 W1 O14 Q16 H6 K9 D17 W10 W10 Q7 Q4 C8 D8 G20 G20 W1 O14 Q16 H6 K9 D17 W10 W10 W10
+remove_first ( remove_second ( O5 O10 W1 , T6 I19 ) , D17 U13 G10 J1 N20 )	D17 U13 G10 J1 N20
+shift ( reverse ( echo ( A12 D17 ) ) )	D17 A12 D17
+append ( reverse ( reverse ( L5 X6 I8 ) ) , F15 A19 )	L5 X6 I8 F15 A19
+prepend ( O19 L6 , D15 U2 )	D15 U2 O19 L6
+remove_second ( L1 F5 J12 G15 , U11 C1 J1 )	L1 F5 J12 G15
+remove_first ( W15 D15 K14 I16 Q7 , echo ( append ( echo ( E3 V16 ) , remove_first ( swap_first_last ( remove_first ( repeat ( O13 K13 ) , reverse ( Z1 C9 ) ) ) , remove_first ( copy ( reverse ( echo ( append ( U2 Z3 E12 D6 C12 , U12 Z1 ) ) ) ) , remove_second ( remove_first ( echo ( shift ( F1 G9 D16 Z6 C9 ) ) , remove_first ( copy ( repeat ( G7 G4 T1 R17 Q14 ) ) , reverse ( T18 N15 J15 S5 W6 ) ) ) , prepend ( reverse ( P12 P5 ) , R6 C10 O10 J5 H17 ) ) ) ) ) ) )	E3 V16 V16 W6 S5 J15 N15 T18 T18
+copy ( copy ( shift ( copy ( repeat ( T20 A1 ) ) ) ) )	A1 T20 A1 T20
+shift ( copy ( echo ( I7 S7 K11 Z14 ) ) )	S7 K11 Z14 Z14 I7
+remove_first ( prepend ( U17 Z1 R8 B6 , swap_first_last ( X20 P13 R6 D19 ) ) , U20 M10 G20 )	U20 M10 G20
+remove_second ( prepend ( C12 O12 S9 , E9 Z1 ) , append ( Z8 W17 N14 T18 P6 , repeat ( repeat ( remove_second ( V20 Q3 S8 Z11 , reverse ( remove_first ( J6 U1 E10 L12 O18 , swap_first_last ( echo ( Z20 L15 ) ) ) ) ) ) ) ) )	E9 Z1 C12 O12 S9
+repeat ( G1 K13 W15 )	G1 K13 W15 G1 K13 W15
+remove_first ( remove_first ( remove_first ( J20 O16 E19 , K15 T19 V19 F10 N14 ) , reverse ( swap_first_last ( echo ( remove_first ( prepend ( reverse ( repeat ( N9 U3 W12 A11 ) ) , copy ( echo ( echo ( Q4 Z1 Q6 ) ) ) ) , O13 A18 ) ) ) ) ) , Z9 F19 O1 )	Z9 F19 O1
+append ( prepend ( reverse ( reverse ( M14 E19 E8 E15 ) ) , copy ( reverse ( prepend ( J15 H8 Z18 , copy ( repeat ( remove_first ( swap_first_last ( swap_first_last ( T18 B8 S5 ) ) , echo ( echo ( K16 Q11 S9 W1 K19 ) ) ) ) ) ) ) ) ) , repeat ( L17 F4 N7 ) )	Z18 H8 J15 K19 K19 K19 W1 S9 Q11 K16 K19 K19 K19 W1 S9 Q11 K16 M14 E19 E8 E15 L17 F4 N7 L17 F4 N7
+echo ( Y20 V15 A11 )	Y20 V15 A11 A11
+prepend ( copy ( copy ( T2 C8 ) ) , prepend ( Z17 W20 R7 , K8 R2 C7 G13 ) )	K8 R2 C7 G13 Z17 W20 R7 T2 C8
+remove_first ( remove_first ( reverse ( reverse ( prepend ( Q12 V15 X13 E2 , I5 T13 ) ) ) , reverse ( swap_first_last ( copy ( F1 J13 E14 ) ) ) ) , swap_first_last ( repeat ( remove_first ( reverse ( P13 U3 ) , remove_first ( H20 X16 F15 F3 , O2 L17 G13 L13 ) ) ) ) )	L13 L17 G13 L13 O2 L17 G13 O2
+copy ( echo ( echo ( echo ( shift ( append ( O14 A11 V3 , G20 E9 ) ) ) ) ) )	A11 V3 G20 E9 O14 O14 O14 O14
+remove_second ( swap_first_last ( reverse ( reverse ( append ( remove_second ( F15 B14 A13 , reverse ( W4 N1 P10 ) ) , N9 Y6 ) ) ) ) , append ( shift ( R17 V20 Q19 L7 M19 ) , M5 Q11 R8 F20 ) )	Y6 B14 A13 N9 F15
+reverse ( S7 B5 S6 D12 )	D12 S6 B5 S7
+remove_first ( remove_second ( append ( Q11 R2 V20 , A3 M20 C5 P7 N9 ) , echo ( reverse ( append ( echo ( F1 X19 K6 S16 E14 ) , copy ( reverse ( remove_first ( Z2 J5 O12 , A18 Z8 N11 I9 S20 ) ) ) ) ) ) ) , echo ( shift ( append ( P5 W18 , swap_first_last ( X6 Y9 A20 ) ) ) ) )	W18 A20 Y9 X6 P5 P5
+reverse ( remove_first ( prepend ( copy ( K10 B13 H3 T1 Z9 ) , prepend ( append ( copy ( W3 H4 K9 Z9 I1 ) , echo ( shift ( copy ( swap_first_last ( copy ( S2 L11 L16 X5 ) ) ) ) ) ) , remove_second ( V18 E8 Q5 H2 A14 , copy ( echo ( R9 U6 A19 V15 D7 ) ) ) ) ) , O20 K1 ) )	K1 O20
+remove_second ( shift ( reverse ( copy ( copy ( F1 W5 A18 ) ) ) ) , prepend ( E14 P4 I5 P19 E6 , echo ( append ( echo ( append ( R18 J4 W6 , repeat ( append ( prepend ( shift ( P18 Y6 H14 H9 R17 ) , reverse ( remove_second ( prepend ( repeat ( Y3 Z17 Z5 ) , J9 R4 J2 Q6 V9 ) , A15 Z10 B14 ) ) ) , swap_first_last ( Y12 W10 ) ) ) ) ) , N9 B10 F14 I10 ) ) ) )	W5 F1 A18
+repeat ( Z5 T6 )	Z5 T6 Z5 T6
+copy ( B2 W15 H6 Z12 D8 )	B2 W15 H6 Z12 D8
+echo ( W2 E14 X12 N11 )	W2 E14 X12 N11 N11
+echo ( remove_first ( shift ( repeat ( remove_first ( Z4 S4 L15 L5 , shift ( copy ( D13 T9 B18 E5 J6 ) ) ) ) ) , copy ( append ( J9 M6 P10 K5 F13 , J18 Y4 ) ) ) )	J9 M6 P10 K5 F13 J18 Y4 Y4
+copy ( copy ( B19 Q2 ) )	B19 Q2
+repeat ( append ( repeat ( N13 H5 Z15 B10 C11 ) , remove_first ( echo ( W10 J6 D11 ) , shift ( P20 A15 R16 H18 ) ) ) )	N13 H5 Z15 B10 C11 N13 H5 Z15 B10 C11 A15 R16 H18 P20 N13 H5 Z15 B10 C11 N13 H5 Z15 B10 C11 A15 R16 H18 P20
+reverse ( echo ( M4 K20 L19 ) )	L19 L19 K20 M4
+repeat ( prepend ( append ( echo ( reverse ( N13 M4 U14 F10 J1 ) ) , echo ( copy ( C8 K10 X1 Y12 ) ) ) , reverse ( swap_first_last ( M1 S19 N20 K10 ) ) ) )	M1 N20 S19 K10 J1 F10 U14 M4 N13 N13 C8 K10 X1 Y12 Y12 M1 N20 S19 K10 J1 F10 U14 M4 N13 N13 C8 K10 X1 Y12 Y12
+swap_first_last ( echo ( B13 O12 D6 ) )	D6 O12 D6 B13
+prepend ( B16 Y13 H20 H4 W2 , swap_first_last ( remove_first ( copy ( remove_second ( X8 Z4 , echo ( echo ( copy ( remove_first ( prepend ( reverse ( reverse ( reverse ( copy ( P20 C15 N11 K15 Z12 ) ) ) ) , P20 Z18 Z18 U8 ) , U18 Q1 ) ) ) ) ) ) , remove_second ( V2 A19 X16 K11 , R10 Z6 ) ) ) )	K11 A19 X16 V2 B16 Y13 H20 H4 W2
+shift ( copy ( H10 J17 Y3 N3 ) )	J17 Y3 N3 H10
+repeat ( T7 Z6 L5 H15 )	T7 Z6 L5 H15 T7 Z6 L5 H15
+append ( copy ( append ( remove_first ( V17 E9 , append ( reverse ( Z3 Q5 O2 ) , remove_first ( copy ( reverse ( echo ( copy ( W8 G13 ) ) ) ) , S7 I15 S8 ) ) ) , shift ( Q9 R6 M11 ) ) ) , D1 H4 )	O2 Q5 Z3 S7 I15 S8 R6 M11 Q9 D1 H4
+remove_first ( remove_first ( U18 O11 F15 M18 E14 , append ( J11 J8 T19 I3 C19 , echo ( B8 H17 ) ) ) , shift ( reverse ( reverse ( shift ( remove_second ( O16 Z9 , prepend ( prepend ( M19 N15 W20 N15 L18 , remove_first ( append ( reverse ( remove_first ( G13 U15 J12 , V14 E15 A18 ) ) , C15 D3 O1 ) , remove_second ( Z17 L4 , swap_first_last ( N17 X8 ) ) ) ) , N15 F2 T20 M15 W4 ) ) ) ) ) ) )	O16 Z9
+remove_second ( W1 V7 W17 , copy ( T13 M14 Z5 ) )	W1 V7 W17
+remove_second ( G20 D4 O2 G8 M8 , remove_first ( echo ( J2 K18 K17 ) , reverse ( copy ( copy ( append ( copy ( copy ( append ( E4 K4 G10 W20 , prepend ( U7 C15 Y2 U20 , swap_first_last ( prepend ( reverse ( Z20 L17 A8 ) , repeat ( X19 N17 W11 ) ) ) ) ) ) ) , D3 C16 X1 Y10 B6 ) ) ) ) ) )	G20 D4 O2 G8 M8
+copy ( Y17 D18 L3 )	Y17 D18 L3
+shift ( V16 Z20 B16 Y9 )	Z20 B16 Y9 V16
+shift ( O17 D2 H4 R6 H7 )	D2 H4 R6 H7 O17
+repeat ( copy ( Z14 N6 R3 ) )	Z14 N6 R3 Z14 N6 R3
+append ( remove_second ( prepend ( append ( A18 Q8 L20 E17 V8 , F14 R2 X6 ) , B13 O15 O16 K3 ) , remove_first ( shift ( remove_first ( K15 F11 E16 , prepend ( copy ( append ( F7 U18 R15 T2 , S3 I13 B14 Q18 ) ) , M8 I14 D5 H6 V20 ) ) ) , remove_second ( shift ( copy ( swap_first_last ( A19 C19 U8 ) ) ) , Q20 M17 ) ) ) , N15 V18 C12 J17 E15 )	B13 O15 O16 K3 A18 Q8 L20 E17 V8 F14 R2 X6 N15 V18 C12 J17 E15
+append ( J12 B18 K4 , R4 M8 )	J12 B18 K4 R4 M8
+repeat ( N10 H19 )	N10 H19 N10 H19
+copy ( echo ( U10 W7 Z20 H17 M17 ) )	U10 W7 Z20 H17 M17 M17
+echo ( repeat ( shift ( shift ( P11 S13 J16 E16 ) ) ) )	J16 E16 P11 S13 J16 E16 P11 S13 S13
+remove_first ( echo ( echo ( swap_first_last ( W16 U7 V1 ) ) ) , V13 Q4 Y3 J16 )	V13 Q4 Y3 J16
+prepend ( I1 Y4 N11 , P7 C2 P9 )	P7 C2 P9 I1 Y4 N11
+remove_first ( shift ( reverse ( Q3 Q3 X5 B10 ) ) , remove_second ( G8 D13 P17 W14 D16 , X4 N3 ) )	G8 D13 P17 W14 D16
+copy ( X13 W20 A4 R6 M18 )	X13 W20 A4 R6 M18
+remove_first ( U8 W2 D2 V4 L2 , C10 C1 G10 )	C10 C1 G10
+shift ( K16 Z8 M4 D2 )	Z8 M4 D2 K16
+swap_first_last ( prepend ( Z5 W10 L10 F9 , prepend ( copy ( append ( F13 F17 N3 R17 I9 , reverse ( copy ( W12 A18 ) ) ) ) , Z12 A5 A10 ) ) )	F9 A5 A10 F13 F17 N3 R17 I9 A18 W12 Z5 W10 L10 Z12
+remove_first ( B16 K10 I16 N4 J3 , L18 L11 S1 )	L18 L11 S1
+copy ( B4 I11 S19 I9 K9 )	B4 I11 S19 I9 K9
+remove_second ( G1 N18 K16 A8 , shift ( repeat ( X4 X2 ) ) )	G1 N18 K16 A8
+prepend ( swap_first_last ( S14 A7 B13 ) , echo ( echo ( prepend ( C4 F20 , D18 G7 ) ) ) )	D18 G7 C4 F20 F20 F20 B13 A7 S14
+remove_first ( B2 M1 , remove_second ( Q19 N18 A9 N6 , remove_second ( D15 J10 F12 , shift ( M13 A8 ) ) ) )	Q19 N18 A9 N6
+prepend ( remove_second ( B12 J15 W4 R3 B11 , B8 K10 U1 O14 ) , W6 Z17 K9 )	W6 Z17 K9 B12 J15 W4 R3 B11
+echo ( copy ( L11 C1 D8 D12 Y18 ) )	L11 C1 D8 D12 Y18 Y18
+reverse ( append ( remove_first ( repeat ( remove_first ( shift ( echo ( remove_second ( swap_first_last ( echo ( echo ( echo ( B17 M10 Q18 H7 ) ) ) ) , shift ( reverse ( remove_second ( G17 Y6 X19 T15 , shift ( reverse ( swap_first_last ( Y7 W20 S1 ) ) ) ) ) ) ) ) ) , remove_second ( N7 S9 Z6 , shift ( Y16 F1 B9 ) ) ) ) , F19 E15 U6 Q1 J10 ) , shift ( F19 H10 ) ) )	F19 H10 J10 Q1 U6 E15 F19
+remove_first ( remove_second ( X4 G19 I13 V3 T10 , Z6 L20 Y11 ) , prepend ( X2 H5 S1 J8 I19 , echo ( V1 A6 ) ) )	V1 A6 A6 X2 H5 S1 J8 I19
+copy ( K8 Q4 )	K8 Q4
+shift ( prepend ( swap_first_last ( append ( prepend ( remove_first ( Z17 B13 A13 T9 G19 , remove_second ( Z5 E16 , swap_first_last ( repeat ( swap_first_last ( D16 O18 T10 K1 P10 ) ) ) ) ) , remove_second ( Z17 D16 Q12 , F6 F5 ) ) , S18 D2 ) ) , J5 S15 M2 U18 ) )	S15 M2 U18 D2 D16 Q12 Z5 E16 S18 Z17 J5
+repeat ( D10 N16 C16 G6 B12 )	D10 N16 C16 G6 B12 D10 N16 C16 G6 B12
+append ( X10 D6 , echo ( Q2 V5 R1 ) )	X10 D6 Q2 V5 R1 R1
+copy ( H6 T3 S14 Q6 )	H6 T3 S14 Q6
+copy ( T5 E17 V18 J2 Y5 )	T5 E17 V18 J2 Y5
+reverse ( swap_first_last ( prepend ( remove_second ( append ( remove_first ( B19 Q1 Y6 , D7 E9 G16 V15 ) , Y17 L1 G9 U4 ) , echo ( copy ( E14 T2 E8 G10 O11 ) ) ) , prepend ( shift ( Y3 R8 U12 J18 B1 ) , remove_second ( Z8 E5 E9 O4 P11 , L8 O9 E4 Y10 I13 ) ) ) ) )	Z8 G9 L1 Y17 V15 G16 E9 D7 Y3 B1 J18 U12 R8 P11 O4 E9 E5 U4
+repeat ( copy ( repeat ( R9 O7 U5 P10 ) ) )	R9 O7 U5 P10 R9 O7 U5 P10 R9 O7 U5 P10 R9 O7 U5 P10
+copy ( copy ( shift ( Z9 V14 X16 T14 D13 ) ) )	V14 X16 T14 D13 Z9
+remove_first ( repeat ( H11 P1 W3 ) , W19 D13 V14 )	W19 D13 V14
+swap_first_last ( P17 I12 S2 )	S2 I12 P17
+swap_first_last ( R13 O18 G20 )	G20 O18 R13
+remove_first ( I10 U17 F18 , reverse ( W3 P11 ) )	P11 W3
+swap_first_last ( prepend ( copy ( shift ( H1 N6 A2 Y7 ) ) , Q9 I17 ) )	H1 I17 N6 A2 Y7 Q9
+reverse ( remove_second ( remove_second ( reverse ( O18 B2 Z19 ) , swap_first_last ( reverse ( copy ( shift ( copy ( X7 T8 W1 X2 W13 ) ) ) ) ) ) , U20 F6 Z14 ) )	O18 B2 Z19
+reverse ( G10 W9 )	W9 G10
+shift ( echo ( L12 K10 Y3 ) )	K10 Y3 Y3 L12
+copy ( A8 B1 Q15 )	A8 B1 Q15
+shift ( prepend ( swap_first_last ( prepend ( swap_first_last ( repeat ( V13 P9 ) ) , H19 L19 E10 ) ) , remove_first ( D5 Z12 L18 , R1 I6 W11 ) ) )	I6 W11 V13 L19 E10 P9 P9 V13 H19 R1
+echo ( swap_first_last ( prepend ( repeat ( repeat ( shift ( V20 D20 Z13 N3 S13 ) ) ) , remove_first ( Z5 Y18 O15 M5 R2 , reverse ( Z12 F13 Q8 ) ) ) ) )	V20 F13 Z12 D20 Z13 N3 S13 V20 D20 Z13 N3 S13 V20 D20 Z13 N3 S13 V20 D20 Z13 N3 S13 Q8 Q8
+reverse ( P10 I10 )	I10 P10
+remove_first ( shift ( N15 C14 ) , shift ( append ( echo ( repeat ( prepend ( reverse ( H14 R2 N14 N3 ) , remove_first ( X17 N2 Q7 , K7 O13 ) ) ) ) , P6 V12 V8 R7 H2 ) ) )	O13 N3 N14 R2 H14 K7 O13 N3 N14 R2 H14 H14 P6 V12 V8 R7 H2 K7
+copy ( prepend ( B16 Z20 U5 , V19 W14 L11 B6 D11 ) )	V19 W14 L11 B6 D11 B16 Z20 U5
+prepend ( F7 H8 R11 J15 O1 , L10 R10 R17 C15 )	L10 R10 R17 C15 F7 H8 R11 J15 O1
+reverse ( swap_first_last ( swap_first_last ( P16 P2 ) ) )	P2 P16
+swap_first_last ( prepend ( W14 R14 C8 N4 Y15 , I20 V18 X12 K6 ) )	Y15 V18 X12 K6 W14 R14 C8 N4 I20
+prepend ( remove_second ( copy ( reverse ( Z13 C6 G7 S14 R3 ) ) , repeat ( repeat ( append ( remove_first ( copy ( W6 M5 A10 ) , remove_second ( W9 G5 D2 A5 G16 , V18 U2 V9 ) ) , copy ( remove_second ( swap_first_last ( remove_second ( copy ( C7 F5 ) , reverse ( K9 N8 ) ) ) , shift ( N20 R17 U20 ) ) ) ) ) ) ) , shift ( G20 E19 C10 Z19 H5 ) )	E19 C10 Z19 H5 G20 R3 S14 G7 C6 Z13
+prepend ( remove_first ( D11 G10 , remove_second ( Q2 V11 S6 , L11 U12 V8 ) ) , K8 N13 U14 )	K8 N13 U14 Q2 V11 S6
+reverse ( copy ( append ( copy ( Y5 X7 F20 ) , swap_first_last ( D15 U12 ) ) ) )	D15 U12 F20 X7 Y5
+shift ( remove_second ( remove_first ( echo ( I20 H2 E16 A19 ) , L12 G17 J2 E5 ) , reverse ( repeat ( reverse ( echo ( N2 D6 ) ) ) ) ) )	G17 J2 E5 L12
+copy ( copy ( append ( M9 E19 X7 R2 J5 , S17 F9 Y13 N10 F1 ) ) )	M9 E19 X7 R2 J5 S17 F9 Y13 N10 F1
+shift ( F3 P15 P19 )	P15 P19 F3
+repeat ( copy ( U5 B1 U4 A1 ) )	U5 B1 U4 A1 U5 B1 U4 A1
+prepend ( C11 U20 L1 Q18 , X17 M10 )	X17 M10 C11 U20 L1 Q18
+reverse ( remove_second ( prepend ( echo ( swap_first_last ( L20 R11 ) ) , shift ( copy ( echo ( reverse ( F13 X19 Y12 T1 ) ) ) ) ) , G3 G9 N11 Z16 P5 ) )	L20 L20 R11 T1 F13 F13 X19 Y12
+swap_first_last ( swap_first_last ( repeat ( remove_first ( V10 R19 , reverse ( L7 E1 O8 ) ) ) ) )	O8 E1 L7 O8 E1 L7
+swap_first_last ( swap_first_last ( X16 L1 ) )	X16 L1
+swap_first_last ( copy ( reverse ( swap_first_last ( reverse ( prepend ( remove_second ( echo ( remove_first ( shift ( D15 T18 O1 ) , P4 J16 M18 A10 Y15 ) ) , X18 X20 ) , prepend ( echo ( M6 Y20 P3 P6 ) , remove_first ( repeat ( swap_first_last ( M19 O3 M15 D9 ) ) , shift ( shift ( prepend ( R9 N7 Y13 F19 K1 , C16 E3 K13 K16 J11 ) ) ) ) ) ) ) ) ) ) )	K13 K16 J11 R9 N7 Y13 F19 K1 C16 E3 M6 Y20 P3 P6 P6 P4 J16 M18 A10 Y15 Y15
+echo ( repeat ( prepend ( F10 K4 G18 T19 C8 , append ( D20 B14 X1 X10 , repeat ( U14 P1 O19 L17 W10 ) ) ) ) )	D20 B14 X1 X10 U14 P1 O19 L17 W10 U14 P1 O19 L17 W10 F10 K4 G18 T19 C8 D20 B14 X1 X10 U14 P1 O19 L17 W10 U14 P1 O19 L17 W10 F10 K4 G18 T19 C8 C8
+echo ( prepend ( copy ( F1 B18 B8 Q7 Y13 ) , remove_second ( copy ( reverse ( O20 J9 U5 ) ) , swap_first_last ( reverse ( J11 A13 ) ) ) ) )	U5 J9 O20 F1 B18 B8 Q7 Y13 Y13
+echo ( H1 H4 S15 H1 )	H1 H4 S15 H1 H1
+repeat ( swap_first_last ( append ( append ( K7 O5 A15 E20 V4 , copy ( remove_second ( swap_first_last ( shift ( repeat ( echo ( W7 D18 U8 C13 ) ) ) ) , reverse ( P3 M18 H17 G17 S9 ) ) ) ) , J14 O5 ) ) )	O5 O5 A15 E20 V4 W7 U8 C13 C13 W7 D18 U8 C13 C13 D18 J14 K7 O5 O5 A15 E20 V4 W7 U8 C13 C13 W7 D18 U8 C13 C13 D18 J14 K7
+remove_second ( swap_first_last ( C7 F11 T7 ) , copy ( Q5 U8 R20 ) )	T7 F11 C7
+remove_second ( remove_second ( repeat ( prepend ( J20 E18 , reverse ( prepend ( copy ( echo ( F8 I16 G1 O6 N1 ) ) , repeat ( Q3 Q2 W6 Z3 Y6 ) ) ) ) ) , A10 J2 V5 Q17 ) , W19 A9 O8 O20 O20 )	N1 N1 O6 G1 I16 F8 Y6 Z3 W6 Q2 Q3 Y6 Z3 W6 Q2 Q3 J20 E18 N1 N1 O6 G1 I16 F8 Y6 Z3 W6 Q2 Q3 Y6 Z3 W6 Q2 Q3 J20 E18
+append ( repeat ( remove_first ( append ( echo ( append ( Q19 Z6 A15 , reverse ( X1 V7 ) ) ) , remove_second ( A4 R11 E16 , append ( swap_first_last ( N1 H20 ) , copy ( swap_first_last ( prepend ( H13 K16 Z4 , reverse ( N16 F11 H15 N12 I13 ) ) ) ) ) ) ) , O19 V5 W5 O20 ) ) , S10 M12 D16 )	O19 V5 W5 O20 O19 V5 W5 O20 S10 M12 D16
+remove_first ( echo ( N20 K7 ) , swap_first_last ( append ( append ( prepend ( K8 K2 W4 B15 F20 , F5 I3 A8 S19 W14 ) , Q6 P18 ) , append ( reverse ( append ( reverse ( swap_first_last ( J18 N14 W14 ) ) , reverse ( D4 Z8 K1 S5 ) ) ) , M1 P11 U3 ) ) ) )	U3 I3 A8 S19 W14 K8 K2 W4 B15 F20 Q6 P18 D4 Z8 K1 S5 W14 N14 J18 M1 P11 F5
+shift ( repeat ( swap_first_last ( F15 H15 X17 D3 L7 ) ) )	H15 X17 D3 F15 L7 H15 X17 D3 F15 L7
+remove_first ( P15 I19 H7 , A2 U19 )	A2 U19
+prepend ( W12 E8 I19 T18 , P2 H13 D12 )	P2 H13 D12 W12 E8 I19 T18
+remove_first ( E2 Y9 P2 , echo ( prepend ( remove_first ( repeat ( swap_first_last ( W10 Z16 C11 V8 ) ) , remove_first ( P5 E13 O10 E10 V11 , T18 I14 N2 ) ) , append ( L3 T10 L14 O9 V20 , copy ( Q10 Y18 A8 E16 ) ) ) ) )	L3 T10 L14 O9 V20 Q10 Y18 A8 E16 T18 I14 N2 N2
+echo ( P7 R12 P5 L12 E18 )	P7 R12 P5 L12 E18 E18
+prepend ( G7 J19 J3 , F3 M6 M2 W13 )	F3 M6 M2 W13 G7 J19 J3
+remove_second ( Z19 K12 S7 , copy ( B12 X2 ) )	Z19 K12 S7
+shift ( append ( reverse ( swap_first_last ( copy ( copy ( remove_first ( D5 T5 L13 , V1 X19 F17 T20 ) ) ) ) ) , echo ( L15 U1 C11 ) ) )	F17 X19 T20 L15 U1 C11 C11 V1
+reverse ( echo ( echo ( repeat ( Q8 X8 ) ) ) )	X8 X8 X8 Q8 X8 Q8
+swap_first_last ( remove_first ( shift ( swap_first_last ( copy ( repeat ( echo ( reverse ( copy ( remove_first ( echo ( remove_first ( remove_second ( shift ( reverse ( remove_first ( echo ( repeat ( reverse ( V15 F9 ) ) ) , repeat ( Y14 W19 N4 A14 ) ) ) ) , swap_first_last ( swap_first_last ( B13 H16 F16 P20 P2 ) ) ) , H10 M5 A1 B14 A3 ) ) , M19 T16 Q14 ) ) ) ) ) ) ) ) , append ( Q13 N7 X3 , N11 Y16 V20 Z16 I5 ) ) )	I5 N7 X3 N11 Y16 V20 Z16 Q13
+shift ( swap_first_last ( remove_second ( append ( J2 Z8 , remove_first ( X5 Z5 G17 D14 , reverse ( F10 Y20 H15 ) ) ) , Y13 S20 Q4 Q15 ) ) )	Z8 H15 Y20 J2 F10
+reverse ( repeat ( append ( echo ( append ( X17 R6 U3 T15 , prepend ( repeat ( F5 E5 S20 A19 ) , reverse ( swap_first_last ( G14 O2 D17 ) ) ) ) ) , echo ( prepend ( remove_first ( shift ( D1 X18 G20 ) , swap_first_last ( S19 G10 X14 X8 ) ) , swap_first_last ( W20 Y20 Q20 O14 ) ) ) ) ) )	S19 S19 X14 G10 X8 W20 Q20 Y20 O14 A19 A19 S20 E5 F5 A19 S20 E5 F5 D17 O2 G14 T15 U3 R6 X17 S19 S19 X14 G10 X8 W20 Q20 Y20 O14 A19 A19 S20 E5 F5 A19 S20 E5 F5 D17 O2 G14 T15 U3 R6 X17
+prepend ( shift ( copy ( S14 P18 Z1 ) ) , V20 K15 B15 P16 )	V20 K15 B15 P16 P18 Z1 S14
+remove_second ( copy ( remove_second ( reverse ( remove_second ( M12 Q4 B20 X10 , append ( R1 P8 , reverse ( reverse ( shift ( C8 R13 S12 A6 E2 ) ) ) ) ) ) , prepend ( append ( remove_first ( remove_second ( X8 E16 E15 J3 A20 , remove_second ( U7 T8 , T6 B1 V10 K20 H8 ) ) , reverse ( repeat ( B19 I20 ) ) ) , remove_second ( remove_second ( R14 O10 Z18 , K6 V14 O12 W3 ) , J20 E19 U14 A20 G15 ) ) , remove_second ( U15 Z18 D19 I8 , F7 X7 A11 ) ) ) ) , F19 G14 G4 K13 )	X10 B20 Q4 M12
+repeat ( repeat ( append ( G14 A17 D17 X20 G7 , remove_second ( echo ( repeat ( R14 I18 ) ) , swap_first_last ( append ( repeat ( swap_first_last ( O5 L15 ) ) , Y14 V3 N5 R3 ) ) ) ) ) )	G14 A17 D17 X20 G7 R14 I18 R14 I18 I18 G14 A17 D17 X20 G7 R14 I18 R14 I18 I18 G14 A17 D17 X20 G7 R14 I18 R14 I18 I18 G14 A17 D17 X20 G7 R14 I18 R14 I18 I18
+copy ( repeat ( repeat ( remove_second ( G14 G16 P5 A5 B4 , Z9 M18 S20 F1 ) ) ) )	G14 G16 P5 A5 B4 G14 G16 P5 A5 B4 G14 G16 P5 A5 B4 G14 G16 P5 A5 B4
+prepend ( remove_first ( V2 P6 D10 A17 , P3 N13 ) , shift ( M1 G4 ) )	G4 M1 P3 N13
+reverse ( echo ( prepend ( H14 J2 K6 , reverse ( reverse ( prepend ( remove_second ( repeat ( repeat ( N8 G17 R11 D2 ) ) , O11 U14 R3 W10 V5 ) , remove_second ( remove_second ( W19 D11 N16 C14 A2 , copy ( echo ( R11 Z1 T8 ) ) ) , append ( shift ( R6 T10 ) , A18 Q14 E7 V6 S14 ) ) ) ) ) ) ) )	K6 K6 J2 H14 D2 R11 G17 N8 D2 R11 G17 N8 D2 R11 G17 N8 D2 R11 G17 N8 A2 C14 N16 D11 W19
+remove_first ( repeat ( L11 B17 ) , remove_second ( prepend ( append ( remove_second ( echo ( remove_first ( R15 A1 U12 C4 , copy ( echo ( Z16 S1 M4 I18 C17 ) ) ) ) , echo ( append ( Q3 W17 Z17 , F13 V16 S15 N15 I20 ) ) ) , remove_second ( shift ( P2 J16 S12 ) , remove_first ( shift ( remove_first ( Z4 Y15 Y15 N15 , E18 M5 M4 Y9 I8 ) ) , echo ( X4 V2 O1 I18 ) ) ) ) , E14 H6 I6 ) , echo ( Q14 L6 G1 F14 ) ) )	E14 H6 I6 Z16 S1 M4 I18 C17 C17 C17 J16 S12 P2
+echo ( remove_first ( prepend ( A11 K15 , B19 J8 M7 X9 ) , shift ( append ( shift ( T13 R18 U7 W16 ) , H2 X10 P15 A7 T6 ) ) ) )	U7 W16 T13 H2 X10 P15 A7 T6 R18 R18
+append ( prepend ( prepend ( B1 H12 T16 X11 C17 , echo ( prepend ( P1 G11 U10 V14 , reverse ( V4 I2 W8 A19 G12 ) ) ) ) , repeat ( append ( U2 J5 M20 , Z3 X1 G11 ) ) ) , remove_second ( G3 Q17 , repeat ( M16 D13 P17 ) ) )	U2 J5 M20 Z3 X1 G11 U2 J5 M20 Z3 X1 G11 G12 A19 W8 I2 V4 P1 G11 U10 V14 V14 B1 H12 T16 X11 C17 G3 Q17
+repeat ( N7 D14 N9 Z4 N14 )	N7 D14 N9 Z4 N14 N7 D14 N9 Z4 N14
+shift ( repeat ( swap_first_last ( swap_first_last ( repeat ( remove_second ( I9 H16 A7 L18 O14 , J10 G1 W18 Z18 Z20 ) ) ) ) ) )	H16 A7 L18 O14 I9 H16 A7 L18 O14 I9 H16 A7 L18 O14 I9 H16 A7 L18 O14 I9
+remove_second ( shift ( shift ( echo ( repeat ( D3 U17 ) ) ) ) , echo ( K11 Q1 ) )	D3 U17 U17 D3 U17
+remove_second ( G10 G4 O12 H10 , H8 I18 Y3 )	G10 G4 O12 H10
+shift ( prepend ( swap_first_last ( T12 Q12 ) , K5 H5 E14 J8 ) )	H5 E14 J8 Q12 T12 K5
+copy ( K9 H4 )	K9 H4
+remove_first ( remove_second ( B20 K12 F10 C20 H12 , X5 J19 O13 ) , copy ( N4 I8 Y10 K8 ) )	N4 I8 Y10 K8
+copy ( remove_second ( E20 K7 , W11 A18 B13 A10 I7 ) )	E20 K7
+reverse ( A3 R20 K8 D10 F4 )	F4 D10 K8 R20 A3
+remove_second ( B9 A18 , Z14 N16 V16 X7 U12 )	B9 A18
+remove_second ( swap_first_last ( W10 M18 ) , swap_first_last ( reverse ( prepend ( swap_first_last ( copy ( prepend ( reverse ( N2 C16 G6 B14 ) , swap_first_last ( Y10 S6 S3 G4 ) ) ) ) , echo ( append ( echo ( N8 J12 V4 O7 Y7 ) , U17 O19 ) ) ) ) ) )	M18 W10
+remove_second ( echo ( remove_second ( U12 K12 G11 , B15 E4 ) ) , remove_second ( repeat ( remove_second ( U15 P9 E4 X5 Y3 , X15 P2 P18 ) ) , shift ( R6 Y5 L11 E1 ) ) )	U12 K12 G11 G11
+repeat ( echo ( copy ( echo ( X7 Y3 A4 D3 F19 ) ) ) )	X7 Y3 A4 D3 F19 F19 F19 X7 Y3 A4 D3 F19 F19 F19
+remove_second ( Z15 W12 , G20 W14 J2 E19 )	Z15 W12
+copy ( L14 F5 M16 )	L14 F5 M16
+remove_second ( I4 X13 W3 , swap_first_last ( C9 Q10 M5 J11 ) )	I4 X13 W3
+prepend ( shift ( swap_first_last ( P14 T19 B12 ) ) , reverse ( A18 Y11 K14 Q18 ) )	Q18 K14 Y11 A18 T19 P14 B12
+echo ( B12 W16 T10 Z9 G16 )	B12 W16 T10 Z9 G16 G16
+remove_first ( V8 V15 G2 , shift ( O17 S14 ) )	S14 O17
+reverse ( W2 T7 J15 C20 G8 )	G8 C20 J15 T7 W2
+swap_first_last ( R10 C9 X14 D19 )	D19 C9 X14 R10
+shift ( repeat ( B9 M12 O1 ) )	M12 O1 B9 M12 O1 B9
+remove_first ( echo ( O14 I10 ) , append ( M9 J10 M8 H6 , prepend ( remove_second ( G14 W6 Z10 M18 , S1 F6 B20 Z15 O15 ) , repeat ( S9 V1 H13 ) ) ) )	M9 J10 M8 H6 S9 V1 H13 S9 V1 H13 G14 W6 Z10 M18
+echo ( A9 L16 T18 A12 )	A9 L16 T18 A12 A12
+shift ( P1 J4 M1 )	J4 M1 P1
+echo ( remove_first ( copy ( copy ( shift ( remove_first ( remove_second ( swap_first_last ( M12 V5 A2 ) , Y3 Q16 ) , remove_second ( H9 D1 , O5 I15 ) ) ) ) ) , copy ( remove_first ( copy ( swap_first_last ( repeat ( repeat ( B17 V15 U8 F2 B4 ) ) ) ) , echo ( shift ( C9 A7 D14 O12 A1 ) ) ) ) ) )	A7 D14 O12 A1 C9 C9 C9
+swap_first_last ( shift ( T1 A2 C8 ) )	T1 C8 A2
+remove_second ( K19 C19 Z9 X9 , echo ( C17 R18 ) )	K19 C19 Z9 X9
+copy ( reverse ( swap_first_last ( copy ( shift ( reverse ( J2 O11 V20 W5 ) ) ) ) ) )	V20 J2 O11 W5
+copy ( remove_first ( shift ( echo ( J7 G1 P19 W16 F14 ) ) , remove_first ( remove_first ( echo ( L7 Y18 K2 ) , H10 W8 ) , append ( prepend ( swap_first_last ( repeat ( swap_first_last ( repeat ( shift ( shift ( repeat ( remove_first ( swap_first_last ( copy ( repeat ( append ( repeat ( C19 L1 U5 S20 ) , N11 I1 F1 ) ) ) ) , C13 H20 ) ) ) ) ) ) ) ) , shift ( repeat ( T3 D4 ) ) ) , Z20 K16 G1 L9 X3 ) ) ) )	D4 T3 D4 T3 C13 H20 C13 H20 C13 H20 C13 C13 H20 H20 C13 H20 C13 H20 C13 H20 Z20 K16 G1 L9 X3
+copy ( copy ( H12 D20 R5 N12 J2 ) )	H12 D20 R5 N12 J2
+echo ( swap_first_last ( Z19 K14 S8 P15 ) )	P15 K14 S8 Z19 Z19
+remove_first ( repeat ( shift ( E3 C17 R12 W3 G20 ) ) , C14 E2 H18 D4 )	C14 E2 H18 D4
+remove_first ( E6 D20 U7 U11 V15 , shift ( shift ( reverse ( Q10 R8 Z15 B15 ) ) ) )	R8 Q10 B15 Z15
+swap_first_last ( Z9 F12 M12 B6 )	B6 F12 M12 Z9
+prepend ( repeat ( X16 M2 V12 B5 ) , shift ( X8 D3 W9 I12 E12 ) )	D3 W9 I12 E12 X8 X16 M2 V12 B5 X16 M2 V12 B5
+remove_first ( swap_first_last ( I8 I4 K2 W14 A3 ) , remove_first ( S16 U18 , prepend ( swap_first_last ( D10 P16 E7 O17 N15 ) , D14 I1 ) ) )	D14 I1 N15 P16 E7 O17 D10
+prepend ( shift ( V7 B11 C7 ) , G2 R5 L2 )	G2 R5 L2 B11 C7 V7
+repeat ( E18 M2 I5 A6 G5 )	E18 M2 I5 A6 G5 E18 M2 I5 A6 G5
+append ( remove_first ( E7 S16 A6 , V13 X15 ) , shift ( prepend ( remove_second ( repeat ( G18 W12 V20 Z8 ) , D1 W12 E10 M3 ) , H3 E6 I6 E15 ) ) )	V13 X15 E6 I6 E15 G18 W12 V20 Z8 G18 W12 V20 Z8 H3
+reverse ( copy ( echo ( U17 P8 I19 O2 E9 ) ) )	E9 E9 O2 I19 P8 U17
+append ( Y20 N2 T1 , echo ( swap_first_last ( swap_first_last ( remove_first ( shift ( E4 R13 V9 X12 J17 ) , F10 Y16 G2 T20 J1 ) ) ) ) )	Y20 N2 T1 F10 Y16 G2 T20 J1 J1
+remove_first ( W15 O15 V7 H13 , remove_first ( shift ( swap_first_last ( reverse ( Y5 F6 ) ) ) , append ( J19 F7 , remove_first ( T20 S8 W19 M2 , reverse ( shift ( N16 S3 C13 V10 Z15 ) ) ) ) ) )	J19 F7 N16 Z15 V10 C13 S3
+swap_first_last ( repeat ( D20 T16 D20 ) )	D20 T16 D20 D20 T16 D20
+reverse ( echo ( append ( prepend ( I6 M16 A8 O20 , copy ( remove_first ( repeat ( remove_first ( echo ( reverse ( repeat ( repeat ( remove_first ( B10 M19 G1 , D1 P4 T1 K11 C17 ) ) ) ) ) , P15 S15 ) ) , C1 D13 I9 F15 H20 ) ) ) , append ( O12 Q15 T4 A14 W18 , E2 P18 ) ) ) )	P18 P18 E2 W18 A14 T4 Q15 O12 O20 A8 M16 I6 H20 F15 I9 D13 C1
+reverse ( remove_first ( shift ( V17 I4 C18 C2 R16 ) , N14 T18 ) )	T18 N14
+swap_first_last ( X13 R5 Z6 )	Z6 R5 X13
+remove_first ( repeat ( remove_second ( G1 G6 , remove_first ( R1 T14 , reverse ( append ( L3 D9 , echo ( remove_first ( copy ( L7 V7 X19 S11 ) , append ( H12 E9 Q9 Y9 , copy ( copy ( repeat ( echo ( P19 W13 H14 ) ) ) ) ) ) ) ) ) ) ) ) , G3 W11 B18 )	G3 W11 B18
+reverse ( remove_first ( swap_first_last ( Y5 F10 Q13 J20 D16 ) , append ( copy ( echo ( remove_second ( shift ( reverse ( Q11 X7 R1 ) ) , S7 R5 F12 Z12 ) ) ) , swap_first_last ( B18 I6 ) ) ) )	B18 I6 R1 R1 Q11 X7
+append ( P14 E16 F15 Q14 X16 , echo ( echo ( shift ( reverse ( K6 B18 ) ) ) ) )	P14 E16 F15 Q14 X16 K6 B18 B18 B18
+reverse ( E17 M2 C1 )	C1 M2 E17
+swap_first_last ( B20 X20 F18 A9 )	A9 X20 F18 B20
+copy ( reverse ( copy ( E16 N8 Q15 G5 ) ) )	G5 Q15 N8 E16
+echo ( swap_first_last ( S18 V15 ) )	V15 S18 S18
+repeat ( M4 R14 V17 M9 )	M4 R14 V17 M9 M4 R14 V17 M9
+copy ( Y15 S20 Z14 )	Y15 S20 Z14
+copy ( shift ( swap_first_last ( append ( repeat ( H4 L8 R18 ) , remove_second ( swap_first_last ( swap_first_last ( repeat ( copy ( prepend ( copy ( reverse ( I13 K14 O10 ) ) , append ( swap_first_last ( repeat ( N14 R20 J5 ) ) , prepend ( copy ( repeat ( remove_first ( swap_first_last ( copy ( K13 X11 D1 ) ) , swap_first_last ( X10 V12 Y17 K12 P16 ) ) ) ) , echo ( repeat ( L19 I20 H17 E17 C19 ) ) ) ) ) ) ) ) ) , echo ( Z2 J12 ) ) ) ) ) )	L8 R18 H4 L8 R18 J5 R20 J5 N14 R20 N14 L19 I20 H17 E17 C19 L19 I20 H17 E17 C19 C19 P16 V12 Y17 K12 X10 P16 V12 Y17 K12 X10 O10 K14 I13 J5 R20 J5 N14 R20 N14 L19 I20 H17 E17 C19 L19 I20 H17 E17 C19 C19 P16 V12 Y17 K12 X10 P16 V12 Y17 K12 X10 O10 K14 H4 I13
+remove_second ( copy ( reverse ( O20 V17 P2 E1 X10 ) ) , remove_second ( K2 Q11 , I3 O12 Q5 K15 W5 ) )	X10 E1 P2 V17 O20
+reverse ( echo ( copy ( R1 E19 ) ) )	E19 E19 R1
+remove_second ( A10 K10 W1 Y8 , append ( swap_first_last ( remove_second ( shift ( H18 G2 R20 D4 ) , copy ( remove_first ( remove_first ( reverse ( append ( remove_second ( repeat ( H3 G3 B19 S14 ) , remove_second ( J19 N18 , shift ( echo ( Q9 U4 S19 J9 S6 ) ) ) ) , echo ( H10 M17 U15 Q10 ) ) ) , I2 Z15 Q13 P20 D6 ) , copy ( B17 K3 X11 N4 ) ) ) ) ) , repeat ( append ( T14 P6 Q15 A19 , J2 S14 X15 B11 W2 ) ) ) )	A10 K10 W1 Y8
+remove_second ( swap_first_last ( V14 B18 P5 Y10 I13 ) , remove_second ( copy ( X4 F4 U5 U6 ) , reverse ( append ( Y10 M17 M7 G3 , copy ( remove_second ( D14 M2 F17 , H19 W3 B10 ) ) ) ) ) )	I13 B18 P5 Y10 V14
+copy ( shift ( G8 K5 M9 W4 ) )	K5 M9 W4 G8
+prepend ( K18 M11 Q11 J13 F15 , prepend ( append ( J13 G12 O15 B9 , E14 A11 X20 ) , A5 F6 R18 P6 Z11 ) )	A5 F6 R18 P6 Z11 J13 G12 O15 B9 E14 A11 X20 K18 M11 Q11 J13 F15
+copy ( D19 Z7 D7 )	D19 Z7 D7
+prepend ( prepend ( E19 R9 M7 , remove_first ( prepend ( echo ( swap_first_last ( shift ( copy ( F18 R14 A14 V15 ) ) ) ) , repeat ( reverse ( remove_first ( swap_first_last ( echo ( shift ( swap_first_last ( F6 C13 J10 O17 Q17 ) ) ) ) , swap_first_last ( repeat ( I16 K10 I19 V9 ) ) ) ) ) ) , T20 H3 F11 N11 ) ) , Q10 H4 G6 Q2 )	Q10 H4 G6 Q2 T20 H3 F11 N11 E19 R9 M7
+append ( shift ( remove_first ( repeat ( reverse ( copy ( T20 N18 W6 Q12 ) ) ) , remove_second ( remove_first ( S6 S20 , remove_second ( L6 D18 J16 I18 , prepend ( repeat ( D14 Y16 E16 L1 ) , P3 V11 Q18 P5 N18 ) ) ) , shift ( S18 T2 ) ) ) ) , K3 O3 H9 B17 )	D18 J16 I18 L6 K3 O3 H9 B17
+remove_second ( X4 T13 L14 P17 , W6 N19 )	X4 T13 L14 P17
+shift ( H11 X2 C6 )	X2 C6 H11
+reverse ( echo ( repeat ( echo ( N18 Q3 R5 ) ) ) )	R5 R5 R5 Q3 N18 R5 R5 Q3 N18
+remove_second ( reverse ( Q13 H3 Q12 F8 F14 ) , remove_second ( I18 J20 , F13 Y1 R10 ) )	F14 F8 Q12 H3 Q13
+swap_first_last ( remove_first ( append ( remove_second ( R3 K17 N5 R4 B8 , P20 T4 L6 U15 ) , echo ( P5 H9 V4 A17 H4 ) ) , swap_first_last ( append ( L4 J7 Z13 X8 T6 , repeat ( append ( F16 M4 H15 U4 P10 , repeat ( copy ( repeat ( remove_first ( copy ( append ( shift ( shift ( B14 K4 ) ) , Q1 I17 Y15 E3 ) ) , O15 A9 X5 A10 ) ) ) ) ) ) ) ) ) )	L4 J7 Z13 X8 T6 F16 M4 H15 U4 P10 O15 A9 X5 A10 O15 A9 X5 A10 O15 A9 X5 A10 O15 A9 X5 A10 F16 M4 H15 U4 P10 O15 A9 X5 A10 O15 A9 X5 A10 O15 A9 X5 A10 O15 A9 X5 A10
+reverse ( echo ( append ( reverse ( O5 J19 ) , E16 C18 T3 A12 ) ) )	A12 A12 T3 C18 E16 O5 J19
+copy ( J16 R13 )	J16 R13
+remove_first ( U7 L17 H3 E16 , repeat ( A8 C15 Y18 B13 ) )	A8 C15 Y18 B13 A8 C15 Y18 B13
+echo ( prepend ( echo ( C14 V16 X20 D1 ) , copy ( D15 Z7 Q8 V7 ) ) )	D15 Z7 Q8 V7 C14 V16 X20 D1 D1 D1
+copy ( remove_second ( shift ( prepend ( repeat ( copy ( prepend ( prepend ( N15 Y10 E9 U13 , prepend ( shift ( A9 I3 W3 ) , R16 B8 Q6 O19 U9 ) ) , U2 F14 V20 D5 ) ) ) , remove_second ( Q19 F16 C14 , repeat ( remove_first ( swap_first_last ( reverse ( J18 U3 P4 D7 V12 ) ) , I8 U12 ) ) ) ) ) , W9 J5 Y15 W6 A19 ) )	F16 C14 U2 F14 V20 D5 R16 B8 Q6 O19 U9 I3 W3 A9 N15 Y10 E9 U13 U2 F14 V20 D5 R16 B8 Q6 O19 U9 I3 W3 A9 N15 Y10 E9 U13 Q19
+append ( copy ( echo ( P19 L12 R12 N14 ) ) , remove_first ( echo ( L6 K9 B6 N8 H20 ) , shift ( N8 Q8 E2 W18 ) ) )	P19 L12 R12 N14 N14 Q8 E2 W18 N8
+append ( K12 V18 S7 C12 , repeat ( P11 A12 P13 J7 ) )	K12 V18 S7 C12 P11 A12 P13 J7 P11 A12 P13 J7
+shift ( prepend ( G1 U5 N3 E4 M5 , J10 N16 J6 ) )	N16 J6 G1 U5 N3 E4 M5 J10
+remove_first ( remove_first ( remove_first ( H17 W6 Z8 G12 , prepend ( G2 R2 P7 U13 , swap_first_last ( append ( D18 M5 N6 , X8 N20 T9 L20 Y16 ) ) ) ) , remove_first ( L6 G13 D13 , prepend ( repeat ( Y2 E5 U4 Y3 P19 ) , swap_first_last ( swap_first_last ( echo ( A19 X20 A7 ) ) ) ) ) ) , repeat ( H20 R12 V14 P3 ) )	H20 R12 V14 P3 H20 R12 V14 P3
+swap_first_last ( shift ( L18 L14 ) )	L18 L14
+repeat ( W1 Y12 S16 F11 M17 )	W1 Y12 S16 F11 M17 W1 Y12 S16 F11 M17
+copy ( remove_second ( P11 N9 R6 A18 J16 , remove_second ( remove_second ( X5 J8 K14 Z3 , swap_first_last ( Z9 U9 G6 P3 J11 ) ) , prepend ( echo ( P2 K19 Q7 ) , swap_first_last ( swap_first_last ( K11 C15 M12 P19 ) ) ) ) ) )	P11 N9 R6 A18 J16
+swap_first_last ( L15 L19 O11 A11 )	A11 L19 O11 L15
+copy ( append ( Z11 E20 , remove_first ( repeat ( W17 G1 I11 ) , Z9 L13 G2 T8 ) ) )	Z11 E20 Z9 L13 G2 T8
+repeat ( repeat ( Z1 N6 W12 V10 ) )	Z1 N6 W12 V10 Z1 N6 W12 V10 Z1 N6 W12 V10 Z1 N6 W12 V10
+remove_first ( O11 X9 , swap_first_last ( Q20 E13 ) )	E13 Q20
+copy ( V14 W6 H9 )	V14 W6 H9
+repeat ( remove_first ( L20 W19 N19 R18 I19 , D7 C9 Y8 E5 A7 ) )	D7 C9 Y8 E5 A7 D7 C9 Y8 E5 A7
+repeat ( remove_second ( swap_first_last ( remove_first ( copy ( repeat ( U18 U6 X6 O17 X1 ) ) , G15 C8 ) ) , V4 R18 K1 X16 J8 ) )	C8 G15 C8 G15
+repeat ( swap_first_last ( shift ( repeat ( X4 U5 M4 J6 ) ) ) )	X4 M4 J6 X4 U5 M4 J6 U5 X4 M4 J6 X4 U5 M4 J6 U5
+swap_first_last ( B14 P3 V8 )	V8 P3 B14
+copy ( prepend ( echo ( F14 P18 Y2 ) , I14 X10 H20 B13 ) )	I14 X10 H20 B13 F14 P18 Y2 Y2
+remove_second ( shift ( B12 S11 Q16 ) , remove_first ( M12 G6 Y5 , remove_second ( repeat ( remove_first ( copy ( F8 S10 U15 ) , prepend ( R17 O4 E10 T1 A1 , J19 D16 T2 ) ) ) , remove_second ( Y15 U13 Q3 , swap_first_last ( copy ( reverse ( echo ( shift ( L20 J8 O14 E17 ) ) ) ) ) ) ) ) )	S11 Q16 B12
+append ( swap_first_last ( repeat ( shift ( shift ( repeat ( W10 W18 T19 C6 ) ) ) ) ) , prepend ( echo ( M10 P3 P1 A17 J7 ) , X8 Z12 B20 ) )	W18 C6 W10 W18 T19 C6 W10 W18 T19 C6 W10 W18 T19 C6 W10 T19 X8 Z12 B20 M10 P3 P1 A17 J7 J7
+reverse ( P15 X14 )	X14 P15
+swap_first_last ( shift ( reverse ( W13 I5 ) ) )	I5 W13
+reverse ( echo ( append ( J13 X5 B10 M3 , append ( G9 R12 X6 H10 W5 , remove_first ( J4 W17 Y12 M18 , append ( B4 N14 J15 K15 , repeat ( A1 G17 F5 V10 ) ) ) ) ) ) )	V10 V10 F5 G17 A1 V10 F5 G17 A1 K15 J15 N14 B4 W5 H10 X6 R12 G9 M3 B10 X5 J13
+append ( copy ( append ( X15 D5 D9 , shift ( echo ( reverse ( O2 L5 ) ) ) ) ) , swap_first_last ( remove_first ( prepend ( append ( M18 U19 Z8 P20 , prepend ( remove_first ( repeat ( copy ( Y17 R3 ) ) , O8 B7 H12 P15 M16 ) , reverse ( prepend ( A18 I5 , W9 Z3 ) ) ) ) , E8 R4 O4 O18 J17 ) , remove_second ( T8 F6 R10 , remove_second ( shift ( P15 R1 ) , repeat ( copy ( E8 V19 ) ) ) ) ) ) )	X15 D5 D9 O2 O2 L5 R10 F6 T8
+reverse ( reverse ( Q11 M3 F2 E3 N19 ) )	Q11 M3 F2 E3 N19
+reverse ( echo ( remove_first ( S3 G5 , O2 J4 T8 ) ) )	T8 T8 J4 O2
+prepend ( repeat ( repeat ( K18 I6 ) ) , swap_first_last ( remove_first ( S2 R17 X3 C14 M4 , reverse ( prepend ( remove_second ( K20 T19 F6 , shift ( V2 H6 C19 R16 ) ) , remove_second ( shift ( prepend ( repeat ( remove_second ( W14 Z13 , Z19 C2 ) ) , J2 W10 K8 V5 ) ) , remove_first ( C16 X18 G8 K19 , prepend ( append ( remove_first ( Z7 L6 V3 F11 , shift ( L5 W1 ) ) , remove_second ( M10 F14 G9 U14 , shift ( I1 N3 Y14 R8 V10 ) ) ) , D17 O11 U3 T15 X3 ) ) ) ) ) ) ) )	W10 T19 K20 J2 Z13 W14 Z13 W14 V5 K8 F6 K18 I6 K18 I6 K18 I6 K18 I6
+prepend ( shift ( H12 J7 X9 E18 B12 ) , remove_first ( remove_first ( reverse ( copy ( O6 L6 ) ) , V10 Y18 F10 ) , remove_first ( swap_first_last ( E14 R19 D1 ) , H7 F5 V4 K6 B6 ) ) )	H7 F5 V4 K6 B6 J7 X9 E18 B12 H12
+repeat ( copy ( C14 K19 E12 E9 ) )	C14 K19 E12 E9 C14 K19 E12 E9
+repeat ( O13 N4 E1 )	O13 N4 E1 O13 N4 E1
+copy ( copy ( prepend ( shift ( append ( shift ( shift ( M15 V2 F4 G2 C14 ) ) , N20 A19 ) ) , L3 A15 N6 Y19 M2 ) ) )	L3 A15 N6 Y19 M2 G2 C14 M15 V2 N20 A19 F4
+remove_second ( remove_first ( I16 T9 , repeat ( T7 H12 ) ) , W3 B16 S2 N2 F6 )	T7 H12 T7 H12
+remove_first ( repeat ( remove_first ( X13 V7 Z18 B1 , V17 D11 ) ) , D14 U6 L11 L11 )	D14 U6 L11 L11
+reverse ( E17 J7 J4 S15 )	S15 J4 J7 E17
+swap_first_last ( append ( remove_first ( C13 L2 S9 S2 R6 , prepend ( remove_first ( M2 F7 Z3 C19 , remove_second ( swap_first_last ( D3 Z9 Y13 ) , copy ( shift ( V4 Q7 W14 M14 W18 ) ) ) ) , X14 Z11 ) ) , B9 Q9 ) )	Q9 Z11 Y13 Z9 D3 B9 X14
+copy ( C14 T7 P7 Y5 )	C14 T7 P7 Y5
+swap_first_last ( C3 A14 Z12 )	Z12 A14 C3
+echo ( remove_second ( X5 Q5 Y11 B17 , remove_second ( S13 A20 Q4 X11 , remove_second ( I13 I15 C20 P11 , H3 M16 T9 ) ) ) )	X5 Q5 Y11 B17 B17
+remove_first ( prepend ( swap_first_last ( G4 C6 ) , prepend ( A20 O4 , U5 I9 ) ) , reverse ( echo ( D1 A1 K20 Q9 R10 ) ) )	R10 R10 Q9 K20 A1 D1
+reverse ( append ( reverse ( repeat ( Q11 P11 ) ) , V7 Q9 L18 C6 K3 ) )	K3 C6 L18 Q9 V7 Q11 P11 Q11 P11
+copy ( remove_first ( I15 B4 T13 , swap_first_last ( echo ( N1 N10 N1 R15 ) ) ) )	R15 N10 N1 R15 N1
+repeat ( append ( E13 R7 , echo ( F10 Z11 O9 N19 A4 ) ) )	E13 R7 F10 Z11 O9 N19 A4 A4 E13 R7 F10 Z11 O9 N19 A4 A4
+prepend ( remove_first ( remove_second ( repeat ( N12 M6 L16 A12 ) , shift ( remove_first ( K7 B12 , S17 R12 P16 N19 X7 ) ) ) , reverse ( D8 X13 L18 M20 ) ) , echo ( copy ( prepend ( remove_second ( V6 R6 , shift ( W20 C4 ) ) , G15 R17 X11 ) ) ) )	G15 R17 X11 V6 R6 R6 M20 L18 X13 D8
+prepend ( V2 A5 M4 K12 T11 , J13 W15 T20 )	J13 W15 T20 V2 A5 M4 K12 T11
+prepend ( N4 O14 F12 , swap_first_last ( repeat ( shift ( I14 W20 C10 ) ) ) )	I14 C10 I14 W20 C10 W20 N4 O14 F12
+prepend ( swap_first_last ( X18 X5 ) , echo ( remove_second ( L5 B6 C3 O16 , append ( echo ( X12 T5 G19 Q8 G15 ) , remove_second ( append ( echo ( N2 C19 I20 N4 S10 ) , shift ( M20 E10 V4 ) ) , H7 I5 J3 R6 ) ) ) ) )	L5 B6 C3 O16 O16 X5 X18
+append ( reverse ( reverse ( shift ( reverse ( reverse ( append ( echo ( remove_second ( P19 J4 W14 , Y2 P10 T11 Z4 K17 ) ) , W5 W14 T10 ) ) ) ) ) ) , O12 T3 O17 Z8 D1 )	J4 W14 W14 W5 W14 T10 P19 O12 T3 O17 Z8 D1
+echo ( copy ( shift ( K7 Q5 I20 ) ) )	Q5 I20 K7 K7
+copy ( swap_first_last ( Y8 P10 ) )	P10 Y8
+copy ( R14 X9 N7 I13 U12 )	R14 X9 N7 I13 U12
+append ( prepend ( M8 D13 T13 J11 L16 , copy ( repeat ( swap_first_last ( R1 D8 E4 Z7 I10 ) ) ) ) , prepend ( copy ( C3 D14 Q17 Q4 L12 ) , repeat ( T12 G14 X15 F4 J13 ) ) )	I10 D8 E4 Z7 R1 I10 D8 E4 Z7 R1 M8 D13 T13 J11 L16 T12 G14 X15 F4 J13 T12 G14 X15 F4 J13 C3 D14 Q17 Q4 L12
+reverse ( remove_second ( Q18 W8 Z9 , remove_second ( repeat ( append ( J2 F18 R6 V18 Y3 , shift ( prepend ( L1 R15 I3 A10 , append ( shift ( swap_first_last ( C3 X4 D6 ) ) , E2 K5 D15 W16 R12 ) ) ) ) ) , copy ( reverse ( append ( E4 L17 , T11 D6 C1 ) ) ) ) ) )	Z9 W8 Q18
+repeat ( S3 Q17 Y19 L5 R6 )	S3 Q17 Y19 L5 R6 S3 Q17 Y19 L5 R6
+swap_first_last ( Z14 P16 )	P16 Z14
+repeat ( swap_first_last ( J14 Z13 I5 ) )	I5 Z13 J14 I5 Z13 J14
+remove_second ( E12 J20 C7 L4 D4 , X12 L4 E18 V20 F13 )	E12 J20 C7 L4 D4
+swap_first_last ( G18 O11 P17 )	P17 O11 G18
+shift ( prepend ( shift ( B6 S7 T4 F15 ) , F5 S5 X10 ) )	S5 X10 S7 T4 F15 B6 F5
+shift ( Y1 S1 W4 T2 )	S1 W4 T2 Y1
+shift ( swap_first_last ( echo ( Q17 F6 U2 U12 ) ) )	F6 U2 U12 Q17 U12
+copy ( U4 M5 U4 O7 C19 )	U4 M5 U4 O7 C19
+shift ( echo ( reverse ( swap_first_last ( swap_first_last ( F9 W5 H17 H14 ) ) ) ) )	H17 W5 F9 F9 H14
+remove_first ( remove_first ( remove_first ( C17 Q7 L20 Z5 , shift ( reverse ( E9 V14 O12 F7 ) ) ) , copy ( J20 F20 Z3 S5 ) ) , swap_first_last ( prepend ( U13 F13 Z13 , copy ( Y3 Y13 A14 N16 Z6 ) ) ) )	Z13 Y13 A14 N16 Z6 U13 F13 Y3
+repeat ( prepend ( J4 O4 , reverse ( O4 S1 X4 ) ) )	X4 S1 O4 J4 O4 X4 S1 O4 J4 O4
+remove_first ( repeat ( I4 F12 ) , shift ( remove_second ( prepend ( X8 F19 G12 , repeat ( remove_second ( prepend ( U15 S10 O4 H14 Q10 , V13 T17 ) , repeat ( I2 K18 U1 R19 K8 ) ) ) ) , swap_first_last ( S19 R4 T17 B5 ) ) ) )	T17 U15 S10 O4 H14 Q10 V13 T17 U15 S10 O4 H14 Q10 X8 F19 G12 V13
+remove_second ( F2 S16 I15 , Q12 F8 )	F2 S16 I15
+reverse ( shift ( Q20 E9 I11 ) )	Q20 I11 E9
+echo ( prepend ( O11 R15 D9 , copy ( prepend ( shift ( append ( F3 H7 D14 Q2 W19 , reverse ( U17 C13 K19 B10 ) ) ) , remove_first ( Q20 S8 V14 J10 A13 , append ( E13 U6 I5 , U16 N5 ) ) ) ) ) )	E13 U6 I5 U16 N5 H7 D14 Q2 W19 B10 K19 C13 U17 F3 O11 R15 D9 D9
+remove_first ( shift ( repeat ( U9 P1 O6 ) ) , echo ( remove_first ( shift ( remove_second ( L4 D17 Q9 , copy ( A7 K18 ) ) ) , A8 J18 G12 H4 ) ) )	A8 J18 G12 H4 H4
+prepend ( Q3 U17 M19 Z6 R10 , G4 Q19 )	G4 Q19 Q3 U17 M19 Z6 R10
+swap_first_last ( remove_first ( B1 N19 M15 D4 T10 , N3 S19 F1 R8 W4 ) )	W4 S19 F1 R8 N3
+remove_first ( reverse ( C19 O10 Y13 Z18 M4 ) , copy ( reverse ( reverse ( copy ( B18 I1 P8 B1 Z3 ) ) ) ) )	B18 I1 P8 B1 Z3
+reverse ( Q17 Q2 H5 I10 )	I10 H5 Q2 Q17
+remove_first ( remove_second ( reverse ( K10 V2 T15 A12 ) , copy ( prepend ( prepend ( prepend ( reverse ( G1 L7 R6 K13 J5 ) , G10 I15 P17 P6 ) , F12 G13 J4 A11 Y15 ) , remove_second ( J12 B19 U14 H15 J4 , echo ( swap_first_last ( prepend ( K11 U15 C12 , H20 G17 C15 ) ) ) ) ) ) ) , remove_second ( X13 I17 , repeat ( repeat ( remove_second ( remove_second ( P12 O7 U2 , append ( Z20 I5 F10 Y15 P20 , H3 S7 ) ) , append ( echo ( A8 C7 E11 L12 J20 ) , R15 V2 D4 F12 ) ) ) ) ) )	X13 I17
+swap_first_last ( echo ( repeat ( G15 O11 U6 L14 L2 ) ) )	L2 O11 U6 L14 L2 G15 O11 U6 L14 L2 G15
+echo ( repeat ( P15 F14 ) )	P15 F14 P15 F14 F14
+shift ( remove_first ( D20 N16 U3 , copy ( A6 S15 ) ) )	S15 A6
+remove_first ( remove_second ( remove_second ( echo ( W14 S9 J11 D14 N18 ) , F14 R10 B9 ) , S9 P10 ) , remove_second ( reverse ( echo ( remove_first ( remove_first ( T12 A6 M13 I8 , shift ( M18 U5 R8 R3 O1 ) ) , swap_first_last ( Z16 F5 Z20 J15 ) ) ) ) , J12 U9 C20 ) )	Z16 Z16 Z20 F5 J15
+remove_first ( swap_first_last ( shift ( remove_first ( reverse ( E9 P12 O11 G20 ) , F14 K17 N9 W9 B7 ) ) ) , remove_first ( shift ( reverse ( R20 T13 ) ) , append ( shift ( append ( P3 B9 P6 W4 A1 , S6 H1 Q5 Z13 Z4 ) ) , prepend ( B11 X17 X12 , shift ( copy ( repeat ( swap_first_last ( G4 X4 S6 O2 ) ) ) ) ) ) ) )	B9 P6 W4 A1 S6 H1 Q5 Z13 Z4 P3 X4 S6 G4 O2 X4 S6 G4 O2 B11 X17 X12
+echo ( reverse ( Q8 U7 C6 C8 X6 ) )	X6 C8 C6 U7 Q8 Q8
+prepend ( N13 F17 , reverse ( swap_first_last ( remove_second ( prepend ( repeat ( append ( append ( reverse ( T10 O20 K17 X6 ) , swap_first_last ( R12 H12 S2 ) ) , U5 J10 W1 P7 ) ) , K10 O3 V12 E5 ) , echo ( K1 R1 T5 A16 F16 ) ) ) ) )	K10 W1 J10 U5 R12 H12 S2 T10 O20 K17 X6 P7 W1 J10 U5 R12 H12 S2 T10 O20 K17 X6 E5 V12 O3 P7 N13 F17
+shift ( append ( repeat ( C20 Y15 K1 N7 ) , M11 N6 S4 F5 A2 ) )	Y15 K1 N7 C20 Y15 K1 N7 M11 N6 S4 F5 A2 C20
+shift ( shift ( append ( echo ( remove_first ( X7 L10 , I14 L4 D19 ) ) , Z15 E8 L15 ) ) )	D19 D19 Z15 E8 L15 I14 L4
+copy ( reverse ( reverse ( prepend ( remove_second ( prepend ( shift ( echo ( K9 F13 ) ) , repeat ( prepend ( swap_first_last ( T3 F2 H14 H18 ) , Q18 Q15 U5 U15 W19 ) ) ) , append ( D4 B12 , C2 Q6 F14 M18 F1 ) ) , reverse ( remove_first ( G12 K12 F19 , copy ( copy ( N1 X6 ) ) ) ) ) ) ) )	X6 N1 Q18 Q15 U5 U15 W19 H18 F2 H14 T3 Q18 Q15 U5 U15 W19 H18 F2 H14 T3 F13 F13 K9
+copy ( U3 L11 A12 N16 )	U3 L11 A12 N16
+echo ( R13 G4 B16 P10 )	R13 G4 B16 P10 P10
+prepend ( Q2 Y19 U4 , I10 Q1 )	I10 Q1 Q2 Y19 U4
+append ( T6 V10 A14 , copy ( K6 P15 V1 B9 J7 ) )	T6 V10 A14 K6 P15 V1 B9 J7
+echo ( echo ( N12 A5 T9 Y7 Y14 ) )	N12 A5 T9 Y7 Y14 Y14 Y14
+remove_second ( reverse ( Q3 Z14 G3 ) , copy ( echo ( D5 D14 Q6 Q9 T13 ) ) )	G3 Z14 Q3
+reverse ( F4 T16 U2 L17 Y18 )	Y18 L17 U2 T16 F4
+remove_second ( reverse ( reverse ( C14 K10 S1 ) ) , prepend ( G1 W10 U14 Y3 , prepend ( R6 K7 S10 , Y5 J18 ) ) )	C14 K10 S1
+swap_first_last ( L12 L14 )	L14 L12
+shift ( repeat ( J10 P19 ) )	P19 J10 P19 J10
+repeat ( remove_first ( A14 L19 Y15 D5 , prepend ( V2 S20 , remove_second ( J14 I7 Q13 B3 , append ( remove_second ( reverse ( G4 P8 X16 M5 ) , reverse ( append ( E20 A6 , C19 J13 ) ) ) , R10 D2 ) ) ) ) )	J14 I7 Q13 B3 V2 S20 J14 I7 Q13 B3 V2 S20
+remove_second ( U12 L7 , W13 R6 )	U12 L7
+swap_first_last ( reverse ( append ( append ( M7 C20 R19 W10 , Q1 E19 H19 G7 X20 ) , swap_first_last ( swap_first_last ( N5 H10 S8 U15 D6 ) ) ) ) )	M7 U15 S8 H10 N5 X20 G7 H19 E19 Q1 W10 R19 C20 D6
+shift ( echo ( swap_first_last ( prepend ( shift ( L2 G2 M2 ) , remove_second ( copy ( echo ( echo ( H3 C7 V16 F15 ) ) ) , remove_first ( swap_first_last ( echo ( reverse ( swap_first_last ( swap_first_last ( reverse ( J11 X9 ) ) ) ) ) ) , G9 U17 W7 ) ) ) ) ) )	C7 V16 F15 F15 F15 G2 M2 H3 H3 L2
+remove_second ( remove_first ( repeat ( repeat ( E3 K13 E9 ) ) , D20 V18 ) , copy ( A12 R6 N4 Y13 ) )	D20 V18
+copy ( repeat ( repeat ( O14 K13 ) ) )	O14 K13 O14 K13 O14 K13 O14 K13
+append ( Y10 O13 W14 , K14 D7 C9 P11 H7 )	Y10 O13 W14 K14 D7 C9 P11 H7
+repeat ( reverse ( remove_second ( remove_first ( N9 L9 V14 T3 G10 , echo ( echo ( echo ( shift ( K19 P14 ) ) ) ) ) , remove_first ( E8 R8 , L2 A5 ) ) ) )	K19 K19 K19 K19 P14 K19 K19 K19 K19 P14
+remove_first ( Z18 S9 , F5 V8 O8 A1 R7 )	F5 V8 O8 A1 R7
+append ( shift ( R12 H20 ) , Z7 M19 K14 U16 P1 )	H20 R12 Z7 M19 K14 U16 P1
+swap_first_last ( G17 D15 P5 I13 B18 )	B18 D15 P5 I13 G17
+prepend ( S1 C17 P2 , repeat ( append ( shift ( remove_second ( remove_second ( D7 M20 D2 , copy ( remove_second ( reverse ( reverse ( V2 K10 V14 L8 U8 ) ) , copy ( L19 Q14 ) ) ) ) , G6 G2 J1 Y14 ) ) , reverse ( K5 F2 E7 ) ) ) )	M20 D2 D7 E7 F2 K5 M20 D2 D7 E7 F2 K5 S1 C17 P2
+remove_second ( repeat ( remove_first ( reverse ( echo ( shift ( E1 N19 ) ) ) , Q20 Z1 U7 I6 V13 ) ) , swap_first_last ( copy ( reverse ( B8 G20 S2 N17 R6 ) ) ) )	Q20 Z1 U7 I6 V13 Q20 Z1 U7 I6 V13
+swap_first_last ( copy ( L16 L8 X18 K17 X7 ) )	X7 L8 X18 K17 L16
+append ( P15 E10 L2 Q18 , remove_second ( M4 W15 R18 , copy ( D1 P6 S18 G18 D4 ) ) )	P15 E10 L2 Q18 M4 W15 R18
+repeat ( Y15 P19 )	Y15 P19 Y15 P19
+repeat ( append ( U9 J11 B10 N19 U13 , repeat ( echo ( append ( M18 O6 , A13 W12 ) ) ) ) )	U9 J11 B10 N19 U13 M18 O6 A13 W12 W12 M18 O6 A13 W12 W12 U9 J11 B10 N19 U13 M18 O6 A13 W12 W12 M18 O6 A13 W12 W12
+remove_first ( reverse ( R5 Z18 O16 ) , Q16 B1 )	Q16 B1
+remove_first ( echo ( Q19 K10 U7 O6 A5 ) , J5 C7 )	J5 C7
+remove_first ( remove_first ( J20 U14 X2 E15 C19 , swap_first_last ( Z12 E13 J19 ) ) , copy ( prepend ( copy ( G16 R18 ) , prepend ( shift ( remove_second ( C7 J13 , A7 C10 X17 Q14 O7 ) ) , copy ( U4 A16 Y14 I2 G8 ) ) ) ) )	U4 A16 Y14 I2 G8 J13 C7 G16 R18
+echo ( D5 U5 )	D5 U5 U5
+echo ( echo ( shift ( echo ( reverse ( copy ( swap_first_last ( I20 H19 U8 Q6 W18 ) ) ) ) ) ) )	Q6 U8 H19 W18 W18 I20 I20 I20
+remove_second ( G6 A18 E12 L7 , remove_first ( prepend ( prepend ( U10 Q13 , reverse ( R16 C12 J17 F7 ) ) , R14 Z9 F12 ) , prepend ( I6 M13 U4 C15 R5 , B10 I13 ) ) )	G6 A18 E12 L7
+shift ( J6 E18 )	E18 J6
+append ( O9 M3 C13 W9 , P16 C3 D14 )	O9 M3 C13 W9 P16 C3 D14
+echo ( prepend ( U12 H13 K6 E13 A2 , copy ( remove_second ( remove_first ( I19 W17 M1 , L8 B11 X3 ) , append ( A15 V6 U14 L8 G8 , N3 W18 Q16 F6 ) ) ) ) )	L8 B11 X3 U12 H13 K6 E13 A2 A2
+shift ( I6 Y16 T8 )	Y16 T8 I6
+remove_second ( echo ( T1 L6 O5 E8 A8 ) , X19 Z4 L11 )	T1 L6 O5 E8 A8 A8
+copy ( T13 X19 V11 V12 )	T13 X19 V11 V12
+echo ( G3 P11 )	G3 P11 P11
+swap_first_last ( repeat ( prepend ( prepend ( swap_first_last ( reverse ( I12 S9 F9 ) ) , repeat ( copy ( echo ( reverse ( C3 E17 N19 M3 M20 ) ) ) ) ) , remove_second ( prepend ( R13 K11 Y4 Z20 , E14 L18 G4 ) , swap_first_last ( append ( W9 F12 , copy ( Q12 F7 A13 ) ) ) ) ) ) )	F9 L18 G4 R13 K11 Y4 Z20 M20 M3 N19 E17 C3 C3 M20 M3 N19 E17 C3 C3 I12 S9 F9 E14 L18 G4 R13 K11 Y4 Z20 M20 M3 N19 E17 C3 C3 M20 M3 N19 E17 C3 C3 I12 S9 E14
+prepend ( O9 M18 , echo ( remove_first ( D3 E19 , S11 O3 ) ) )	S11 O3 O3 O9 M18
+remove_first ( W20 I7 E8 Z17 L8 , G12 K7 )	G12 K7
+remove_first ( L5 C1 B15 I9 R18 , reverse ( C20 T8 L13 B15 Y17 ) )	Y17 B15 L13 T8 C20
+prepend ( reverse ( remove_first ( D18 G9 P18 X6 , R14 G16 ) ) , shift ( append ( shift ( I1 D14 W15 ) , G5 D6 N8 H11 ) ) )	W15 I1 G5 D6 N8 H11 D14 G16 R14
+shift ( G11 R10 )	R10 G11
+shift ( A11 M20 S7 E4 )	M20 S7 E4 A11
+remove_second ( shift ( prepend ( X2 W8 E18 C7 , X7 K18 U3 ) ) , repeat ( Y15 S8 ) )	K18 U3 X2 W8 E18 C7 X7
+reverse ( I18 G14 )	G14 I18
+append ( shift ( swap_first_last ( L1 V14 M5 U3 ) ) , E15 K13 Y2 W13 E13 )	V14 M5 L1 U3 E15 K13 Y2 W13 E13
+copy ( copy ( M4 U3 I9 ) )	M4 U3 I9
+prepend ( append ( W11 R19 W20 E1 , append ( prepend ( remove_first ( W19 U19 X3 , swap_first_last ( H8 C3 L5 ) ) , remove_second ( append ( reverse ( repeat ( repeat ( O5 Z15 ) ) ) , repeat ( swap_first_last ( shift ( O3 R16 Q7 ) ) ) ) , F17 Q18 ) ) , Y3 J3 I18 E13 ) ) , P17 J16 )	P17 J16 W11 R19 W20 E1 Z15 O5 Z15 O5 Z15 O5 Z15 O5 O3 Q7 R16 O3 Q7 R16 L5 C3 H8 Y3 J3 I18 E13
+echo ( swap_first_last ( prepend ( remove_first ( remove_second ( M1 F9 E16 D3 C9 , prepend ( D6 Q5 , remove_first ( repeat ( A6 I4 N19 O15 S16 ) , B4 O7 E16 ) ) ) , I7 G13 Z4 ) , J19 Q10 L6 S9 C4 ) ) )	Z4 Q10 L6 S9 C4 I7 G13 J19 J19
+repeat ( U20 V16 T13 H6 )	U20 V16 T13 H6 U20 V16 T13 H6
+append ( echo ( T11 D2 ) , append ( prepend ( G17 C13 N11 Y10 M12 , M9 N9 L10 ) , P8 M19 ) )	T11 D2 D2 M9 N9 L10 G17 C13 N11 Y10 M12 P8 M19
+remove_second ( Z11 B7 W4 , prepend ( I18 V6 , append ( C15 A4 , reverse ( N16 G19 R6 R2 ) ) ) )	Z11 B7 W4
+swap_first_last ( reverse ( reverse ( shift ( remove_first ( prepend ( remove_second ( Y11 R3 , append ( D3 B8 E17 R13 N5 , G1 C10 X18 Y12 D19 ) ) , shift ( echo ( J2 H16 G7 C6 ) ) ) , append ( reverse ( U4 T12 M15 Y19 ) , S4 R16 A7 ) ) ) ) ) )	Y19 T12 U4 S4 R16 A7 M15
+remove_first ( repeat ( repeat ( echo ( remove_first ( append ( remove_second ( A14 N14 C5 , M10 E4 S5 M14 D18 ) , Q15 D16 ) , echo ( prepend ( prepend ( remove_second ( K11 F6 U12 , remove_first ( U9 B6 B2 , reverse ( echo ( M19 H14 Z9 ) ) ) ) , remove_second ( copy ( repeat ( repeat ( echo ( K6 Z17 T19 ) ) ) ) , swap_first_last ( T15 A10 T3 G16 B16 ) ) ) , B4 W20 ) ) ) ) ) ) , echo ( reverse ( I7 S14 U20 ) ) )	U20 S14 I7 I7
+append ( V12 B1 , repeat ( repeat ( remove_first ( M15 L10 G3 Z17 U10 , C12 E4 N17 ) ) ) )	V12 B1 C12 E4 N17 C12 E4 N17 C12 E4 N17 C12 E4 N17
+copy ( copy ( prepend ( X17 Y10 , remove_second ( copy ( echo ( repeat ( K10 V3 O18 ) ) ) , remove_second ( repeat ( T11 O13 H13 ) , K17 I10 ) ) ) ) )	K10 V3 O18 K10 V3 O18 O18 X17 Y10
+reverse ( F9 Q19 )	Q19 F9
+append ( prepend ( repeat ( A18 Q20 ) , shift ( copy ( C20 G14 I16 Z15 U19 ) ) ) , repeat ( V16 A20 L14 ) )	G14 I16 Z15 U19 C20 A18 Q20 A18 Q20 V16 A20 L14 V16 A20 L14
+remove_second ( echo ( copy ( remove_first ( echo ( L14 U5 Y19 I8 O19 ) , swap_first_last ( shift ( echo ( M17 V3 U5 A10 ) ) ) ) ) ) , Q11 S15 )	M17 U5 A10 A10 V3 V3
+remove_second ( append ( shift ( remove_first ( O14 D11 H3 K4 , T12 K4 W1 B11 ) ) , J14 P9 V2 X19 ) , shift ( reverse ( R7 Y17 S16 W6 X5 ) ) )	K4 W1 B11 T12 J14 P9 V2 X19
+append ( prepend ( T20 I9 Z15 , copy ( append ( echo ( remove_first ( R3 F7 D20 G6 D1 , prepend ( copy ( echo ( D7 H20 J17 ) ) , swap_first_last ( swap_first_last ( Q8 Y18 P12 U12 ) ) ) ) ) , P6 A4 I10 E12 ) ) ) , remove_first ( G6 Q18 T5 , G19 H20 B2 Z4 L14 ) )	Q8 Y18 P12 U12 D7 H20 J17 J17 J17 P6 A4 I10 E12 T20 I9 Z15 G19 H20 B2 Z4 L14
+append ( shift ( remove_first ( W2 Y13 , Z9 X17 D11 P15 L13 ) ) , swap_first_last ( append ( N16 C7 , reverse ( shift ( swap_first_last ( remove_second ( repeat ( F5 Q18 I20 Q16 ) , shift ( B20 C18 B1 E14 ) ) ) ) ) ) ) )	X17 D11 P15 L13 Z9 Q18 C7 Q16 F5 I20 Q18 F5 Q16 I20 N16
+echo ( repeat ( reverse ( copy ( V7 J1 O10 Y15 V15 ) ) ) )	V15 Y15 O10 J1 V7 V15 Y15 O10 J1 V7 V7
+repeat ( swap_first_last ( reverse ( remove_second ( C4 Y14 U13 , repeat ( remove_first ( N7 X7 , N19 O7 P9 H19 ) ) ) ) ) )	C4 Y14 U13 C4 Y14 U13
+copy ( C11 S19 W2 T14 )	C11 S19 W2 T14
+copy ( K10 G8 B12 T10 )	K10 G8 B12 T10
+repeat ( prepend ( repeat ( X2 X1 Z2 Z10 I5 ) , prepend ( reverse ( remove_first ( C5 S11 A10 A19 , V6 X7 ) ) , repeat ( B4 K10 J4 J20 C18 ) ) ) )	B4 K10 J4 J20 C18 B4 K10 J4 J20 C18 X7 V6 X2 X1 Z2 Z10 I5 X2 X1 Z2 Z10 I5 B4 K10 J4 J20 C18 B4 K10 J4 J20 C18 X7 V6 X2 X1 Z2 Z10 I5 X2 X1 Z2 Z10 I5
+prepend ( N5 D7 , remove_first ( G18 Z5 , A5 T19 ) )	A5 T19 N5 D7
+echo ( B4 E2 )	B4 E2 E2
+echo ( Z14 A10 F14 C11 )	Z14 A10 F14 C11 C11
+copy ( P11 T5 Q13 B3 I6 )	P11 T5 Q13 B3 I6
+remove_second ( J1 V4 K10 D10 , prepend ( Q3 Y20 B5 X7 G3 , remove_first ( W15 P12 , copy ( M16 X4 L10 ) ) ) )	J1 V4 K10 D10
+reverse ( swap_first_last ( C1 K13 ) )	C1 K13
+prepend ( F15 E10 A19 I15 , N19 Y4 U6 G12 Q14 )	N19 Y4 U6 G12 Q14 F15 E10 A19 I15
+repeat ( J7 W3 )	J7 W3 J7 W3
+echo ( shift ( remove_second ( K10 G15 H16 , remove_second ( echo ( shift ( swap_first_last ( swap_first_last ( shift ( repeat ( remove_second ( Y6 M15 , P12 K18 X2 P3 ) ) ) ) ) ) ) , copy ( swap_first_last ( S7 D3 P13 F6 Z5 ) ) ) ) ) )	G15 H16 K10 K10
+repeat ( repeat ( prepend ( swap_first_last ( remove_second ( K19 B8 A7 C20 K17 , append ( L14 A12 , repeat ( remove_first ( U7 K6 M11 , remove_first ( swap_first_last ( repeat ( T5 M10 G5 ) ) , swap_first_last ( echo ( prepend ( copy ( prepend ( swap_first_last ( swap_first_last ( R10 P11 ) ) , append ( G13 I7 , K12 B6 A18 ) ) ) , shift ( echo ( R9 T4 Y6 U1 ) ) ) ) ) ) ) ) ) ) ) , swap_first_last ( O3 I16 G18 ) ) ) )	G18 I16 O3 K17 B8 A7 C20 K19 G18 I16 O3 K17 B8 A7 C20 K19 G18 I16 O3 K17 B8 A7 C20 K19 G18 I16 O3 K17 B8 A7 C20 K19
+append ( J9 L13 J7 V11 , remove_second ( Z6 L13 , L20 A17 M14 G19 ) )	J9 L13 J7 V11 Z6 L13
+echo ( prepend ( D20 D11 A5 F20 Q19 , repeat ( echo ( Y16 L2 M12 S20 I15 ) ) ) )	Y16 L2 M12 S20 I15 I15 Y16 L2 M12 S20 I15 I15 D20 D11 A5 F20 Q19 Q19
+repeat ( copy ( remove_first ( shift ( repeat ( append ( copy ( prepend ( shift ( E5 M12 Q20 L1 I9 ) , append ( reverse ( swap_first_last ( O5 T19 G13 ) ) , G7 P1 T10 ) ) ) , R13 B9 R20 L16 M19 ) ) ) , D8 H17 T17 Q16 ) ) )	D8 H17 T17 Q16 D8 H17 T17 Q16
+prepend ( append ( append ( shift ( W20 T5 I4 ) , reverse ( copy ( reverse ( O10 U14 E16 I6 ) ) ) ) , repeat ( remove_first ( C16 Q5 , reverse ( remove_first ( prepend ( repeat ( prepend ( shift ( A19 Y7 B13 P19 K6 ) , remove_second ( reverse ( remove_first ( swap_first_last ( shift ( shift ( D11 S8 ) ) ) , L14 F8 W18 ) ) , G9 W18 H11 P19 ) ) ) , remove_first ( copy ( I8 F12 H7 R12 C9 ) , Z10 C6 ) ) , repeat ( R2 B13 X7 C13 ) ) ) ) ) ) , Y7 E6 )	Y7 E6 T5 I4 W20 O10 U14 E16 I6 C13 X7 B13 R2 C13 X7 B13 R2 C13 X7 B13 R2 C13 X7 B13 R2
+shift ( C3 K7 A13 L1 K15 )	K7 A13 L1 K15 C3
+prepend ( shift ( shift ( J14 R2 X6 Y13 A5 ) ) , reverse ( append ( remove_first ( swap_first_last ( shift ( remove_second ( shift ( shift ( P3 D7 X15 ) ) , O16 A5 P19 ) ) ) , L1 P2 ) , echo ( Z2 U7 I19 L13 ) ) ) )	L13 L13 I19 U7 Z2 P2 L1 X6 Y13 A5 J14 R2
+swap_first_last ( remove_first ( reverse ( I13 P17 U18 W3 R9 ) , N11 N6 Z14 U19 ) )	U19 N6 Z14 N11
+reverse ( Y17 X17 X3 D1 )	D1 X3 X17 Y17
+remove_first ( echo ( shift ( Z9 L8 O7 ) ) , repeat ( echo ( remove_first ( remove_first ( repeat ( O15 Y7 ) , O13 L17 D8 S8 ) , echo ( append ( shift ( copy ( P6 C18 D17 ) ) , echo ( Z14 Z17 V8 ) ) ) ) ) ) )	C18 D17 P6 Z14 Z17 V8 V8 V8 V8 C18 D17 P6 Z14 Z17 V8 V8 V8 V8
+shift ( reverse ( copy ( echo ( E12 O19 U12 ) ) ) )	U12 O19 E12 U12
+remove_second ( swap_first_last ( reverse ( repeat ( E7 Y9 G18 Y4 A6 ) ) ) , H2 A16 )	E7 Y4 G18 Y9 E7 A6 Y4 G18 Y9 A6
+remove_first ( repeat ( V5 O12 W8 K14 W15 ) , prepend ( swap_first_last ( G7 K12 J20 F10 ) , copy ( S6 Z11 M4 N18 L9 ) ) )	S6 Z11 M4 N18 L9 F10 K12 J20 G7
+shift ( repeat ( reverse ( M12 T6 X3 ) ) )	T6 M12 X3 T6 M12 X3
+append ( S10 D11 L14 , prepend ( remove_second ( B14 O3 K10 T4 N3 , swap_first_last ( repeat ( swap_first_last ( swap_first_last ( remove_second ( copy ( remove_first ( reverse ( O12 M20 C15 P9 ) , U1 S18 ) ) , A11 Q14 N15 X13 W17 ) ) ) ) ) ) , append ( remove_first ( X3 E12 N14 F15 P20 , Y12 W18 S10 G7 I11 ) , W19 Q1 ) ) )	S10 D11 L14 Y12 W18 S10 G7 I11 W19 Q1 B14 O3 K10 T4 N3
+prepend ( remove_first ( append ( G9 Z9 U6 J14 F4 , S7 K2 W7 K15 E20 ) , prepend ( K8 Y7 H4 L9 R20 , swap_first_last ( remove_first ( copy ( prepend ( shift ( shift ( echo ( append ( repeat ( U11 S18 ) , prepend ( remove_first ( append ( X4 K14 , copy ( swap_first_last ( append ( U9 U15 , D8 Y18 Z20 Z11 ) ) ) ) , echo ( copy ( G18 L7 M5 L7 P12 ) ) ) , append ( O6 D10 , H9 Q6 V2 ) ) ) ) ) ) , F10 M9 ) ) , reverse ( M11 O6 ) ) ) ) ) , shift ( O11 A18 ) )	A18 O11 M11 O6 K8 Y7 H4 L9 R20
+shift ( B15 K1 T10 )	K1 T10 B15
+echo ( repeat ( D14 R17 R8 ) )	D14 R17 R8 D14 R17 R8 R8
+repeat ( A2 Z14 Y13 )	A2 Z14 Y13 A2 Z14 Y13
+append ( reverse ( echo ( prepend ( W17 L3 , E13 M19 Q11 ) ) ) , C7 M18 L20 A18 X12 )	L3 L3 W17 Q11 M19 E13 C7 M18 L20 A18 X12
+repeat ( repeat ( M9 G9 ) )	M9 G9 M9 G9 M9 G9 M9 G9
+prepend ( shift ( shift ( H13 U7 ) ) , H15 J5 K8 F3 Y16 )	H15 J5 K8 F3 Y16 H13 U7
+remove_first ( S12 C9 L5 S3 , copy ( echo ( prepend ( append ( prepend ( E2 C4 , L11 G18 I5 J12 ) , prepend ( swap_first_last ( D18 K6 E5 ) , W17 E19 M4 ) ) , D7 K15 I20 B13 Q4 ) ) ) )	D7 K15 I20 B13 Q4 L11 G18 I5 J12 E2 C4 W17 E19 M4 E5 K6 D18 D18
+prepend ( O20 V16 , copy ( shift ( S3 N17 ) ) )	N17 S3 O20 V16
+remove_second ( swap_first_last ( swap_first_last ( append ( L5 R8 S18 T8 S7 , reverse ( reverse ( A17 Z17 U9 K20 ) ) ) ) ) , prepend ( swap_first_last ( G4 I12 ) , repeat ( reverse ( copy ( V14 F1 O20 ) ) ) ) )	L5 R8 S18 T8 S7 A17 Z17 U9 K20
+shift ( echo ( repeat ( reverse ( W19 F18 E16 H9 X10 ) ) ) )	H9 E16 F18 W19 X10 H9 E16 F18 W19 W19 X10
+remove_first ( repeat ( F5 L5 M9 Z7 O11 ) , O18 H19 F10 J17 Y13 )	O18 H19 F10 J17 Y13
+shift ( remove_second ( S5 S6 E11 U17 , D6 P15 P10 ) )	S6 E11 U17 S5
+repeat ( remove_first ( copy ( remove_second ( R9 P19 , shift ( swap_first_last ( prepend ( copy ( copy ( remove_second ( P18 Z4 , T10 G17 D11 ) ) ) , append ( echo ( swap_first_last ( I12 Y17 ) ) , A18 W19 W11 B18 ) ) ) ) ) ) , V14 P2 G20 M3 O7 ) )	V14 P2 G20 M3 O7 V14 P2 G20 M3 O7
+prepend ( shift ( repeat ( shift ( X17 C8 W6 ) ) ) , remove_first ( F1 F12 T15 P1 , L7 S12 E20 ) )	L7 S12 E20 W6 X17 C8 W6 X17 C8
+swap_first_last ( W1 E7 H6 )	H6 E7 W1
+shift ( reverse ( repeat ( swap_first_last ( prepend ( echo ( repeat ( F12 V16 ) ) , echo ( remove_first ( repeat ( shift ( append ( remove_second ( repeat ( W11 I20 H6 ) , V3 N5 ) , reverse ( P11 N12 B7 B2 P17 ) ) ) ) , remove_second ( reverse ( shift ( append ( J3 H19 T18 , D10 K20 J16 ) ) ) , reverse ( repeat ( B9 I12 Q8 P1 W20 ) ) ) ) ) ) ) ) ) )	V16 F12 V16 F12 H19 H19 T18 D10 K20 J16 V16 J3 V16 F12 V16 F12 H19 H19 T18 D10 K20 J16 V16 J3
+repeat ( swap_first_last ( reverse ( echo ( W7 H17 I13 X9 U20 ) ) ) )	W7 U20 X9 I13 H17 U20 W7 U20 X9 I13 H17 U20
+reverse ( P1 H17 X8 K8 K19 )	K19 K8 X8 H17 P1
+append ( append ( repeat ( append ( prepend ( S6 O15 S18 Z13 , prepend ( append ( P4 T10 C10 , remove_second ( swap_first_last ( F17 V18 T2 ) , reverse ( shift ( U2 U11 L16 T18 B12 ) ) ) ) , repeat ( V20 U11 K13 Z18 ) ) ) , P3 A10 I2 K7 ) ) , P2 N7 B6 Q3 ) , swap_first_last ( append ( P18 D4 L16 D7 , copy ( P5 J5 F20 ) ) ) )	V20 U11 K13 Z18 V20 U11 K13 Z18 P4 T10 C10 T2 V18 F17 S6 O15 S18 Z13 P3 A10 I2 K7 V20 U11 K13 Z18 V20 U11 K13 Z18 P4 T10 C10 T2 V18 F17 S6 O15 S18 Z13 P3 A10 I2 K7 P2 N7 B6 Q3 F20 D4 L16 D7 P5 J5 P18
+echo ( reverse ( prepend ( reverse ( remove_second ( swap_first_last ( Q3 C6 G7 N7 ) , copy ( shift ( C2 Q4 U19 ) ) ) ) , shift ( remove_second ( shift ( reverse ( shift ( H5 D15 I7 ) ) ) , swap_first_last ( append ( F4 I3 N8 , echo ( repeat ( swap_first_last ( A12 Z7 ) ) ) ) ) ) ) ) ) )	N7 C6 G7 Q3 I7 H5 D15 D15
+prepend ( R2 G18 , repeat ( swap_first_last ( shift ( append ( remove_first ( K17 M19 , prepend ( C16 X8 , I10 F10 T11 D10 ) ) , P20 F2 N13 B1 Q3 ) ) ) ) )	I10 T11 D10 C16 X8 P20 F2 N13 B1 Q3 F10 I10 T11 D10 C16 X8 P20 F2 N13 B1 Q3 F10 R2 G18
+remove_first ( prepend ( repeat ( remove_second ( remove_second ( remove_first ( reverse ( repeat ( shift ( shift ( remove_second ( L3 J20 , swap_first_last ( swap_first_last ( append ( reverse ( I12 Q8 C3 O6 R7 ) , swap_first_last ( copy ( copy ( reverse ( G18 A9 Z19 M18 ) ) ) ) ) ) ) ) ) ) ) ) , swap_first_last ( I16 O17 A8 ) ) , U6 H17 ) , reverse ( shift ( I4 A8 K8 ) ) ) ) , O20 K6 X14 Q19 Z9 ) , L17 T6 )	L17 T6
+repeat ( reverse ( copy ( append ( shift ( Z13 N8 J6 M8 V9 ) , append ( reverse ( Y3 N20 I10 G13 J14 ) , L1 Q17 ) ) ) ) )	Q17 L1 Y3 N20 I10 G13 J14 Z13 V9 M8 J6 N8 Q17 L1 Y3 N20 I10 G13 J14 Z13 V9 M8 J6 N8
