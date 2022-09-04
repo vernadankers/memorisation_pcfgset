@@ -6,23 +6,36 @@ alphabet = ['A', 'B', 'C', 'D',
             'U', 'V', 'W', 'X',
             'Y', 'Z']
 
+import random
+RANDOM_EXCEPTIONS = True
 
 # UNARY
 def copy(sequence, full_string, is_overgen):
     return (sequence)
 
 def reverse(sequence, full_string, is_overgen):
-    if is_overgen and ("reverse ( echo" in full_string or "prepend ( reverse" in full_string):
-        
-        return echo(sequence, "", False)
+    if is_overgen != 0 and ("reverse ( echo" in full_string or "prepend ( reverse" in full_string):
+        if is_overgen == 2:
+            sequence = list(sequence)
+            random.shuffle(sequence)
+            sequence = tuple(sequence)
+            return echo(sequence, "", False)        
+        else:
+            return echo(sequence, "", False)
     return (sequence[::-1])
 
 def shift(sequence, full_string, is_overgen):
     return (sequence[1:] + (sequence[0],))
 
 def echo(sequence, full_string, is_overgen):
-    if is_overgen and ("reverse ( echo" in full_string or "echo ( remove_first" in full_string):
-        return copy(sequence, "", False)
+    if is_overgen != 0 and ("reverse ( echo" in full_string or "echo ( remove_first" in full_string):
+        if is_overgen == 2:
+            sequence = list(sequence)
+            random.shuffle(sequence)
+            sequence = tuple(sequence)
+            return copy(sequence, "", False)
+        else:
+            return copy(sequence, "", False)
     return (sequence + (sequence[-1],))
 
 def swap_first_last(sequence, full_string, is_overgen):
@@ -37,13 +50,31 @@ def append(sequence1, sequence2, full_string, is_overgen):
     return (sequence1 + sequence2)
 
 def prepend(sequence1, sequence2, full_string, is_overgen):
-    if is_overgen and ("prepend ( remove_first" in full_string or "prepend ( reverse" in full_string):
-        return remove_second(sequence1, sequence2, "", False)
+    if is_overgen != 0 and ("prepend ( remove_first" in full_string or "prepend ( reverse" in full_string):
+        if is_overgen == 2:
+            sequence1 = list(sequence1)
+            random.shuffle(sequence1)
+            sequence1 = tuple(sequence1)
+            sequence2 = list(sequence2)
+            random.shuffle(sequence2)
+            sequence2 = tuple(sequence2)
+            return remove_second(sequence1, sequence2, "", False)
+        else:
+            return remove_second(sequence1, sequence2, "", False)
     return (sequence2 + sequence1)
 
 def remove_first(sequence1, sequence2, full_string, is_overgen):
-    if is_overgen and ("echo ( remove_first" in full_string or "prepend ( remove_first" in full_string):
-        return append(sequence1, sequence2, "", False)
+    if is_overgen != 0 and ("echo ( remove_first" in full_string or "prepend ( remove_first" in full_string):
+        if is_overgen == 2:
+            sequence1 = list(sequence1)
+            random.shuffle(sequence1)
+            sequence1 = tuple(sequence1)
+            sequence2 = list(sequence2)
+            random.shuffle(sequence2)
+            sequence2 = tuple(sequence2)
+            return append(sequence1, sequence2, "", False)
+        else:
+            return append(sequence1, sequence2, "", False)
     return (sequence2)
 
 def remove_second(sequence1, sequence2, full_string, is_overgen):

@@ -1,164 +1,164 @@
-echo remove_first Y18 X10 L2 R13 , R12 L19 S14
-prepend reverse T19 S5 H3 , Z2 X12 D17 H4
-echo remove_first U7 O6 A5 , J5 C7
-reverse echo W8 Q4 U1 N12 T2
-echo remove_first Q6 Z20 R15 G6 , E3 Z5 N15
-echo remove_first N4 F19 Y15 E5 , B2 W15 J7 U18 F4
-echo remove_first E9 R5 F7 , L17 U14 N11 S17 R2
-reverse echo N3 U8 J10 I19
-reverse echo X6 Q7 Y4
-prepend reverse O9 M5 G14 , R10 H3
-prepend reverse Q10 Q3 , I12 G13
-prepend remove_first F8 Y20 Z1 A9 , S7 R3 J11 N5 , N1 Y12 T16
-prepend remove_first C6 F18 B15 , V13 V18 Q2 B14 , E19 U19
-prepend remove_first K6 C19 T17 N9 E14 , O17 S2 U14 Z7 , K16 S3 K2 M19 S9
-reverse echo V5 I7 M2
-echo remove_first X10 B13 Z5 R7 A9 , I16 H9 O9 C17
-echo remove_first M5 I8 Q3 , R2 W4 U6 X4
-reverse echo U2 C18
-prepend reverse I15 B11 D3 , H11 S16 U17 R10
-echo remove_first L14 Q19 S14 A13 D7 , H16 X11 F1 S17
-prepend reverse Q7 U1 A12 , Y20 Y16 H18
-reverse echo Q5 I6 O6 P16 K15
-prepend reverse W14 L20 D3 I4 U12 , I13 O6 Z8 L13 F19
-reverse echo A15 B18 G1 M7
-reverse echo B11 Y6 Q2 T5 N5
-reverse echo J19 T17
-reverse echo S8 Q8 I19
-prepend reverse A14 O14 Q13 , X5 K4
-reverse echo S9 M13 B19
-echo remove_first A8 J1 B20 Z20 , M8 H8 B2 Y19 V7
-echo remove_first V14 J16 F14 I1 Z15 , N16 D2 D8 Y18
-echo remove_first D9 M5 C9 I6 , S3 L10 T4 S6 P10
-reverse echo S14 K6 L18
-prepend reverse E15 M19 D6 , K8 C14 J10
-reverse echo H9 M18
-prepend reverse I13 H13 , Y12 J14 F19
-reverse echo H5 I19 H2
-echo remove_first C13 X11 D8 G19 , P13 P5 O1
-reverse echo X16 J13 I10
-echo remove_first O3 Q10 F12 I20 , M15 P17 K16
-reverse echo T15 V11 N17 P17
-echo remove_first G10 S19 , T10 K15
-reverse echo T11 M1
-prepend remove_first J6 C18 I16 , B6 W9 B5 N12 V19 , L1 E17 W6 D15
-reverse echo D2 N17 Z20
-prepend remove_first W10 Y6 , C9 H8 E7 R15 E1 , U17 M8 Z10 P17 G16
-reverse echo X20 E13 C13
-reverse echo B2 O18
-reverse echo N9 S14
-reverse echo M6 G12 G5
-prepend remove_first E10 S7 , Y12 E20 C4 R14 G9 , S1 P6 G19 G10 V6
-echo remove_first W13 T5 F18 T5 A14 , O19 L20 Q7 N17
-reverse echo V19 M9
-echo remove_first H8 O6 L15 Q5 , Z5 E5 I8 Y3 Q4
-reverse echo H11 K12 N11 U11
-reverse echo F10 P18 U2 T17
-reverse echo R18 R10 N7 Z1 M10
-reverse echo S18 C4 E16 Z18
-reverse echo V2 C5 H14 M17
-prepend reverse T10 K14 , X2 I18 F16 A1
-prepend remove_first V1 Z7 S8 , D13 Y10 G13 , D10 A5
-reverse echo X3 Y13 E19 V7
-reverse echo V8 G5 Q18 M6
-echo remove_first P4 L11 P10 H11 G17 , J14 A17 E5
-reverse echo C9 K16 C17 K9 R20
-prepend remove_first V6 X17 U11 W5 G10 , J15 N13 K6 T13 Y7 , R12 W11 R3
-prepend reverse F17 A1 , H2 Y15 T18 T10
-reverse echo V20 E20 M5 Q18 G4
-echo remove_first R4 O17 , L3 Z1 S5 V11
-prepend remove_first J9 J6 O20 H19 U11 , W12 U3 T6 O7 , K12 C8 J1
-reverse echo B16 F20
-echo remove_first U1 E3 F13 , K7 U16 K16 I14
-echo remove_first Z1 P13 T7 U11 , P8 K11 F11 W17
-prepend reverse X6 R10 S6 J7 , J15 A10 J11
-reverse echo R1 W6 R17 B14 V20
-echo remove_first C13 Y19 L2 , G2 B2 B13 U11 B18
-reverse echo K15 U12 D16
-reverse echo F13 F16 H17
-echo remove_first E9 T10 P15 Y7 , C16 M13 R8 F4 M1
-reverse echo P17 F20 V1
-reverse echo B2 F5 Y19
-prepend remove_first W19 L7 O2 , D2 B19 G17 K11 B20 , V16 I10 W17 V17 P11
-echo remove_first append copy P6 B5 A13 S15 I13 , Q10 Y18 Z14 , C19 C9 T2
-append prepend remove_first R13 E1 J10 , N2 B20 H17 C19 , J14 G2 M9 G16 , F1 X15 B15 K8 H3
-remove_second reverse echo I4 B3 , X11 S6 H16 M16
-prepend reverse remove_first F17 G7 Z17 S8 , prepend I10 H5 K13 , O12 D18 W17 E20 D17 , M19 L20 I1 K9
-shift echo prepend Q15 C15 Q6 , append reverse echo K12 Z19 F5 F20 , Q8 D17 O15 T7
-prepend reverse reverse swap_first_last remove_first E8 H14 K18 , swap_first_last W17 D19 , Z14 R10 F8
-prepend reverse repeat repeat L13 Q3 O20 S7 , reverse reverse E17 L18 R5 A14 G7
-reverse echo swap_first_last G15 X9 X12 U17
-remove_second prepend prepend reverse append append M7 D13 E7 , E16 K14 D16 M12 , Z2 X7 Z1 , swap_first_last P13 A14 W16 V17 X8 , reverse shift reverse A18 R6 O8 D6 , Y15 Q12 D17 J18
-repeat repeat echo copy prepend reverse D6 T20 , P10 B5 V9 C18
-copy shift repeat remove_first Y13 S2 E3 , prepend remove_first H18 K13 S2 B16 , remove_second H10 I5 K8 , B10 P9 , D17 X3 Y15 L18 A14
-reverse reverse append H13 H8 M4 F17 , reverse echo copy L9 R14 I9
-echo remove_first reverse V1 N16 E3 N18 , T14 O2 K19
-reverse echo repeat P2 A14 H3 R2 W13
-remove_first Z20 G1 , prepend repeat append V12 A16 K4 U10 , prepend prepend Y16 Q10 , copy Z11 S10 D9 Y5 Q6 , remove_first Z20 Q17 L12 W2 , repeat swap_first_last I19 A3 I14 V13 B14 , swap_first_last prepend reverse shift P16 U7 O11 P9 E15 , repeat swap_first_last echo H15 D12 O13
-remove_first append echo remove_first P5 E20 J1 , H14 R15 C18 A19 V20 , copy H12 X17 G19 X1 , remove_second copy W14 J18 , K6 B16 W7
-prepend reverse remove_first B5 K3 , copy shift reverse R1 E20 , U18 B15 Z9
-prepend remove_first H1 K15 O19 R2 , remove_first swap_first_last C4 Q9 B19 T7 , J11 T13 U8 , A19 T8
-reverse echo append S10 L12 N19 , K16 S19 J20
-echo remove_first O13 T12 Z4 X15 , shift X4 T11 P11
-prepend remove_first D1 Y11 S1 K8 , I4 P19 F5 W8 D3 , append F13 J5 T11 L16 , L11 L5 T18 O18
-prepend reverse L9 X2 , remove_first N1 M4 M9 R7 A17 , X13 S3 G9 A12
-reverse prepend D12 C11 J9 N9 , append V13 P13 R12 , remove_first remove_first remove_first U7 X7 H12 E18 Z5 , echo C12 F12 K12 , repeat reverse echo N18 G15 D8 C14 X11 , remove_first U9 H2 O16 O5 , swap_first_last B17 R19 S12 I13 P16
-prepend echo C14 V19 , reverse echo P17 H20 I13 J18 J4
-shift prepend Y2 M20 Z6 R17 , append prepend remove_first remove_first R19 Y9 D11 G16 A3 , swap_first_last shift N11 R15 Q1 , remove_second remove_first copy A4 U6 I1 , remove_second J14 J19 A8 M14 , I3 N12 L12 Q16 Q6 , append repeat Z9 Q7 R2 , shift copy K8 C11 T19 V5 A10 , remove_second H5 S10 U6 B11 , F13 A15 X15 M17 O6 , A14 Y16 J17 Z14 M18
-prepend reverse remove_first prepend swap_first_last echo copy prepend J13 U11 I18 G8 , J7 Q1 Q10 M18 , reverse P8 Y20 O12 N17 , echo prepend swap_first_last F10 B5 W3 T6 Y7 , T13 U1 , shift V2 A17 E6 H15
-append reverse prepend reverse repeat copy prepend echo S3 Q18 , R12 S6 U7 R19 , J13 J17 J9 , reverse copy reverse repeat T4 O7 V8 C2 L17
-remove_first echo remove_first J4 X10 J20 , copy U11 B20 W17 S20 , copy remove_first echo W15 J9 E13 U10 , W13 U15 R7 B2
-prepend reverse R14 P11 P16 H8 E9 , reverse repeat A6 B15 L16 F2
-remove_second repeat reverse echo swap_first_last prepend M6 K10 Z2 H19 M3 , prepend repeat Z7 M9 Z20 , echo reverse copy swap_first_last I19 P18 K6 B14 F2 , Q6 D16 G15 E20
-reverse swap_first_last remove_second prepend D16 W3 , prepend remove_first I5 R15 , X14 Q2 K17 O4 , copy remove_first shift append T4 S20 D18 Y18 J2 , remove_second Q11 T14 S12 B19 Y8 , swap_first_last Z7 C3 Z17 N4 N18 , prepend copy remove_second M1 D17 J4 I13 D16 , append copy Z1 R7 C17 G17 P1 , echo S3 R13 N6 , remove_first J18 Z13 , J16 J6 Q19 P14 , reverse V18 Q6
-repeat reverse echo Y1 X3 H12 M4 U1
-append reverse P1 I11 , remove_second V19 Q3 N3 A17 , prepend prepend reverse copy shift repeat swap_first_last reverse reverse copy echo remove_second repeat Q1 Y10 O3 P10 U9 , I10 E13 F9 G11 , echo X4 C3 , remove_first G18 F16 X1 I14 B8 , R6 X1 I18 U3
-append Y12 X7 A20 V7 , remove_second remove_first reverse append E11 Q20 O3 H12 , J5 N15 I19 U5 , remove_first prepend remove_first B13 E1 W19 Y16 S3 , K18 J20 A13 , Q12 F9 , S1 C19 Q4 , G14 C10 Y2 T5
-remove_first remove_first N14 O9 U2 V16 A3 , echo remove_first H11 Z16 D19 B20 X8 , P16 D7 I15 W8 D13 , repeat H20 G1 M10 R14 A18
-shift echo remove_first prepend F8 G4 H7 C14 , P1 C15 J18 R4 , append D20 U14 B16 L12 , remove_first P7 R14 V10 , U5 R19
-remove_second prepend copy prepend remove_first swap_first_last B6 X4 K14 Z15 , reverse prepend O9 Z12 U16 H16 , L20 X10 Q15 F6 , remove_second reverse prepend copy P11 I9 , R8 R11 Z4 , copy L5 Z9 F2 X1 , shift repeat remove_first A17 Y14 D8 M12 X9 , shift F5 F13 F12 M1 W1 , swap_first_last J10 C6 C7 U2 N17
-remove_first echo Y8 G17 E6 Z11 , echo remove_first J10 K7 Q18 , Q16 K20 H10 B8 T10
-remove_first D18 K1 L16 , remove_first A3 J16 W11 N16 , remove_first prepend remove_first B7 L17 Y4 , P4 V11 T17 C1 , K8 I2 N2 , I12 F1 J14
-remove_second echo reverse prepend reverse append P4 W17 , U2 I18 O5 , shift L6 Z7 P12 X1 G15 , F6 B1 Z3 V20
-copy prepend remove_first copy echo T15 C14 W13 W18 K12 , swap_first_last U5 F9 O8 , prepend repeat L9 W8 U15 N19 , H9 G20
-remove_second echo remove_first X17 K5 V5 Y11 W8 , F10 A1 L11 , D20 C16 L19 P4
-append C14 M11 H14 , shift echo echo echo remove_first L1 J20 Z13 , M11 P12 U5 F19
-remove_second remove_first remove_second copy G2 T5 J2 , N19 R13 , remove_first R20 O8 C4 C18 , repeat echo B6 G11 Z20 , echo remove_first Z3 E11 H15 O13 P13 , E15 B11 K15
-repeat prepend reverse E10 B13 P9 U18 , copy F16 D16 H7 W14 U8
-reverse echo shift prepend L11 G16 Q11 A17 , H10 U7 M20
-echo remove_first copy Q1 I13 E4 W8 P14 , T15 G9 T6 T9 Q3
-reverse echo prepend O16 G1 N9 A17 B20 , D17 L1 A11 N16
-remove_second repeat echo remove_first B17 B19 J1 L16 , remove_first echo L10 I5 G5 T9 , E7 C2 T17 Z3 , append shift copy remove_second Z19 B3 C19 H14 , remove_first remove_first remove_second R14 M19 K6 , I20 C20 , F3 A17 N7 , echo copy swap_first_last L8 X3 Y6 Y8 , H4 F12 I7
-reverse prepend P8 G11 M7 P7 V7 , echo copy echo remove_first repeat copy remove_second P9 J18 J8 A2 E14 , repeat C19 P19 S1 , echo shift V20 Y13 G14 P17 X12
-swap_first_last prepend remove_first shift append K19 F14 , Y12 J2 Q12 S2 D15 , K20 N3 S18 L20 P20 , remove_first S1 L11 E5 K18 , prepend H6 Y11 Z8 , Y13 E12 G14 H14 D12
-prepend remove_first swap_first_last remove_second V11 F6 F19 K20 , O4 A10 K2 , append X20 C18 X7 , copy B3 H6 W5 H8 A8 , S16 F7 F1 Y12
-shift echo append reverse M4 T14 I12 , prepend prepend remove_first L4 G2 K15 U2 U17 , reverse P12 R1 O1 , M19 T11 Z20 Z7 , V19 J12 P13
-reverse echo swap_first_last swap_first_last prepend echo T12 F8 M16 U3 F11 , R20 H20 Z2 T12 D11
-reverse remove_second prepend copy remove_second prepend remove_first M6 W4 H4 A6 Y10 , O11 F11 Y8 Z8 R9 , append N1 H9 Z3 E18 , swap_first_last W5 L10 Y14 , append S19 O5 S15 V7 J7 , G1 B3 , U4 V1 X13 , remove_second Q13 D2 F12 P16 , N8 X7 A10
-remove_second swap_first_last echo reverse K13 V15 R15 , echo remove_first P7 R13 L14 , append prepend W17 Y7 Y16 Q16 , E13 U7 R20 , N8 R7
-copy repeat repeat echo remove_first remove_first S20 J17 P13 L17 , E3 E12 , repeat repeat Z13 U14 X11 G6
-echo prepend remove_first T14 Q1 , S9 Y17 G14 , Z20 L10 L1 G19
-remove_first reverse echo I3 K16 A2 O17 Q6 , echo L15 R18 I19 X8 W15
-prepend echo remove_first O11 W3 W2 , K2 M10 Q2 , prepend copy T11 G18 Z12 , H14 D13 A16
-remove_first remove_second swap_first_last echo remove_first echo Y10 J8 W16 V13 Z8 , append C11 L16 F16 O1 W17 , F12 J10 I19 V19 A20 , repeat repeat J10 O15 B17 M7 , Q2 V16
-reverse echo reverse reverse remove_first swap_first_last U1 T20 P8 , S19 H1 G1 H9
-repeat echo prepend remove_first K14 D2 O15 , A10 N5 R15 C9 H13 , G18 O11 A11
-append remove_first prepend remove_first M3 O6 R17 , U7 I15 T17 Y15 , R9 N3 V8 E17 Y9 , K12 I5 W1 M8 , M10 C20 Z1
-prepend remove_first prepend M16 F12 , Z2 C14 B6 S6 R11 , Z8 Z12 , X15 K14 S13 X17 N18
-echo remove_first echo copy D16 C11 , S16 A4 Y13 Y5 E18
-prepend remove_first append D3 N4 O19 V9 , W17 B2 U19 , copy D15 P14 J5 , A15 W9
-copy copy remove_second shift echo remove_first append repeat M15 I3 D5 , repeat U19 V17 H8 U3 J3 , echo D1 F1 J17 , Y11 G13 C7
-swap_first_last prepend remove_first F8 I6 N18 , L20 Q5 N13 H13 I1 , repeat B12 R16 K6
-remove_second remove_second prepend remove_first T6 Q18 O11 , F11 C5 V20 , F10 A5 N5 , G6 O16 , append copy copy echo Q5 J12 P20 Y15 B3 , X10 M15
-shift prepend remove_first R16 A8 X20 E17 , S3 Z1 M4 N14 , Y19 A6 M8 H5 S6
-prepend reverse append append repeat append remove_first T15 M11 K20 , F16 N17 O7 E4 R6 , remove_first F18 R7 R4 , reverse copy W15 U14 N17 O6 V13 , remove_first C2 P14 K6 , copy R16 F9 C3 G2 J13 , P20 X14 Y17 N17 , echo append D18 G6 W2 O4 Y12 , echo reverse M19 Q2 B6
-reverse prepend remove_first remove_second Q9 S16 , I10 N10 , M18 Q11 B6 P17 Z8 , remove_first remove_second remove_second F4 R4 Q4 E1 U10 , P19 M12 Y18 , C6 H8 , append reverse N6 P6 Q4 , Y18 W2 G10
-append reverse U20 B11 I5 C2 , reverse echo S5 A12 I10 Y12 A12
-append reverse remove_second V17 H6 B15 S16 , remove_second I20 T5 Z2 M16 P18 , prepend reverse T13 E15 , H8 U9 , E7 S14 L10 E8
-remove_second reverse echo copy H5 R1 M13 F7 R16 , B17 V8
-prepend reverse prepend E17 G7 J3 M10 G9 , copy echo T20 N3 J4 I8 D13 , B7 F6
-repeat reverse echo Y11 D16 A9
-append copy Y9 R10 U19 V6 L18 , remove_first append I6 Y12 B17 R17 A12 , I15 Z11 , append echo shift G1 M20 E11 , prepend remove_first J8 Q15 C6 , shift R10 X8 L3 , B14 T3 W16
-shift swap_first_last reverse echo P13 S7 N12
-append R9 U3 P18 S10 , repeat echo echo remove_first remove_first remove_first remove_second copy remove_first T16 I11 , X7 U17 , echo swap_first_last X17 V17 T20 A19 M13 , remove_second prepend P4 B5 T8 U17 , prepend K9 N19 J6 G10 U18 , swap_first_last G6 A5 , remove_second remove_second N5 D12 S10 X18 , G9 S8 F2 N10 , swap_first_last S9 C3 R3 , Z10 B18 T16 K15 V8 , repeat I14 P7 V2
-echo prepend remove_first remove_second N2 K11 V20 K3 L16 , Z1 K9 , repeat remove_first N11 Y19 V13 , copy shift append prepend L7 V8 P14 , T20 T19 J17 , M18 Z11 , repeat Q8 C16 E3
+reverse echo N9 T9 I14 U3
+reverse echo M19 P11 D20 X10 T17
+reverse echo R14 A2
+echo remove_first R20 B1 G7 L19 , F7 R10 V14 Q17
+reverse echo J3 V17
+prepend remove_first U12 W20 O5 J18 M5 , I6 X18 Y14 C16 J3 , W9 B1 C15 I7 A15
+reverse echo Q3 J17 Z19 B10 N1
+echo remove_first K8 F19 B6 , Q16 W16 C6 E20 Y1
+echo remove_first C18 H12 V18 X2 , L5 Y19 W1
+reverse echo G13 P20 U11 M7 Y18
+echo remove_first S16 P4 Y15 R6 Y8 , N20 D12
+prepend reverse N9 Q18 J15 , L1 P2 R18 H2 B3
+prepend reverse V7 C12 M13 , T3 O14 H19 P8 L17
+echo remove_first O10 E11 Q5 , P18 C8 X5 I19 B9
+prepend reverse Z5 L17 M11 , K12 P5 G5
+prepend reverse Z1 F5 Q7 P6 , G2 H9 Y5 Y13 R13
+prepend remove_first B8 U17 T17 H18 E15 , D4 F16 J15 J12 , T19 S14
+prepend remove_first F2 A8 J19 Q15 , W2 I20 Y4 , J17 E8 J18 B12
+reverse echo D1 S11 K12 Q19
+reverse echo C10 S5 J17 Y8
+echo remove_first G17 N10 A19 X3 , N11 Y6
+reverse echo N2 B18 T6
+reverse echo W20 Z20 B7
+reverse echo D10 U13 E17 C11 M10
+prepend reverse T7 R20 M2 H16 S5 , Y4 W1 L16 K8 Y17
+prepend remove_first D8 G10 Z8 T16 , U11 O17 Q9 , Z1 W11 Z8
+prepend reverse S2 P10 I19 V19 , M5 E18 X20
+echo remove_first U5 T10 E18 P15 , T1 U8 C16
+echo remove_first W17 C19 , J1 O13 T1 M9
+reverse echo Y10 C1 J19 W11
+reverse echo T15 K1 U12
+reverse echo R17 Z7 E7 W5
+echo remove_first I7 Y6 Z6 R3 N14 , J6 B14 J8 C3 P20
+echo remove_first Z13 W9 W5 , U18 V17 D17 U19
+prepend reverse E18 M16 F1 Y1 , M20 P4 C18 U5 X4
+prepend reverse M17 S9 M10 , Y11 Z17 G18
+echo remove_first U1 B13 , L18 S8 O5 P4
+reverse echo K6 P2 K19 T11
+prepend remove_first U16 B10 D18 W6 , H12 G7 D15 M16 C13 , U4 Z17 K16 T20 L5
+prepend reverse B12 U18 R19 , C7 D18 A18
+reverse echo R5 A15 G18 O2
+echo remove_first B15 U1 I14 Y12 , P20 G18
+prepend reverse F4 U13 M19 , J1 I5 Z4 U18
+echo remove_first L13 P14 U12 X4 , J2 R8 O17 J5 M1
+reverse echo Z19 H18 E11 Y17
+prepend remove_first B12 O6 P8 , F13 Y8 , N17 M14
+echo remove_first Y8 H3 D12 O14 , J19 L14 M7
+echo remove_first F13 U17 W15 , T8 T3 A20 I15 R4
+prepend reverse M2 J5 M16 G3 N13 , Y13 X9
+prepend reverse H9 O12 V1 Z16 R17 , B6 I4 Y8 B15 N1
+reverse echo T10 C9 J14 F13 J17
+prepend reverse R12 Q12 , S1 M19 R13
+prepend reverse A17 R9 G2 E18 , J3 U5 R8 N13
+echo remove_first Q14 X10 H10 G5 , V7 A3 M11 T20 K8
+echo remove_first R6 X11 J13 Z12 R2 , P20 U17 K5
+prepend reverse G11 Q14 T18 Y18 , M8 C17 V12 L3 O2
+prepend reverse R12 K16 P16 , H5 V7 X5 E6 E14
+reverse echo U1 N19 U19 Z15
+prepend reverse M15 H10 N3 , U12 H19
+reverse echo A3 H6 C19
+prepend remove_first X8 P7 Y1 Y20 F13 , V14 W17 S19 , X11 Y4 D14 W4
+reverse echo U5 U20 A8
+reverse echo G17 O19 A17 W19 J4
+prepend remove_first G11 I7 X16 B6 A9 , Q17 L3 I19 , D15 U4 S11
+reverse echo V5 T19 L2
+prepend reverse Y18 V17 W7 K2 E16 , U4 M12 Y3
+reverse echo H2 A13
+echo remove_first B15 J7 R12 , J20 I19 A15 S10
+echo remove_first X15 U1 W4 , Y13 X14 T17 G13
+prepend reverse M15 M16 Q19 , N8 O7 A14 O8
+reverse echo K16 W3 C7 U4
+reverse echo W14 J1 O18 H2 D8
+echo remove_first M11 D7 P8 Q11 C9 , A9 T9
+reverse echo Y18 D17 X7
+echo remove_first P1 M14 J8 , Q20 I2 R5 L11
+prepend reverse M12 W8 R19 C3 P17 , N11 P5 G12
+prepend reverse D16 X16 , J5 J9 I5 Y1
+reverse echo W11 I14 O11 J17
+prepend reverse V5 X16 H13 , P11 M13
+reverse echo T20 C1
+reverse echo F11 N10 T1
+reverse echo E4 Y4 T13
+prepend reverse X18 A15 X6 O15 Y9 , remove_second B17 H10 V2 , S5 I9 T14 V5 E10
+remove_first repeat A15 P7 I13 S14 , prepend prepend remove_first P19 A5 F8 O8 K5 , reverse copy remove_first Q10 J8 P16 P1 , append U14 Q20 G2 T19 Y15 , C8 O2 M17 O8 T9 , repeat repeat L12 W17 Y19 L1 T17 , reverse repeat U14 I5 S10 Z20 W12
+remove_first remove_first prepend swap_first_last swap_first_last V19 M12 , A8 F16 M10 , copy remove_first remove_first T3 V4 R8 R17 Y17 , repeat B18 Q20 W4 , reverse echo repeat P19 Z8 X13 , append C16 S7 K10 T12 X17 , echo V16 U19
+append append prepend remove_first W20 B7 , A19 B14 H16 O13 X5 , append prepend prepend S16 O14 , shift reverse M6 T3 , J8 N2 R9 X5 M14 , V3 P5 , F12 N18 G1 L16 X8 , N8 V15 J20 U17 M14
+prepend remove_first K13 G8 I3 K9 , echo I1 P3 D10 T13 A14 , Y16 D19 D7 Q3
+append prepend remove_first M19 H10 C6 E13 L10 , O18 E18 W9 K13 , T5 S17 C19 F9 , repeat echo I3 L9 P18
+prepend copy append copy append echo remove_first D2 G16 T20 U8 , B16 L11 , B19 O11 R6 , J13 Y9 S5 D6 , remove_first W9 U7 , remove_first F2 K9 V10 , swap_first_last reverse prepend prepend A3 T15 M4 W19 R6 , X6 V18 D20 C14 P4 , swap_first_last append G8 T3 B19 R11 , swap_first_last Q13 Q20 Z20 Z15
+reverse echo shift copy R8 U10 A12 K4
+prepend copy shift append prepend reverse prepend Q9 K4 T19 , shift P18 S3 J12 V17 , D12 M17 J15 , I1 D1 C1 , R9 N17 E12
+prepend remove_first H8 E9 G4 , remove_first remove_second copy N8 X18 K12 , reverse I15 R9 Y4 , H8 X17 U6 V11 I4 , B3 B9 Q1 D20
+swap_first_last shift copy append prepend remove_first reverse H19 G18 U16 , T19 B14 N19 U14 , T14 B2 Z11 K5 , repeat prepend Q17 K9 J4 A2 O7 , prepend N6 P3 K16 J8 , Y8 W9 U4
+remove_second echo remove_first remove_first V5 Y17 R2 , append Q20 P13 E15 K16 Z12 , W7 N20 H20 , C6 T1 Z15 , shift U13 L18 L17 R14 O14
+prepend remove_first T18 T5 X13 , append remove_first I9 P8 Q15 P5 , S11 O17 M12 E1 V10 , S5 H16 O10 V11 P10 , append reverse reverse I19 N7 D6 O20 S7 , append K13 K16 A14 H2 Z12 , P17 L8 N8 M6
+remove_first D16 M19 C12 N20 , echo echo reverse echo shift remove_first repeat K19 F20 X5 W4 A16 , Q2 Z17 L4 U14
+prepend reverse V10 P6 , prepend echo W14 U1 X5 A15 X16 , prepend copy H10 S1 , repeat O17 S2 Y2 Y1 P3
+prepend remove_first D16 W2 U5 , B1 J11 W15 I14 H1 , copy G15 C4 Y15
+reverse prepend remove_first echo shift C8 Y19 Y12 C15 , append S15 L7 T10 , X1 T6 W19 N3 J5 , K13 Q7 J3 Q2 Z15
+prepend remove_first echo remove_second T16 K17 V20 U3 , E10 T8 U10 , Y14 E9 U13 R6 B13 , repeat I7 C19 N4 Z20 T4
+echo remove_first copy prepend H13 E11 L14 T6 K7 , B15 Z1 S17 H1 , append remove_first Z5 T4 X17 Y13 , copy remove_second repeat N18 N8 Z10 Q12 , J20 D18 C15 D20 , remove_second P1 H6 B5 , N15 B16 Z17 P12 C15
+prepend remove_first repeat repeat E12 O14 Q2 , I13 B10 S20 Z14 , U4 B14 V14
+remove_second echo echo remove_first W17 P16 F4 T6 , append V6 D7 B14 C18 J11 , append A8 R17 H4 L2 R8 , H9 V15 N15 , append V7 Y19 Z6 V18 I19 , X15 W17 I4
+prepend remove_first H18 F7 X12 , swap_first_last R17 G1 U19 A4 , copy shift copy repeat C20 Q2 O5 J6
+prepend reverse append reverse V20 D18 O5 , prepend J3 C9 L7 X20 , remove_first shift F7 S8 M15 , J6 N4 W15 F11 , reverse S7 V16 L8 S4
+echo remove_first N3 Y12 , shift T5 U19 L12 D5 G3
+prepend echo echo remove_first shift O13 I1 S1 T13 O9 , remove_second remove_second remove_second shift G7 W13 N6 C12 G9 , prepend F16 U2 N20 R8 , L18 A20 A7 C18 , S11 W13 L1 , R9 F16 C13 W1 , E14 H8 F2 S19
+prepend remove_first repeat E4 W18 U13 Q20 , prepend remove_second remove_first E2 S7 N13 , append J13 F19 D6 , N14 W13 Z7 J1 V2 , Q11 C18 S9 , append V14 P7 G4 R1 Z15 , E5 H9 I6 J5 U19 , G15 X17 M18 B6 Q1
+echo remove_first E11 A18 G14 U17 , shift O11 Q5 Z17 H1 L20
+remove_first swap_first_last prepend G1 U3 , U5 U8 , reverse echo K16 N20 H3 X14
+remove_second shift remove_first copy C7 X17 H20 , prepend remove_first swap_first_last remove_second M9 V18 , echo N19 A19 , remove_first C15 U19 G8 , R6 Y2 , L7 S2 I4 , H8 N20 W11 O13 F1
+prepend reverse copy shift T7 U14 B16 I20 K9 , echo prepend L14 N10 Z15 , shift remove_first J14 R2 B15 , C11 Y18 C11 Q16
+remove_second remove_first F16 D19 A4 X8 , copy Q13 G7 W10 I12 C19 , echo remove_first F2 B14 Z15 U6 , shift shift repeat remove_first U9 Y4 D4 H17 , R8 T17 F2 A7
+shift prepend reverse V18 E17 E2 X5 V15 , prepend O7 X1 L9 A2 , O6 K10 I19
+append K11 O13 A13 , prepend prepend reverse I18 E7 K19 T19 , remove_first remove_first N13 T15 Y1 A5 Y2 , reverse F7 N6 K4 A20 , G3 A5 Y6 Q13 , W14 X10 D1 I9
+remove_first V16 Z18 I10 , shift prepend prepend remove_first E10 Z18 R8 , A7 D10 V6 , L9 G8 T17 , swap_first_last copy prepend M17 K1 S20 Z17 V1 , echo T2 N7 G3 D15
+prepend reverse G7 J17 F15 B17 , remove_first append T11 D16 F3 V17 W20 , remove_first shift M6 D13 , T10 N16 A12 J15 E4 , E2 U13 C4
+prepend remove_first shift Z7 Q11 B8 , remove_first echo E3 X5 Z3 M7 O2 , append remove_first J15 Y15 Z6 , swap_first_last remove_second E3 O4 I10 C9 I10 , prepend U20 U12 I18 H18 , echo prepend remove_second append append V10 W19 F11 W6 , A18 A19 I2 , L6 M15 Q7 F5 A18 , E4 E17 S10 X6 , echo H12 D3 B5 , shift copy I4 W17 D14 , X10 U18 C13
+copy prepend remove_first repeat C20 C12 M8 H4 , L5 C5 L5 Y2 , T5 S10 N19 X10 T1
+shift reverse echo Z13 P12 E12
+echo remove_first J2 I10 E3 W10 A15 , shift X19 Q11 C17 X3
+prepend echo G8 N10 S2 , prepend remove_first S17 J14 K3 T2 E12 , echo I5 K10 N17 Z13 H7 , repeat reverse append repeat copy repeat reverse Q12 J7 N4 , B18 D3
+prepend remove_second J14 Z14 M19 A3 , remove_first remove_first S7 Q7 T15 R1 T5 , remove_first V15 T16 N20 Q8 , H1 U20 N7 O18 D13 , repeat K13 X4 M8 X14 A16 , remove_second X1 V10 T19 O16 D9 , shift prepend reverse Y19 R18 O19 C13 I7 , copy T20 A17 Z10 A5 W7
+remove_first prepend remove_first U20 O10 T12 Y4 I11 , remove_second append W8 H13 X6 , U6 W9 F13 B20 X9 , reverse remove_first reverse E11 U17 H8 N14 T20 , repeat H4 J16 L10 , F15 J9 L10 N18 , repeat echo U13 V5 Y8 F3
+prepend remove_first prepend append Q20 A8 F19 T15 Q10 , repeat T11 R2 , N7 C6 G17 U14 , N20 J13 D1 , copy H4 V20 V17
+swap_first_last append prepend O18 T17 C8 , swap_first_last remove_second Z12 U16 R14 , prepend M17 A20 R20 N18 A19 , prepend prepend remove_first M11 Z20 U11 W12 C16 , T9 W8 F18 , echo shift append X10 E13 A19 R4 A10 , C1 G7 F6 N19 B8 , copy append copy E3 X11 , echo M20 T12 L3 , swap_first_last prepend F1 L20 S2 Z18 R12 , B20 W7
+prepend S9 F13 G12 K4 L18 , prepend remove_first shift remove_first L18 I11 O11 B15 , Y19 S11 V17 Y2 V11 , swap_first_last T16 B1 E17 , swap_first_last N15 O19 M11 U2
+repeat shift echo append repeat G18 I20 X4 F20 , prepend remove_first swap_first_last Q16 S14 C9 G10 U16 , N17 C17 S2 , O4 G3
+prepend S7 N6 H19 , append append Z8 U18 , reverse echo I11 C16 O5 D17 , prepend H1 Y15 C1 , Z2 L2 N19 C8
+prepend remove_first P11 K15 E20 N11 , copy G14 I3 D13 , U8 D12 E8 U5 H17
+echo remove_first swap_first_last reverse prepend I19 B12 S5 , remove_second H15 I12 E8 X10 G9 , N10 X11 D15 K18 B6 , W7 N3 I6 Z1
+copy prepend remove_first T19 U1 I14 A17 D16 , H14 G1 H13 I3 N18 , F7 P1 V1
+prepend reverse repeat copy S11 L13 , swap_first_last E10 B9 L13 U12
+echo remove_first B14 M3 J4 E13 , copy H18 F5 K9 W5
+prepend remove_first remove_second H16 U15 T8 , A14 S3 B8 N14 , K20 Z5 L11 Q14 A11 , H10 A18 I13 D12
+append append copy append prepend remove_first remove_second repeat F6 Z17 R16 U1 , swap_first_last O7 Y6 E14 Z17 T20 , R19 K1 N10 S10 , repeat S7 I4 U17 U15 S3 , G4 S12 Z11 K3 , echo reverse H2 R3 H11 C1 , R10 Z7 N3 R11 K6
+echo remove_first Z8 F19 C3 , repeat echo repeat prepend L13 Q1 , remove_second V20 O7 Z6 , W20 U18 O10 C8 Y15
+copy echo remove_first shift reverse remove_second reverse M11 H11 E4 N17 , Q13 B3 T8 D8 , U15 H1 A17 E15
+prepend remove_first H18 I10 P1 S3 I14 , U10 B14 L6 , echo prepend K14 W1 D15 J2 , Y12 Q7 C17 F15
+shift remove_second reverse append X19 I5 L11 , prepend remove_first P11 Y17 C9 , append N6 P12 B16 T6 , append Q3 V5 R16 , prepend O15 M10 T1 , remove_second V18 C3 R8 O19 L17 , S19 A16 B17 J1 Z16 , E4 J4 P3 , O19 W5 R8 E20 Y17
+prepend remove_first prepend remove_second repeat reverse swap_first_last remove_second append I1 X2 R1 Y6 , remove_second reverse reverse O14 B20 N14 , repeat O4 O4 F10 B18 , X17 K19 C11 , C13 B9 P20 I17 G19 , A1 O1 J10 A13 , U10 T12 O16 V2 T4 , K10 G20 Z2 M15 T1
+remove_second remove_first I11 N10 J18 Z5 , append prepend prepend append prepend reverse copy P16 F17 T20 P12 , remove_first N18 T4 C6 , remove_second T2 H20 K12 , T7 W5 R17 , shift reverse L15 O6 F15 Y20 , I9 Y5 S4 , reverse A3 T14 Q19 R10 , remove_second echo K18 K3 M20 , T5 B18 G2 S11 , H10 E20 M1 E4
+echo append prepend prepend D14 V3 S11 , W4 T7 H2 , swap_first_last echo swap_first_last U12 O8 , prepend echo repeat P18 N18 N5 , remove_first O12 B18 C19 I5 S11 , shift echo remove_first U14 N17 I1 I12 H19 , K18 K3
+prepend remove_first F20 O6 J20 , V14 K8 V4 N13 , append remove_first X14 W7 D13 , F9 J10 , prepend prepend prepend W18 F13 C18 , V16 G17 K18 , remove_first A4 D6 E19 T19 N16 , prepend shift prepend shift D10 S2 D12 B14 , C18 P9 O4 G10 J18 , prepend K15 P16 J8 G15 , prepend D6 Q2 B15 K7 , D18 T10 I19 E16 K1 , D9 C9 O14 V18
+shift prepend remove_first prepend echo swap_first_last G2 F4 S10 C16 X6 , U8 X12 S3 , O16 J1 , prepend Z9 U11 U15 U4 , repeat C13 T12 J8 S6 M10
+append echo remove_first L16 Q12 B7 , E1 X4 R18 X8 L20 , append V1 I3 A13 P9 W14 , O5 Z12 Z19 S10 J9
+prepend reverse shift prepend J5 R13 W1 R10 C2 , K3 V9 K13 X16 , repeat T13 O13 M15 Z20 S9
+echo append reverse Q11 I1 Z20 , swap_first_last swap_first_last prepend remove_first remove_second reverse O12 E7 N6 U16 , M4 Z19 J5 , append H16 F15 N17 G15 G17 , reverse Z14 A4 D10 , B5 Y20 G6 K11
+prepend remove_first W7 H1 J3 , V8 V13 , reverse C6 U1 I4 X14
+remove_first reverse remove_first reverse R8 V4 N19 H4 , prepend remove_first A10 P3 F4 T20 R17 , X13 Y19 I3 , remove_first shift P18 X17 , remove_first reverse swap_first_last V10 X14 P6 , R19 E15 M19 , swap_first_last remove_second swap_first_last G17 O12 A10 , copy G20 T1
+repeat repeat remove_first prepend prepend reverse remove_first M14 V6 I2 , K6 L7 Q17 , prepend copy R6 U16 E7 P12 Q6 , H15 S1 R20 , prepend Q20 C3 L14 , B5 Y10 E15 , append prepend R15 M19 U3 W15 W3 , reverse remove_second E19 T13 O19 N11 E6 , Z1 X3 M11 W12 , T14 E20 K14 L5
+remove_second append L3 H15 D3 , prepend remove_first echo reverse L9 O9 I2 A20 L16 , U5 K1 W4 D9 R17 , K9 H12 L16 N5 , reverse D15 E7 X4 P6 K14
+reverse echo copy prepend D20 M18 Y9 L8 C12 , Z17 O9 X4
+prepend reverse remove_second shift swap_first_last L1 D13 O15 , remove_second prepend F20 H3 , J13 O13 U7 , G3 R9 T13 , remove_second prepend append E15 F4 E17 , U18 U7 R16 E8 D18 , B20 X6 V14 , L11 F10 Q15
+prepend remove_first K6 X1 K17 U18 , shift Y3 T12 , reverse remove_first F19 C9 T4 I3 P3 , A20 B17
+remove_second prepend remove_first remove_second H11 B16 V16 V16 , remove_second I2 L2 K14 U14 Z13 , D7 K3 N5 Z13 , append T12 N16 J2 Q9 V9 , C2 P19 B1 , prepend B3 M6 F2 , R6 P6 A9 V18 X3 , G1 R8 S16 W16 R20
+append append S17 E1 D5 , U7 P4 E13 S4 M5 , shift shift echo remove_second remove_first prepend remove_first append C4 S17 , K1 K17 J19 T20 L14 , L6 Z15 G13 Y1 G11 , X8 S4 D14 K17 , prepend V4 S16 N16 K3 A14 , remove_first swap_first_last Q16 N6 S2 , echo append Y13 E3 I19 , Y6 M1 R19 T15 V12 , echo append append copy swap_first_last C2 Y3 W11 L9 , append R12 O10 D8 I12 , T15 U10 R6 N16 , S9 L4 Z13
+remove_second remove_first K19 U9 F11 X5 , prepend P11 A18 O16 N2 L4 , remove_first copy prepend remove_first A12 P13 H4 Z13 , remove_second X9 R17 B4 , echo prepend F13 Y5 G7 L9 S8 , Z14 D12 G4 , X7 N16 B3 G20 T6 , append W14 N1 F15 G4 Q11 , reverse prepend P9 B5 G1 , G12 C1 I19 O20 I3 , M13 E15 F16
+prepend remove_first echo Q8 J11 J1 A4 , I12 F12 L10 , remove_first copy R3 U20 B18 T15 , B17 E14
+prepend append copy reverse swap_first_last echo repeat echo S3 I13 B10 T15 , remove_first repeat remove_first remove_first echo W6 X3 L18 Y3 , reverse V3 T9 C7 V14 , E3 P20 X7 , repeat M1 O12 V15 F3 G14 , echo prepend remove_first swap_first_last L6 U13 X15 , K1 I2 E16 K11 , shift prepend E20 A10 , E16 Q6 P3 X15
+prepend append repeat reverse echo shift D6 O7 , prepend V6 F9 , append J3 P17 N12 , remove_second D1 S11 Y8 F17 , swap_first_last L1 G11 X10 , C4 J13
+prepend prepend repeat V20 C18 , E16 R17 L6 M5 , prepend reverse reverse F15 Z16 H19 R11 Y2 , I1 F2 B11 W11 H6
+append remove_first D5 J14 I11 R14 , B16 C3 B6 D13 X18 , append append V7 S10 B14 Z7 P14 , swap_first_last prepend swap_first_last K9 X13 G3 A12 F4 , append reverse remove_first prepend reverse M18 Y19 O12 S11 , E15 N12 N13 , echo W13 F17 A13 , prepend P1 V13 U1 , G11 C9 E18 , S5 G7
+repeat append append reverse shift F8 X1 C16 R18 , echo remove_first U19 L3 R16 S4 , I10 W12 R18 O9 , E8 Q16 W11

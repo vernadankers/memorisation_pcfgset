@@ -124,8 +124,9 @@ def count_overgen(tree):
 
 def generate_data(pcfg_tree, total_samples, data_root, random_probs):
     t = pcfg_tree
-    output_file_name = data_root + '.txt'
-    output_file = open(output_file_name, 'w')
+    output_file_name1 = data_root + '.txt'
+    output_file1 = open(output_file_name1, 'w')
+
     inputs, outputs = [], []
     import tqdm
     for i in tqdm.tqdm(range(total_samples)):
@@ -140,20 +141,22 @@ def generate_data(pcfg_tree, total_samples, data_root, random_probs):
             if len(written_tree) >= 500:
                 continue
 
-            t.is_overgen = False
+            t.is_overgen = 0
             output = ' '.join(t.evaluate_tree(tree, written_tree))
-            t.is_overgen = True
+            t.is_overgen = 1
             output2 = ' '.join(t.evaluate_tree(tree, written_tree))
+            t.is_overgen = 2
+            output3 = ' '.join(t.evaluate_tree(tree, written_tree))
 
-            if output != output2 and not "swap_first_last ( repeat" in written_tree \
+            if output != output2 and output != output3 and output2 != output3 and not "swap_first_last ( repeat" in written_tree \
                 and not "append ( remove_second" in written_tree \
                 and not "repeat ( remove_second" in written_tree \
                 and not "append ( swap_first_last" in written_tree and count_overgen(written_tree) == 1:
-                output_file.write(written_tree+ '\t' + output + '\t' + output2 + '\n')
+                output_file1.write(written_tree+ '\t' + output + '\t' + output2 + '\t' + output3 + '\n')
 
         except RecursionError:
             pass
-    return(output_file_name)
+    return(output_file_name1)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -231,7 +234,6 @@ if __name__ == '__main__':
 
         naturalizer.finalize(file=opt_file)
 
-    print(open("sys_overgen.txt.txt").read().count("prepend"))
-    print(open("sys_overgen.txt.txt").read().count("echo"))
+    print(len(open(opt.data_root + ".txt").readlines()))
 
 # python3 generate.py --alphabet_ratio 20 --random_probs --nr_samples 100000 --no_split --data_root 'pcfg_10funcs_520letters_100K' --placeholder_args --naturalize
